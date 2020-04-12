@@ -1,1164 +1,1171 @@
-ID de caso,Fecha de diagn√≥stico,Ciudad de residencia,Localidad de residencia,Edad,Sexo,Tipo de caso,Ubicaci√≥n,Estado
-1,2020-03-06,Bogot√°,01 - Usaqu√©n,19,F,Importado,Casa,Leve
-2,2020-03-10,Bogot√°,10 - Engativ√°,22,F,Importado,Casa,Leve
-3,2020-03-10,Bogot√°,10 - Engativ√°,28,F,Importado,Casa,Leve
-4,2020-03-12,Bogot√°,09 - Fontib√≥n,36,F,Importado,Casa,Leve
-5,2020-03-12,Bogot√°,08 - Kennedy,42,F,Importado,Casa,Leve
-6,2020-03-13,Bogot√°,11 - Suba,61,F,Importado,Casa,Leve
-7,2020-03-13,Bogot√°,10 - Engativ√°,73,F,Importado,Casa,Leve
-8,2020-03-13,Bogot√°,11 - Suba,54,M,Importado,Casa,Leve
-9,2020-03-13,Bogot√°,10 - Engativ√°,54,F,En estudio,Casa,Leve
-10,2020-03-13,Bogot√°,10 - Engativ√°,54,M,Importado,Casa,Leve
-11,2020-03-13,Bogot√°,10 - Engativ√°,37,M,Relacionado,Casa,Leve
-12,2020-03-14,Bogot√°,09 - Fontib√≥n,23,M,Relacionado,Casa,Leve
-13,2020-03-14,Bogot√°,02 - Chapinero,18,F,Importado,Casa,Leve
-14,2020-03-14,Bogot√°,10 - Engativ√°,59,M,Importado,Hospital,Moderado
-15,2020-03-14,Bogot√°,11 - Suba,23,F,Importado,Casa,Leve
-16,2020-03-15,Bogot√°,01 - Usaqu√©n,72,M,Importado,Casa,Leve
-17,2020-03-15,Bogot√°,19 - Ciudad Bol√≠var,45,F,Relacionado,Casa,Leve
-18,2020-03-15,Bogot√°,02 - Chapinero,29,M,Importado,Casa,Leve
-19,2020-03-15,Bogot√°,02 - Chapinero,21,M,Importado,Casa,Leve
-20,2020-03-15,Bogot√°,02 - Chapinero,23,F,Importado,Casa,Leve
-21,2020-03-15,Bogot√°,08 - Kennedy,44,F,Relacionado,Casa,Leve
-22,2020-03-15,Bogot√°,08 - Kennedy,38,M,Relacionado,Casa,Leve
-23,2020-03-15,Bogot√°,01 - Usaqu√©n,31,M,Relacionado,Casa,Leve
-24,2020-03-15,Bogot√°,02 - Chapinero,41,F,Importado,Casa,Leve
-25,2020-03-15,Bogot√°,12 - Barrios Unidos,67,F,Importado,Casa,Leve
-26,2020-03-15,Bogot√°,02 - Chapinero,29,M,Importado,Casa,Leve
-27,2020-03-15,Bogot√°,02 - Chapinero,62,M,Importado,Casa,Leve
-28,2020-03-15,Bogot√°,11 - Suba,42,F,Importado,Hospital,Moderado
-29,2020-03-15,Bogot√°,01 - Usaqu√©n,58,F,Relacionado,Casa,Leve
-30,2020-03-15,Bogot√°,10 - Engativ√°,34,M,Importado,Casa,Leve
-31,2020-03-16,Bogot√°,01 - Usaqu√©n,31,M,Importado,Hospital,Moderado
-32,2020-03-16,Bogot√°,01 - Usaqu√©n,64,M,Relacionado,Casa,Leve
-33,2020-03-17,Bogot√°,02 - Chapinero,40,F,Importado,Casa,Leve
-34,2020-03-17,Bogot√°,02 - Chapinero,22,F,Importado,Casa,Leve
-35,2020-03-17,Bogot√°,02 - Chapinero,21,M,Importado,Casa,Leve
-36,2020-03-17,Bogot√°,02 - Chapinero,72,M,Importado,Hospital UCI,Grave
-37,2020-03-17,Bogot√°,01 - Usaqu√©n,37,F,Importado,Casa,Leve
-38,2020-03-17,Bogot√°,17 - La Candelaria,49,F,Relacionado,Casa,Leve
-39,2020-03-17,Bogot√°,18 - Rafael Uribe Uribe,18,M,Relacionado,Casa,Leve
-40,2020-03-17,Bogot√°,11 - Suba,50,M,Relacionado,Casa,Leve
-41,2020-03-17,Bogot√°,02 - Chapinero,26,F,Importado,Casa,Leve
-42,2020-03-18,Bogot√°,16 - Puente Aranda,53,M,Importado,Casa,Leve
-43,2020-03-18,Bogot√°,01 - Usaqu√©n,69,M,Importado,Hospital UCI,Grave
-44,2020-03-18,Bogot√°,09 - Fontib√≥n,37,F,Importado,Casa,Leve
-45,2020-03-19,Bogot√°,16 - Puente Aranda,54,M,Importado,Casa,Leve
-46,2020-03-19,Bogot√°,09 - Fontib√≥n,62,F,Importado,Casa,Leve
-47,2020-03-19,Bogot√°,01 - Usaqu√©n,60,M,Relacionado,Casa,Leve
-48,2020-03-19,Bogot√°,01 - Usaqu√©n,30,M,Importado,Casa,Leve
-49,2020-03-19,Bogot√°,02 - Chapinero,33,M,Importado,Casa,Leve
-50,2020-03-19,Bogot√°,11 - Suba,49,M,Importado,Casa,Leve
-51,2020-03-19,Bogot√°,09 - Fontib√≥n,29,M,Importado,Casa,Leve
-52,2020-03-19,Bogot√°,11 - Suba,40,F,Relacionado,Casa,Leve
-53,2020-03-19,Bogot√°,10 - Engativ√°,54,M,Importado,Casa,Leve
-54,2020-03-19,Bogot√°,02 - Chapinero,30,M,Importado,Casa,Leve
-55,2020-03-19,Bogot√°,02 - Chapinero,34,M,Importado,Casa,Leve
-56,2020-03-19,Bogot√°,02 - Chapinero,29,F,Importado,Casa,Leve
-57,2020-03-20,Bogot√°,09 - Fontib√≥n,37,M,Importado,Casa,Leve
-58,2020-03-20,Fuera de Bogot√°,21 - Fuera de Bogot√°,31,F,Relacionado,Casa,Leve
-59,2020-03-20,Bogot√°,11 - Suba,32,M,Relacionado,Casa,Leve
-60,2020-03-20,Fuera de Bogot√°,21 - Fuera de Bogot√°,25,F,Relacionado,Casa,Leve
-61,2020-03-20,Bogot√°,13 - Teusaquillo,47,M,Importado,Casa,Leve
-62,2020-03-20,Bogot√°,01 - Usaqu√©n,65,M,Importado,Fallecido,Fallecido
-63,2020-03-20,Bogot√°,16 - Puente Aranda,53,F,En estudio,Fallecido,Fallecido
-64,2020-03-20,Bogot√°,01 - Usaqu√©n,40,M,Importado,Casa,Leve
-65,2020-03-20,Bogot√°,02 - Chapinero,34,M,Importado,Casa,Leve
-66,2020-03-20,Bogot√°,10 - Engativ√°,42,F,Importado,Casa,Leve
-67,2020-03-20,Bogot√°,11 - Suba,22,F,Importado,Casa,Leve
-68,2020-03-20,Bogot√°,11 - Suba,25,M,Importado,Casa,Leve
-69,2020-03-20,Bogot√°,11 - Suba,28,M,En estudio,Hospital UCI,Grave
-70,2020-03-20,Bogot√°,01 - Usaqu√©n,67,F,Importado,Casa,Leve
-71,2020-03-20,Bogot√°,09 - Fontib√≥n,32,F,Relacionado,Casa,Leve
-72,2020-03-20,Bogot√°,11 - Suba,45,F,En estudio,Casa,Leve
-73,2020-03-20,Bogot√°,10 - Engativ√°,46,F,Relacionado,Casa,Leve
-74,2020-03-20,Bogot√°,06 - Tunjuelito,25,F,Importado,Hospital,Moderado
-75,2020-03-20,Bogot√°,10 - Engativ√°,42,F,Relacionado,Hospital,Moderado
-76,2020-03-20,Bogot√°,01 - Usaqu√©n,45,F,Importado,Casa,Leve
-77,2020-03-20,Bogot√°,10 - Engativ√°,21,F,Relacionado,Casa,Leve
-78,2020-03-20,Bogot√°,10 - Engativ√°,27,M,En estudio,Casa,Leve
-79,2020-03-20,Bogot√°,13 - Teusaquillo,65,F,Importado,Casa,Leve
-80,2020-03-20,Bogot√°,13 - Teusaquillo,70,M,Importado,Casa,Leve
-81,2020-03-20,Bogot√°,09 - Fontib√≥n,23,F,Importado,Casa,Leve
-82,2020-03-20,Bogot√°,01 - Usaqu√©n,28,M,Relacionado,Casa,Leve
-83,2020-03-20,Bogot√°,01 - Usaqu√©n,60,F,Importado,Casa,Leve
-84,2020-03-20,Bogot√°,01 - Usaqu√©n,41,M,Importado,Hospital UCI,Grave
-85,2020-03-20,Bogot√°,09 - Fontib√≥n,41,M,Importado,Casa,Leve
-86,2020-03-21,Bogot√°,01 - Usaqu√©n,62,M,Importado,Casa,Leve
-87,2020-03-21,Bogot√°,13 - Teusaquillo,68,F,Importado,Casa,Leve
-88,2020-03-21,Fuera de Bogot√°,11 - Suba,64,M,En estudio,Casa,Leve
-89,2020-03-21,Bogot√°,07 - Bosa,41,M,Relacionado,Casa,Leve
-90,2020-03-21,Fuera de Bogot√°,21 - Fuera de Bogot√°,47,M,Importado,Hospital,Moderado
-91,2020-03-21,Bogot√°,06 - Tunjuelito,32,F,En estudio,Casa,Leve
-92,2020-03-22,Bogot√°,11 - Suba,59,F,En estudio,Fallecido,Fallecido
-93,2020-03-22,Bogot√°,11 - Suba,58,F,Relacionado,Hospital,Moderado
-94,2020-03-22,Bogot√°,05 - Usme,40,M,Importado,Casa,Leve
-95,2020-03-22,Bogot√°,11 - Suba,52,M,Importado,Casa,Leve
-96,2020-03-22,Bogot√°,09 - Fontib√≥n,49,M,Importado,Casa,Leve
-97,2020-03-22,Bogot√°,11 - Suba,28,M,En estudio,Casa,Leve
-98,2020-03-22,Bogot√°,09 - Fontib√≥n,26,M,Relacionado,Casa,Leve
-99,2020-03-22,Bogot√°,08 - Kennedy,30,F,Importado,Casa,Leve
-100,2020-03-22,Bogot√°,09 - Fontib√≥n,72,F,Importado,Casa,Leve
-101,2020-03-22,Bogot√°,13 - Teusaquillo,45,F,Importado,Casa,Leve
-102,2020-03-22,Bogot√°,01 - Usaqu√©n,38,F,Importado,Casa,Leve
-103,2020-03-22,Bogot√°,08 - Kennedy,34,F,En estudio,Casa,Leve
-104,2020-03-22,Bogot√°,02 - Chapinero,55,M,Importado,Casa,Leve
-105,2020-03-22,Bogot√°,01 - Usaqu√©n,57,F,Importado,Casa,Leve
-106,2020-03-22,Bogot√°,01 - Usaqu√©n,26,M,Importado,Casa,Leve
-107,2020-03-22,Bogot√°,02 - Chapinero,80,M,Relacionado,Casa,Leve
-108,2020-03-22,Bogot√°,01 - Usaqu√©n,19,F,Importado,Casa,Leve
-109,2020-03-22,Bogot√°,11 - Suba,35,M,Importado,Casa,Leve
-110,2020-03-22,Bogot√°,03 - Santa Fe,39,M,Importado,Casa,Leve
-111,2020-03-22,Bogot√°,09 - Fontib√≥n,31,M,Importado,Casa,Leve
-112,2020-03-22,Bogot√°,11 - Suba,40,F,Desconocido,Casa,Leve
-113,2020-03-22,Bogot√°,11 - Suba,18,F,Desconocido,Casa,Leve
-114,2020-03-23,Bogot√°,08 - Kennedy,76,M,En estudio,Fallecido,Fallecido
-115,2020-03-23,Bogot√°,01 - Usaqu√©n,61,M,En estudio,Fallecido,Fallecido
-116,2020-03-23,Bogot√°,12 - Barrios Unidos,21,F,Desconocido,Casa,Leve
-117,2020-03-23,Bogot√°,02 - Chapinero,59,M,Importado,Casa,Leve
-118,2020-03-23,Bogot√°,11 - Suba,28,F,Importado,Casa,Leve
-119,2020-03-23,Bogot√°,13 - Teusaquillo,48,F,En estudio,Casa,Leve
-120,2020-03-23,Bogot√°,11 - Suba,50,M,Importado,Casa,Leve
-121,2020-03-24,Bogot√°,10 - Engativ√°,23,F,Relacionado,Casa,Leve
-122,2020-03-24,Bogot√°,10 - Engativ√°,34,F,Relacionado,Casa,Leve
-123,2020-03-24,Bogot√°,02 - Chapinero,48,F,Importado,Casa,Leve
-124,2020-03-24,Bogot√°,02 - Chapinero,61,M,Importado,Casa,Leve
-125,2020-03-24,Bogot√°,02 - Chapinero,58,F,Importado,Casa,Leve
-126,2020-03-24,Bogot√°,02 - Chapinero,63,M,Relacionado,Casa,Leve
-127,2020-03-24,Bogot√°,11 - Suba,59,M,Importado,Hospital,Moderado
-128,2020-03-24,Bogot√°,09 - Fontib√≥n,51,M,Importado,Hospital,Moderado
-129,2020-03-24,Bogot√°,01 - Usaqu√©n,29,M,Importado,Casa,Leve
-130,2020-03-24,Bogot√°,01 - Usaqu√©n,43,F,Desconocido,Casa,Leve
-131,2020-03-24,Bogot√°,11 - Suba,73,M,Relacionado,Fallecido,Fallecido
-132,2020-03-24,Bogot√°,11 - Suba,74,F,Relacionado,Casa,Leve
-133,2020-03-24,Bogot√°,13 - Teusaquillo,45,F,Importado,Casa,Leve
-134,2020-03-24,Bogot√°,01 - Usaqu√©n,34,M,Importado,Casa,Leve
-135,2020-03-24,Bogot√°,01 - Usaqu√©n,45,M,Relacionado,Casa,Leve
-136,2020-03-24,Bogot√°,01 - Usaqu√©n,48,M,Relacionado,Casa,Leve
-137,2020-03-24,Bogot√°,01 - Usaqu√©n,66,M,Importado,Hospital,Moderado
-138,2020-03-24,Bogot√°,11 - Suba,44,F,Importado,Casa,Leve
-139,2020-03-24,Bogot√°,10 - Engativ√°,51,F,En estudio,Casa,Leve
-140,2020-03-24,Bogot√°,10 - Engativ√°,27,F,Relacionado,Casa,Leve
-141,2020-03-24,Bogot√°,02 - Chapinero,21,M,Importado,Casa,Leve
-142,2020-03-24,Bogot√°,02 - Chapinero,60,F,Importado,Casa,Leve
-143,2020-03-24,Bogot√°,16 - Puente Aranda,70,F,Importado,Hospital,Moderado
-144,2020-03-24,Bogot√°,11 - Suba,30,F,Importado,Casa,Leve
-145,2020-03-24,Bogot√°,01 - Usaqu√©n,21,M,Importado,Casa,Leve
-146,2020-03-24,Bogot√°,09 - Fontib√≥n,58,M,Importado,Casa,Leve
-147,2020-03-24,Bogot√°,02 - Chapinero,25,M,Importado,Casa,Leve
-148,2020-03-24,Bogot√°,02 - Chapinero,25,F,Importado,Casa,Leve
-149,2020-03-24,Bogot√°,01 - Usaqu√©n,45,M,Importado,Casa,Leve
-150,2020-03-24,Bogot√°,01 - Usaqu√©n,33,F,Importado,Casa,Leve
-151,2020-03-24,Bogot√°,17 - La Candelaria,43,F,Relacionado,Casa,Leve
-152,2020-03-24,Bogot√°,17 - La Candelaria,63,M,Relacionado,Casa,Leve
-153,2020-03-24,Bogot√°,01 - Usaqu√©n,57,F,Relacionado,Hospital UCI,Grave
-154,2020-03-24,Bogot√°,01 - Usaqu√©n,23,F,Importado,Casa,Leve
-155,2020-03-24,Bogot√°,11 - Suba,48,M,Importado,Casa,Leve
-156,2020-03-24,Bogot√°,11 - Suba,62,M,Desconocido,Hospital UCI,Grave
-157,2020-03-24,Bogot√°,10 - Engativ√°,35,M,Desconocido,Casa,Leve
-158,2020-03-24,Bogot√°,08 - Kennedy,69,F,Desconocido,Casa,Leve
-159,2020-03-24,Bogot√°,09 - Fontib√≥n,52,F,Relacionado,Casa,Leve
-160,2020-03-24,Bogot√°,13 - Teusaquillo,35,M,Importado,Casa,Leve
-161,2020-03-24,Bogot√°,11 - Suba,19,F,Importado,Casa,Leve
-162,2020-03-24,Bogot√°,08 - Kennedy,40,F,En estudio,Casa,Leve
-163,2020-03-24,Bogot√°,11 - Suba,33,F,En estudio,Casa,Leve
-164,2020-03-24,Bogot√°,13 - Teusaquillo,37,F,Importado,Casa,Leve
-165,2020-03-24,Bogot√°,13 - Teusaquillo,41,M,Importado,Casa,Leve
-166,2020-03-24,Fuera de Bogot√°,21 - Fuera de Bogot√°,30,F,Importado,Casa,Leve
-167,2020-03-24,Bogot√°,10 - Engativ√°,84,F,En estudio,Hospital,Moderado
-168,2020-03-24,Bogot√°,10 - Engativ√°,61,F,En estudio,Casa,Leve
-169,2020-03-24,Bogot√°,01 - Usaqu√©n,57,F,Importado,Casa,Leve
-170,2020-03-24,Bogot√°,10 - Engativ√°,42,M,En estudio,Hospital,Moderado
-171,2020-03-24,Bogot√°,13 - Teusaquillo,39,M,Relacionado,Casa,Leve
-172,2020-03-24,Bogot√°,10 - Engativ√°,35,M,Importado,Casa,Leve
-173,2020-03-24,Bogot√°,02 - Chapinero,31,F,Importado,Casa,Leve
-174,2020-03-24,Bogot√°,01 - Usaqu√©n,44,F,Importado,Casa,Leve
-175,2020-03-24,Bogot√°,15 - Antonio Nari√±o,17,F,Desconocido,Casa,Leve
-176,2020-03-24,Bogot√°,13 - Teusaquillo,39,F,Importado,Casa,Leve
-177,2020-03-24,Bogot√°,09 - Fontib√≥n,30,F,En estudio,Casa,Leve
-178,2020-03-24,Bogot√°,10 - Engativ√°,56,M,Desconocido,Casa,Leve
-179,2020-03-25,Bogot√°,09 - Fontib√≥n,40,M,En estudio,Casa,Leve
-180,2020-03-25,Bogot√°,13 - Teusaquillo,55,F,En estudio,Casa,Leve
-181,2020-03-25,Bogot√°,06 - Tunjuelito,35,F,En estudio,Casa,Leve
-182,2020-03-25,Bogot√°,13 - Teusaquillo,50,F,Importado,Casa,Leve
-183,2020-03-25,Fuera de Bogot√°,13 - Teusaquillo,43,F,En estudio,Casa,Leve
-184,2020-03-25,Fuera de Bogot√°,21 - Fuera de Bogot√°,34,F,En estudio,Casa,Leve
-185,2020-03-25,Bogot√°,11 - Suba,51,M,Desconocido,Casa,Leve
-186,2020-03-25,Bogot√°,13 - Teusaquillo,39,M,En estudio,Casa,Leve
-187,2020-03-25,Fuera de Bogot√°,13 - Teusaquillo,30,M,En estudio,Casa,Leve
-188,2020-03-25,Bogot√°,11 - Suba,43,M,En estudio,Casa,Leve
-189,2020-03-26,Bogot√°,13 - Teusaquillo,22,M,Importado,Casa,Leve
-190,2020-03-26,Bogot√°,13 - Teusaquillo,37,F,Importado,Casa,Leve
-191,2020-03-26,Fuera de Bogot√°,02 - Chapinero,85,M,Importado,Hospital UCI,Grave
-192,2020-03-26,Bogot√°,02 - Chapinero,65,M,En estudio,Casa,Leve
-193,2020-03-26,Bogot√°,01 - Usaqu√©n,23,F,Desconocido,Casa,Leve
-194,2020-03-26,Bogot√°,09 - Fontib√≥n,35,M,Importado,Casa,Leve
-195,2020-03-26,Bogot√°,09 - Fontib√≥n,32,F,Importado,Casa,Leve
-196,2020-03-26,Bogot√°,08 - Kennedy,34,M,Importado,Casa,Leve
-197,2020-03-26,Bogot√°,11 - Suba,48,M,Importado,Casa,Leve
-198,2020-03-26,Fuera de Bogot√°,07 - Bosa,42,F,Importado,Hospital,Moderado
-199,2020-03-26,Bogot√°,08 - Kennedy,28,F,Importado,Casa,Leve
-200,2020-03-26,Bogot√°,16 - Puente Aranda,28,M,En estudio,Casa,Leve
-201,2020-03-26,Bogot√°,07 - Bosa,31,M,En estudio,Casa,Leve
-202,2020-03-26,Bogot√°,09 - Fontib√≥n,50,M,Importado,Casa,Leve
-203,2020-03-26,Bogot√°,19 - Ciudad Bol√≠var,27,M,Importado,Casa,Leve
-204,2020-03-26,Bogot√°,09 - Fontib√≥n,52,M,Importado,Casa,Leve
-205,2020-03-26,Bogot√°,11 - Suba,47,F,Importado,Casa,Leve
-206,2020-03-26,Bogot√°,02 - Chapinero,35,M,Importado,Casa,Leve
-207,2020-03-26,Bogot√°,09 - Fontib√≥n,37,M,Desconocido,Casa,Leve
-208,2020-03-26,Bogot√°,08 - Kennedy,72,M,Desconocido,Fallecido,Fallecido
-209,2020-03-26,Bogot√°,08 - Kennedy,74,F,Desconocido,Hospital,Moderado
-210,2020-03-26,Bogot√°,08 - Kennedy,35,M,Importado,Casa,Leve
-211,2020-03-26,Bogot√°,13 - Teusaquillo,71,M,Desconocido,Casa,Leve
-212,2020-03-26,Bogot√°,12 - Barrios Unidos,71,M,En estudio,Fallecido,Fallecido
-213,2020-03-26,Bogot√°,11 - Suba,50,M,Importado,Casa,Leve
-214,2020-03-26,Bogot√°,12 - Barrios Unidos,80,M,Importado,Casa,Leve
-215,2020-03-26,Bogot√°,10 - Engativ√°,30,F,En estudio,Casa,Leve
-216,2020-03-26,Bogot√°,10 - Engativ√°,24,F,Relacionado,Casa,Leve
-217,2020-03-26,Bogot√°,10 - Engativ√°,20,M,Relacionado,Casa,Leve
-218,2020-03-26,Bogot√°,10 - Engativ√°,47,M,Relacionado,Casa,Leve
-219,2020-03-26,Bogot√°,10 - Engativ√°,26,M,Relacionado,Casa,Leve
-220,2020-03-26,Bogot√°,10 - Engativ√°,24,F,Relacionado,Casa,Leve
-221,2020-03-26,Fuera de Bogot√°,21 - Fuera de Bogot√°,62,F,Importado,Casa,Leve
-222,2020-03-26,Bogot√°,01 - Usaqu√©n,37,M,Importado,Casa,Leve
-223,2020-03-26,Bogot√°,11 - Suba,32,M,Importado,Casa,Leve
-224,2020-03-26,Bogot√°,13 - Teusaquillo,36,F,Relacionado,Casa,Leve
-225,2020-03-26,Bogot√°,11 - Suba,84,M,Desconocido,Fallecido,Fallecido
-226,2020-03-26,Bogot√°,15 - Antonio Nari√±o,56,F,En estudio,Casa,Leve
-227,2020-03-26,Fuera de Bogot√°,07 - Bosa,33,F,Relacionado,Casa,Leve
-228,2020-03-26,Bogot√°,11 - Suba,51,M,En estudio,Casa,Leve
-229,2020-03-26,Bogot√°,11 - Suba,29,M,Desconocido,Casa,Leve
-230,2020-03-26,Bogot√°,01 - Usaqu√©n,40,M,Relacionado,Casa,Leve
-231,2020-03-26,Bogot√°,01 - Usaqu√©n,33,M,Importado,Casa,Leve
-232,2020-03-26,Fuera de Bogot√°,02 - Chapinero,42,M,Desconocido,Casa,Leve
-233,2020-03-26,Bogot√°,16 - Puente Aranda,39,M,Importado,Casa,Leve
-234,2020-03-26,Bogot√°,16 - Puente Aranda,43,M,Importado,Casa,Leve
-235,2020-03-26,Bogot√°,07 - Bosa,82,F,Desconocido,Casa,Leve
-236,2020-03-26,Bogot√°,11 - Suba,41,M,Importado,Casa,Leve
-237,2020-03-26,Bogot√°,02 - Chapinero,53,M,Relacionado,Casa,Leve
-238,2020-03-26,Bogot√°,18 - Rafael Uribe Uribe,55,F,En estudio,Hospital UCI,Grave
-239,2020-03-26,Bogot√°,10 - Engativ√°,49,M,Desconocido,Hospital UCI,Grave
-240,2020-03-26,Bogot√°,10 - Engativ√°,58,F,Relacionado,Casa,Leve
-241,2020-03-26,Bogot√°,05 - Usme,38,F,En estudio,Casa,Leve
-242,2020-03-26,Bogot√°,07 - Bosa,31,F,En estudio,Casa,Leve
-243,2020-03-26,Bogot√°,12 - Barrios Unidos,64,F,En estudio,Casa,Leve
-244,2020-03-26,Bogot√°,09 - Fontib√≥n,33,F,Relacionado,Casa,Leve
-245,2020-03-26,Bogot√°,07 - Bosa,35,M,Relacionado,Casa,Leve
-246,2020-03-26,Bogot√°,03 - Santa Fe,43,M,En estudio,Casa,Leve
-247,2020-03-26,Bogot√°,11 - Suba,30,M,Relacionado,Casa,Leve
-248,2020-03-26,Bogot√°,07 - Bosa,54,M,Desconocido,Casa,Leve
-249,2020-03-26,Bogot√°,11 - Suba,53,F,En estudio,Casa,Leve
-250,2020-03-26,Bogot√°,10 - Engativ√°,38,F,Importado,Casa,Leve
-251,2020-03-26,Bogot√°,08 - Kennedy,30,M,Relacionado,Hospital,Moderado
-252,2020-03-26,Bogot√°,13 - Teusaquillo,38,M,Importado,Casa,Leve
-253,2020-03-26,Bogot√°,01 - Usaqu√©n,33,F,Relacionado,Casa,Leve
-254,2020-03-26,Bogot√°,11 - Suba,67,F,Importado,Hospital UCI,Grave
-255,2020-03-26,Fuera de Bogot√°,03 - Santa Fe,39,M,Relacionado,Casa,Leve
-256,2020-03-26,Bogot√°,06 - Tunjuelito,25,M,En estudio,Casa,Leve
-257,2020-03-26,Bogot√°,11 - Suba,42,F,Importado,Casa,Leve
-258,2020-03-26,Bogot√°,09 - Fontib√≥n,62,F,Importado,Casa,Leve
-259,2020-03-26,Bogot√°,08 - Kennedy,38,M,En estudio,Casa,Leve
-260,2020-03-26,Bogot√°,01 - Usaqu√©n,45,F,En estudio,Casa,Leve
-261,2020-03-26,Bogot√°,11 - Suba,50,M,Desconocido,Hospital,Moderado
-262,2020-03-26,Fuera de Bogot√°,21 - Fuera de Bogot√°,48,M,Desconocido,Casa,Leve
-263,2020-03-26,Bogot√°,03 - Santa Fe,32,M,En estudio,Hospital,Moderado
-264,2020-03-26,Bogot√°,01 - Usaqu√©n,26,M,Importado,Casa,Leve
-265,2020-03-26,Bogot√°,01 - Usaqu√©n,47,F,Desconocido,Casa,Leve
-266,2020-03-26,Bogot√°,02 - Chapinero,38,M,Importado,Casa,Leve
-267,2020-03-26,Bogot√°,01 - Usaqu√©n,39,F,En estudio,Casa,Leve
-268,2020-03-26,Bogot√°,10 - Engativ√°,24,M,Importado,Casa,Leve
-269,2020-03-27,Bogot√°,11 - Suba,48,F,Desconocido,Fallecido,Fallecido
-270,2020-03-27,Bogot√°,18 - Rafael Uribe Uribe,57,F,Desconocido,Fallecido,Fallecido
-271,2020-03-27,Bogot√°,10 - Engativ√°,31,F,Importado,Casa,Leve
-272,2020-03-27,Bogot√°,10 - Engativ√°,38,M,Relacionado,Casa,Leve
-273,2020-03-27,Bogot√°,01 - Usaqu√©n,37,M,Importado,Casa,Leve
-274,2020-03-27,Bogot√°,11 - Suba,68,F,Importado,Hospital,Moderado
-275,2020-03-27,Fuera de Bogot√°,12 - Barrios Unidos,26,M,En estudio,Casa,Leve
-276,2020-03-27,Bogot√°,10 - Engativ√°,62,M,Relacionado,Casa,Leve
-277,2020-03-27,Bogot√°,01 - Usaqu√©n,30,M,Desconocido,Casa,Leve
-278,2020-03-27,Bogot√°,01 - Usaqu√©n,37,M,Importado,Casa,Leve
-279,2020-03-27,Bogot√°,13 - Teusaquillo,50,F,Importado,Casa,Leve
-280,2020-03-27,Bogot√°,01 - Usaqu√©n,45,M,Importado,Casa,Leve
-281,2020-03-27,Bogot√°,01 - Usaqu√©n,42,F,En estudio,Casa,Leve
-282,2020-03-27,Bogot√°,01 - Usaqu√©n,42,F,En estudio,Casa,Leve
-283,2020-03-27,Bogot√°,10 - Engativ√°,62,M,Importado,Hospital UCI,Grave
-284,2020-03-27,Bogot√°,11 - Suba,50,F,Importado,Casa,Leve
-285,2020-03-27,Bogot√°,02 - Chapinero,29,M,En estudio,Casa,Leve
-286,2020-03-27,Bogot√°,02 - Chapinero,69,F,Importado,Casa,Leve
-287,2020-03-27,Bogot√°,10 - Engativ√°,52,M,En estudio,Casa,Leve
-288,2020-03-27,Bogot√°,08 - Kennedy,58,F,Importado,Hospital UCI,Grave
-289,2020-03-27,Bogot√°,11 - Suba,46,M,En estudio,Casa,Leve
-290,2020-03-27,Bogot√°,10 - Engativ√°,26,F,En estudio,Casa,Leve
-291,2020-03-27,Bogot√°,01 - Usaqu√©n,38,M,En estudio,Casa,Leve
-292,2020-03-27,Bogot√°,01 - Usaqu√©n,22,F,Importado,Casa,Leve
-293,2020-03-27,Bogot√°,10 - Engativ√°,33,M,Importado,Casa,Leve
-294,2020-03-27,Bogot√°,10 - Engativ√°,34,F,Importado,Casa,Leve
-295,2020-03-27,Bogot√°,02 - Chapinero,28,F,Importado,Casa,Leve
-296,2020-03-27,Bogot√°,01 - Usaqu√©n,31,M,Desconocido,Casa,Leve
-297,2020-03-27,Bogot√°,08 - Kennedy,49,M,En estudio,Hospital UCI,Grave
-298,2020-03-27,Bogot√°,06 - Tunjuelito,32,M,En estudio,Casa,Leve
-299,2020-03-27,Bogot√°,10 - Engativ√°,23,F,Importado,Casa,Leve
-300,2020-03-27,Bogot√°,17 - La Candelaria,30,F,En estudio,Casa,Leve
-301,2020-03-27,Bogot√°,08 - Kennedy,54,M,En estudio,Casa,Leve
-302,2020-03-28,Bogot√°,08 - Kennedy,57,M,En estudio,Hospital,Moderado
-303,2020-03-28,Bogot√°,01 - Usaqu√©n,68,F,Importado,Casa,Leve
-304,2020-03-28,Bogot√°,16 - Puente Aranda,45,F,En estudio,Casa,Leve
-305,2020-03-28,Bogot√°,10 - Engativ√°,29,M,En estudio,Casa,Leve
-306,2020-03-28,Bogot√°,11 - Suba,70,M,En estudio,Casa,Leve
-307,2020-03-28,Bogot√°,11 - Suba,60,F,En estudio,Casa,Leve
-308,2020-03-28,Bogot√°,08 - Kennedy,68,M,Desconocido,Hospital,Moderado
-309,2020-03-28,Bogot√°,01 - Usaqu√©n,25,F,Importado,Casa,Leve
-310,2020-03-28,Bogot√°,11 - Suba,42,F,En estudio,Casa,Leve
-311,2020-03-28,Bogot√°,05 - Usme,51,M,Importado,Casa,Leve
-312,2020-03-28,Bogot√°,11 - Suba,65,M,En estudio,Casa,Leve
-313,2020-03-28,Bogot√°,01 - Usaqu√©n,23,M,Importado,Hospital,Moderado
-314,2020-03-28,Bogot√°,11 - Suba,50,M,Importado,Casa,Leve
-315,2020-03-28,Bogot√°,01 - Usaqu√©n,61,M,Importado,Casa,Leve
-316,2020-03-28,Bogot√°,01 - Usaqu√©n,61,F,Importado,Casa,Leve
-317,2020-03-28,Bogot√°,08 - Kennedy,73,M,Relacionado,Casa,Leve
-318,2020-03-28,Bogot√°,08 - Kennedy,51,F,Relacionado,Casa,Leve
-319,2020-03-28,Bogot√°,10 - Engativ√°,28,M,Desconocido,Casa,Leve
-320,2020-03-28,Bogot√°,11 - Suba,74,M,Importado,Casa,Leve
-321,2020-03-28,Bogot√°,09 - Fontib√≥n,29,M,Importado,Casa,Leve
-322,2020-03-28,Bogot√°,11 - Suba,51,F,Desconocido,Hospital,Moderado
-323,2020-03-28,Bogot√°,19 - Ciudad Bol√≠var,21,F,Relacionado,Casa,Leve
-324,2020-03-28,Bogot√°,11 - Suba,57,M,Importado,Casa,Leve
-325,2020-03-28,Bogot√°,01 - Usaqu√©n,61,F,Desconocido,Hospital UCI,Grave
-326,2020-03-28,Bogot√°,09 - Fontib√≥n,35,M,Importado,Casa,Leve
-327,2020-03-28,Bogot√°,13 - Teusaquillo,30,M,En estudio,Casa,Leve
-328,2020-03-28,Bogot√°,08 - Kennedy,31,F,Importado,Casa,Leve
-329,2020-03-28,Bogot√°,08 - Kennedy,46,M,Desconocido,Casa,Leve
-330,2020-03-28,Bogot√°,13 - Teusaquillo,84,M,Importado,Casa,Leve
-331,2020-03-28,Bogot√°,01 - Usaqu√©n,47,F,Desconocido,Hospital,Moderado
-332,2020-03-28,Bogot√°,09 - Fontib√≥n,65,M,Importado,Casa,Leve
-333,2020-03-28,Bogot√°,11 - Suba,33,F,Importado,Casa,Leve
-334,2020-03-28,Bogot√°,07 - Bosa,44,M,Desconocido,Hospital UCI,Grave
-335,2020-03-28,Bogot√°,08 - Kennedy,30,F,Relacionado,Casa,Leve
-336,2020-03-28,Bogot√°,10 - Engativ√°,27,F,Desconocido,Casa,Leve
-337,2020-03-28,Bogot√°,11 - Suba,35,M,Importado,Casa,Leve
-338,2020-03-28,Bogot√°,02 - Chapinero,36,M,Desconocido,Casa,Leve
-339,2020-03-28,Bogot√°,04 - San Crist√≥bal,28,M,Importado,Casa,Leve
-340,2020-03-28,Bogot√°,10 - Engativ√°,25,F,Relacionado,Casa,Leve
-341,2020-03-28,Bogot√°,10 - Engativ√°,47,F,Relacionado,Casa,Leve
-342,2020-03-28,Bogot√°,10 - Engativ√°,2,F,Relacionado,Casa,Leve
-343,2020-03-28,Bogot√°,11 - Suba,64,F,Desconocido,Hospital UCI,Grave
-344,2020-03-28,Bogot√°,02 - Chapinero,51,M,Importado,Casa,Leve
-345,2020-03-28,Bogot√°,10 - Engativ√°,2,F,En estudio,Casa,Leve
-346,2020-03-28,Bogot√°,01 - Usaqu√©n,50,M,Importado,Casa,Leve
-347,2020-03-28,Bogot√°,11 - Suba,15,F,Importado,Casa,Leve
-348,2020-03-28,Bogot√°,11 - Suba,32,M,En estudio,Hospital UCI,Grave
-349,2020-03-28,Bogot√°,01 - Usaqu√©n,58,F,Importado,Casa,Leve
-350,2020-03-28,Bogot√°,08 - Kennedy,56,F,En estudio,Casa,Leve
-351,2020-03-28,Bogot√°,01 - Usaqu√©n,29,M,Importado,Casa,Leve
-352,2020-03-28,Bogot√°,13 - Teusaquillo,56,M,En estudio,Casa,Leve
-353,2020-03-28,Bogot√°,13 - Teusaquillo,41,M,En estudio,Casa,Leve
-354,2020-03-28,Bogot√°,13 - Teusaquillo,55,M,Importado,Hospital UCI,Grave
-355,2020-03-29,Bogot√°,02 - Chapinero,36,F,Importado,Casa,Leve
-356,2020-03-29,Bogot√°,18 - Rafael Uribe Uribe,29,F,En estudio,Casa,Leve
-357,2020-03-29,Bogot√°,13 - Teusaquillo,34,M,En estudio,Casa,Leve
-358,2020-03-29,Bogot√°,13 - Teusaquillo,30,M,En estudio,Casa,Leve
-359,2020-03-29,Bogot√°,18 - Rafael Uribe Uribe,38,M,Desconocido,Casa,Leve
-360,2020-03-29,Bogot√°,01 - Usaqu√©n,75,F,Desconocido,Hospital UCI,Grave
-361,2020-03-29,Bogot√°,11 - Suba,27,M,Desconocido,Casa,Leve
-362,2020-03-29,Bogot√°,07 - Bosa,51,F,Importado,Casa,Leve
-363,2020-03-29,Bogot√°,09 - Fontib√≥n,54,F,Relacionado,Casa,Leve
-364,2020-03-29,Bogot√°,16 - Puente Aranda,52,M,Desconocido,Casa,Leve
-365,2020-03-29,Bogot√°,01 - Usaqu√©n,33,F,Importado,Casa,Leve
-366,2020-03-29,Bogot√°,11 - Suba,38,M,Importado,Casa,Leve
-367,2020-03-29,Bogot√°,11 - Suba,38,F,Importado,Casa,Leve
-368,2020-03-29,Bogot√°,11 - Suba,31,M,Importado,Casa,Leve
-369,2020-03-29,Bogot√°,09 - Fontib√≥n,72,F,Importado,Fallecido,Fallecido
-370,2020-03-29,Bogot√°,12 - Barrios Unidos,51,M,Relacionado,Casa,Leve
-371,2020-03-29,Bogot√°,12 - Barrios Unidos,2,M,Relacionado,Casa,Leve
-372,2020-03-29,Bogot√°,12 - Barrios Unidos,47,F,Relacionado,Casa,Leve
-373,2020-03-29,Bogot√°,08 - Kennedy,50,M,En estudio,Hospital,Moderado
-374,2020-03-29,Bogot√°,02 - Chapinero,69,M,Relacionado,Casa,Leve
-375,2020-03-29,Bogot√°,13 - Teusaquillo,30,M,Importado,Casa,Leve
-376,2020-03-29,Bogot√°,01 - Usaqu√©n,27,M,En estudio,Casa,Leve
-377,2020-03-29,Bogot√°,08 - Kennedy,66,F,En estudio,Hospital UCI,Grave
-378,2020-03-29,Bogot√°,11 - Suba,45,M,En estudio,Casa,Leve
-379,2020-03-29,Bogot√°,11 - Suba,40,F,Importado,Casa,Leve
-380,2020-03-29,Bogot√°,11 - Suba,55,F,En estudio,Hospital,Moderado
-381,2020-03-29,Bogot√°,11 - Suba,20,F,Importado,Casa,Leve
-382,2020-03-29,Bogot√°,10 - Engativ√°,2,M,Relacionado,Casa,Leve
-383,2020-03-29,Bogot√°,11 - Suba,37,M,Importado,Casa,Leve
-384,2020-03-29,Bogot√°,10 - Engativ√°,29,F,Desconocido,Casa,Leve
-385,2020-03-29,Bogot√°,10 - Engativ√°,38,M,Importado,Casa,Leve
-386,2020-03-29,Bogot√°,08 - Kennedy,54,F,Importado,Casa,Leve
-387,2020-03-29,Bogot√°,06 - Tunjuelito,30,F,Desconocido,Casa,Leve
-388,2020-03-29,Bogot√°,11 - Suba,44,F,Desconocido,Casa,Leve
-389,2020-03-29,Bogot√°,11 - Suba,63,M,Desconocido,Casa,Leve
-390,2020-03-29,Bogot√°,11 - Suba,15,F,En estudio,Casa,Leve
-391,2020-03-29,Bogot√°,10 - Engativ√°,39,F,Desconocido,Casa,Leve
-392,2020-03-29,Bogot√°,15 - Antonio Nari√±o,49,F,En estudio,Casa,Leve
-393,2020-03-29,Bogot√°,01 - Usaqu√©n,73,M,Desconocido,Fallecido,Fallecido
-394,2020-03-29,Bogot√°,01 - Usaqu√©n,72,M,Desconocido,Fallecido,Fallecido
-395,2020-03-29,Bogot√°,11 - Suba,35,M,Desconocido,Casa,Leve
-396,2020-03-29,Bogot√°,08 - Kennedy,50,M,En estudio,Fallecido,Fallecido
-397,2020-03-29,Bogot√°,05 - Usme,26,F,En estudio,Casa,Leve
-398,2020-03-29,Bogot√°,14 - Los M√°rtires,47,F,En estudio,Hospital,Moderado
-399,2020-03-30,Bogot√°,01 - Usaqu√©n,47,M,En estudio,Casa,Leve
-400,2020-03-30,Bogot√°,01 - Usaqu√©n,49,M,Relacionado,Casa,Leve
-401,2020-03-30,Bogot√°,19 - Ciudad Bol√≠var,28,M,En estudio,Casa,Leve
-402,2020-03-30,Bogot√°,07 - Bosa,33,M,Relacionado,Hospital,Moderado
-403,2020-03-30,Bogot√°,02 - Chapinero,13,M,En estudio,Casa,Leve
-404,2020-03-30,Bogot√°,01 - Usaqu√©n,18,M,Importado,Casa,Leve
-405,2020-03-30,Bogot√°,10 - Engativ√°,56,M,En estudio,Casa,Leve
-406,2020-03-30,Bogot√°,02 - Chapinero,65,F,Desconocido,Hospital UCI,Grave
-407,2020-03-30,Bogot√°,01 - Usaqu√©n,36,M,En estudio,Casa,Leve
-408,2020-03-30,Bogot√°,16 - Puente Aranda,43,F,Relacionado,Casa,Leve
-409,2020-03-30,Bogot√°,13 - Teusaquillo,28,F,Desconocido,Casa,Leve
-410,2020-03-30,Bogot√°,13 - Teusaquillo,32,M,Importado,Casa,Leve
-411,2020-03-30,Bogot√°,13 - Teusaquillo,41,M,Importado,Casa,Leve
-412,2020-03-30,Bogot√°,10 - Engativ√°,38,F,Relacionado,Casa,Leve
-413,2020-03-30,Bogot√°,07 - Bosa,18,M,Desconocido,Casa,Leve
-414,2020-03-30,Bogot√°,16 - Puente Aranda,35,M,Desconocido,Hospital,Moderado
-415,2020-03-30,Bogot√°,10 - Engativ√°,31,F,Desconocido,Casa,Leve
-416,2020-03-30,Bogot√°,11 - Suba,31,F,En estudio,Casa,Leve
-417,2020-03-30,Bogot√°,11 - Suba,31,M,En estudio,Casa,Leve
-418,2020-03-30,Bogot√°,07 - Bosa,40,F,En estudio,Casa,Leve
-419,2020-03-30,Bogot√°,01 - Usaqu√©n,27,F,En estudio,Casa,Leve
-420,2020-03-30,Bogot√°,11 - Suba,39,F,En estudio,Casa,Leve
-421,2020-03-30,Bogot√°,15 - Antonio Nari√±o,26,M,En estudio,Casa,Leve
-422,2020-03-30,Bogot√°,08 - Kennedy,39,M,Importado,Hospital,Moderado
-423,2020-03-30,Bogot√°,05 - Usme,59,F,En estudio,Casa,Leve
-424,2020-03-30,Bogot√°,13 - Teusaquillo,71,F,Desconocido,Hospital,Moderado
-425,2020-03-30,Bogot√°,02 - Chapinero,20,M,En estudio,Casa,Leve
-426,2020-03-30,Bogot√°,10 - Engativ√°,31,M,Importado,Casa,Leve
-427,2020-03-30,Bogot√°,01 - Usaqu√©n,40,M,Importado,Casa,Leve
-428,2020-03-30,Bogot√°,10 - Engativ√°,34,F,Importado,Casa,Leve
-429,2020-03-30,Bogot√°,11 - Suba,70,M,Importado,Hospital,Moderado
-430,2020-03-30,Bogot√°,19 - Ciudad Bol√≠var,74,F,Relacionado,Fallecido,Fallecido
-431,2020-03-30,Bogot√°,19 - Ciudad Bol√≠var,30,M,Importado,Casa,Leve
-432,2020-03-30,Bogot√°,02 - Chapinero,23,M,En estudio,Casa,Leve
-433,2020-03-30,Bogot√°,08 - Kennedy,31,F,En estudio,Casa,Leve
-434,2020-03-30,Bogot√°,01 - Usaqu√©n,26,F,Desconocido,Casa,Leve
-435,2020-03-30,Bogot√°,11 - Suba,38,M,En estudio,Casa,Leve
-436,2020-03-30,Bogot√°,11 - Suba,49,M,Importado,Casa,Leve
-437,2020-03-30,Bogot√°,11 - Suba,36,F,Importado,Casa,Leve
-438,2020-03-30,Bogot√°,09 - Fontib√≥n,27,F,En estudio,Casa,Leve
-439,2020-03-30,Bogot√°,09 - Fontib√≥n,26,M,Importado,Casa,Leve
-440,2020-03-30,Bogot√°,11 - Suba,79,F,En estudio,Hospital UCI,Grave
-441,2020-03-30,Bogot√°,10 - Engativ√°,33,F,En estudio,Casa,Leve
-442,2020-03-30,Bogot√°,11 - Suba,39,F,Relacionado,Casa,Leve
-443,2020-03-30,Bogot√°,02 - Chapinero,61,F,Importado,Casa,Leve
-444,2020-03-30,Bogot√°,11 - Suba,25,F,Importado,Casa,Leve
-445,2020-03-30,Bogot√°,16 - Puente Aranda,38,F,En estudio,Hospital,Moderado
-446,2020-03-30,Bogot√°,10 - Engativ√°,39,F,En estudio,Fallecido,Fallecido
-447,2020-03-30,Bogot√°,01 - Usaqu√©n,45,F,En estudio,Casa,Leve
-448,2020-03-30,Bogot√°,08 - Kennedy,60,F,En estudio,Hospital UCI,Grave
-449,2020-03-30,Bogot√°,11 - Suba,33,F,En estudio,Hospital,Moderado
-450,2020-03-30,Bogot√°,06 - Tunjuelito,41,F,Desconocido,Casa,Leve
-451,2020-03-30,Bogot√°,14 - Los M√°rtires,60,M,En estudio,Hospital,Moderado
-452,2020-03-31,Bogot√°,04 - San Crist√≥bal,32,F,Relacionado,Casa,Leve
-453,2020-03-31,Bogot√°,11 - Suba,66,F,Desconocido,Hospital UCI,Grave
-454,2020-03-31,Bogot√°,09 - Fontib√≥n,54,F,En estudio,Hospital,Moderado
-455,2020-03-31,Bogot√°,01 - Usaqu√©n,56,F,En estudio,Casa,Leve
-456,2020-03-31,Bogot√°,08 - Kennedy,42,F,En estudio,Casa,Leve
-457,2020-03-31,Bogot√°,08 - Kennedy,23,M,En estudio,Casa,Leve
-458,2020-03-31,Bogot√°,07 - Bosa,24,M,En estudio,Casa,Leve
-459,2020-03-31,Bogot√°,10 - Engativ√°,12,M,Desconocido,Hospital,Moderado
-460,2020-03-31,Bogot√°,12 - Barrios Unidos,64,F,En estudio,Casa,Leve
-461,2020-03-31,Bogot√°,13 - Teusaquillo,29,F,Relacionado,Casa,Leve
-462,2020-03-31,Bogot√°,14 - Los M√°rtires,32,M,Relacionado,Casa,Leve
-463,2020-03-31,Bogot√°,07 - Bosa,21,F,En estudio,Casa,Leve
-464,2020-03-31,Bogot√°,09 - Fontib√≥n,22,F,En estudio,Casa,Leve
-465,2020-03-31,Bogot√°,13 - Teusaquillo,58,F,Desconocido,Casa,Leve
-466,2020-03-31,Bogot√°,08 - Kennedy,53,F,En estudio,Hospital,Moderado
-467,2020-03-31,Bogot√°,01 - Usaqu√©n,56,F,En estudio,Casa,Leve
-468,2020-03-31,Bogot√°,14 - Los M√°rtires,44,F,En estudio,Hospital,Moderado
-469,2020-03-31,Bogot√°,02 - Chapinero,24,F,En estudio,Casa,Leve
-470,2020-03-31,Bogot√°,11 - Suba,75,M,En estudio,Hospital,Moderado
-471,2020-03-31,Bogot√°,10 - Engativ√°,23,M,Desconocido,Casa,Leve
-472,2020-03-31,Bogot√°,01 - Usaqu√©n,36,M,En estudio,Casa,Leve
-473,2020-03-31,Bogot√°,01 - Usaqu√©n,66,F,Desconocido,Casa,Leve
-474,2020-04-01,Bogot√°,11 - Suba,60,F,En estudio,Casa,Leve
-475,2020-04-01,Bogot√°,22 - Sin Dato,33,M,En estudio,Fallecido,Fallecido
-476,2020-04-01,Bogot√°,01 - Usaqu√©n,44,M,Desconocido,Hospital,Moderado
-477,2020-04-01,Bogot√°,01 - Usaqu√©n,28,F,Desconocido,Casa,Leve
-478,2020-04-01,Bogot√°,08 - Kennedy,67,F,En estudio,Fallecido,Fallecido
-479,2020-04-01,Bogot√°,02 - Chapinero,29,F,Desconocido,Casa,Leve
-480,2020-04-01,Bogot√°,02 - Chapinero,25,F,Desconocido,Casa,Leve
-481,2020-04-01,Fuera de Bogot√°,01 - Usaqu√©n,22,F,Desconocido,Casa,Leve
-482,2020-04-01,Bogot√°,10 - Engativ√°,50,M,Desconocido,Hospital UCI,Grave
-483,2020-04-01,Bogot√°,13 - Teusaquillo,34,M,Desconocido,Casa,Leve
-484,2020-04-01,Bogot√°,08 - Kennedy,71,F,En estudio,Fallecido,Fallecido
-485,2020-04-01,Bogot√°,11 - Suba,41,M,Desconocido,Casa,Leve
-486,2020-04-01,Bogot√°,08 - Kennedy,36,M,En estudio,Fallecido,Fallecido
-487,2020-04-01,Bogot√°,10 - Engativ√°,33,M,Desconocido,Casa,Leve
-488,2020-04-01,Bogot√°,01 - Usaqu√©n,26,M,Relacionado,Casa,Leve
-489,2020-04-01,Bogot√°,11 - Suba,66,F,Desconocido,Hospital UCI,Grave
-490,2020-04-01,Bogot√°,01 - Usaqu√©n,83,F,Importado,Hospital,Moderado
-491,2020-04-01,Bogot√°,01 - Usaqu√©n,34,F,En estudio,Casa,Leve
-492,2020-04-01,Bogot√°,10 - Engativ√°,62,F,En estudio,Casa,Leve
-493,2020-04-01,Bogot√°,01 - Usaqu√©n,64,M,En estudio,Hospital,Moderado
-494,2020-04-01,Bogot√°,08 - Kennedy,82,M,Desconocido,Fallecido,Fallecido
-495,2020-04-01,Bogot√°,01 - Usaqu√©n,45,F,Relacionado,Casa,Leve
-496,2020-04-01,Bogot√°,07 - Bosa,26,M,Desconocido,Fallecido,Fallecido
-497,2020-04-02,Fuera de Bogot√°,11 - Suba,56,F,Desconocido,Casa,Leve
-498,2020-04-02,Bogot√°,16 - Puente Aranda,54,F,Importado,Casa,Leve
-499,2020-04-02,Bogot√°,09 - Fontib√≥n,71,M,En estudio,Hospital UCI,Grave
-500,2020-04-02,Bogot√°,02 - Chapinero,45,M,Desconocido,Casa,Leve
-501,2020-04-02,Bogot√°,09 - Fontib√≥n,35,M,En estudio,Casa,Leve
-502,2020-04-02,Bogot√°,01 - Usaqu√©n,70,M,Desconocido,Hospital,Moderado
-503,2020-04-02,Bogot√°,01 - Usaqu√©n,88,F,Desconocido,Hospital,Moderado
-504,2020-04-02,Bogot√°,09 - Fontib√≥n,52,F,En estudio,Casa,Leve
-505,2020-04-02,Bogot√°,01 - Usaqu√©n,27,M,Importado,Casa,Leve
-506,2020-04-02,Bogot√°,08 - Kennedy,76,M,En estudio,Casa,Leve
-507,2020-04-02,Bogot√°,01 - Usaqu√©n,34,F,En estudio,Casa,Leve
-508,2020-04-02,Bogot√°,11 - Suba,75,M,Relacionado,Casa,Leve
-509,2020-04-02,Bogot√°,08 - Kennedy,48,M,En estudio,Hospital,Moderado
-510,2020-04-02,Bogot√°,13 - Teusaquillo,47,M,Relacionado,Casa,Leve
-511,2020-04-02,Bogot√°,10 - Engativ√°,11,M,En estudio,Casa,Leve
-512,2020-04-02,Bogot√°,22 - Sin Dato,46,M,En estudio,Casa,Leve
-513,2020-04-02,Bogot√°,01 - Usaqu√©n,64,F,Relacionado,Casa,Leve
-514,2020-04-02,Bogot√°,22 - Sin Dato,66,M,Importado,Hospital,Moderado
-515,2020-04-02,Bogot√°,09 - Fontib√≥n,54,M,Importado,Casa,Leve
-516,2020-04-02,Bogot√°,13 - Teusaquillo,42,M,En estudio,Casa,Leve
-517,2020-04-02,Bogot√°,11 - Suba,28,M,En estudio,Casa,Leve
-518,2020-04-02,Bogot√°,01 - Usaqu√©n,60,F,Desconocido,Casa,Leve
-519,2020-04-02,Bogot√°,01 - Usaqu√©n,42,F,Desconocido,Casa,Leve
-520,2020-04-02,Fuera de Bogot√°,11 - Suba,93,F,Desconocido,Hospital,Moderado
-521,2020-04-02,Bogot√°,08 - Kennedy,57,F,Desconocido,Casa,Leve
-522,2020-04-02,Bogot√°,03 - Santa Fe,37,F,En estudio,Casa,Leve
-523,2020-04-02,Bogot√°,11 - Suba,21,F,Desconocido,Casa,Leve
-524,2020-04-02,Bogot√°,13 - Teusaquillo,26,F,Importado,Casa,Leve
-525,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,36,F,En estudio,Casa,Leve
-526,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,57,M,En estudio,Fallecido,Fallecido
-527,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,54,F,Desconocido,Casa,Leve
-528,2020-04-02,Fuera de Bogot√°,08 - Kennedy,32,F,Desconocido,Casa,Leve
-529,2020-04-02,Bogot√°,10 - Engativ√°,27,M,Importado,Casa,Leve
-530,2020-04-02,Bogot√°,10 - Engativ√°,25,F,Importado,Casa,Leve
-531,2020-04-02,Bogot√°,08 - Kennedy,48,M,En estudio,Casa,Leve
-532,2020-04-02,Bogot√°,07 - Bosa,76,F,Desconocido,Casa,Leve
-533,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,28,M,Importado,Casa,Leve
-534,2020-04-02,Bogot√°,10 - Engativ√°,12,F,Desconocido,Casa,Leve
-535,2020-04-02,Bogot√°,10 - Engativ√°,23,M,Importado,Casa,Leve
-536,2020-04-02,Bogot√°,13 - Teusaquillo,41,F,Desconocido,Casa,Leve
-537,2020-04-02,Bogot√°,01 - Usaqu√©n,73,M,Desconocido,Hospital,Moderado
-538,2020-04-02,Bogot√°,08 - Kennedy,58,F,En estudio,Hospital,Moderado
-539,2020-04-02,Bogot√°,13 - Teusaquillo,32,M,Importado,Casa,Leve
-540,2020-04-02,Bogot√°,08 - Kennedy,26,F,Desconocido,Casa,Leve
-541,2020-04-02,Bogot√°,13 - Teusaquillo,26,F,Importado,Casa,Leve
-542,2020-04-02,Bogot√°,16 - Puente Aranda,66,F,Desconocido,Casa,Leve
-543,2020-04-02,Bogot√°,16 - Puente Aranda,55,M,Importado,Casa,Leve
-544,2020-04-02,Bogot√°,11 - Suba,30,M,Desconocido,Casa,Leve
-545,2020-04-02,Bogot√°,08 - Kennedy,12,M,En estudio,Casa,Leve
-546,2020-04-02,Bogot√°,12 - Barrios Unidos,36,F,En estudio,Casa,Leve
-547,2020-04-02,Bogot√°,06 - Tunjuelito,67,F,En estudio,Casa,Leve
-548,2020-04-02,Bogot√°,01 - Usaqu√©n,29,M,Importado,Casa,Leve
-549,2020-04-02,Bogot√°,02 - Chapinero,35,M,En estudio,Casa,Leve
-550,2020-04-02,Bogot√°,08 - Kennedy,52,F,En estudio,Casa,Leve
-551,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,55,M,En estudio,Hospital,Moderado
-552,2020-04-02,Bogot√°,07 - Bosa,27,F,En estudio,Casa,Leve
-553,2020-04-02,Bogot√°,08 - Kennedy,63,F,En estudio,Fallecido,Fallecido
-554,2020-04-02,Bogot√°,10 - Engativ√°,43,M,En estudio,Hospital,Moderado
-555,2020-04-02,Bogot√°,11 - Suba,46,M,Desconocido,Hospital UCI,GRAVE
-556,2020-04-02,Bogot√°,08 - Kennedy,90,M,Desconocido,Fallecido,Fallecido
-557,2020-04-02,Bogot√°,10 - Engativ√°,78,M,Relacionado,Hospital,Moderado
-558,2020-04-02,Bogot√°,01 - Usaqu√©n,73,F,Importado,Casa,Leve
-559,2020-04-02,Bogot√°,10 - Engativ√°,36,M,En estudio,Casa,Leve
-560,2020-04-02,Bogot√°,13 - Teusaquillo,20,M,Desconocido,Casa,Leve
-561,2020-04-02,Bogot√°,12 - Barrios Unidos,34,F,Desconocido,Casa,Leve
-562,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,33,F,En estudio,Casa,Leve
-563,2020-04-02,Bogot√°,16 - Puente Aranda,29,F,Importado,Casa,Leve
-564,2020-04-02,Bogot√°,07 - Bosa,34,M,Importado,Casa,Leve
-565,2020-04-02,Bogot√°,13 - Teusaquillo,59,F,Relacionado,Casa,Leve
-566,2020-04-02,Bogot√°,13 - Teusaquillo,57,M,Relacionado,Fallecido,Fallecido
-567,2020-04-02,Bogot√°,18 - Rafael Uribe Uribe,37,M,Importado,Casa,Leve
-568,2020-04-02,Bogot√°,08 - Kennedy,34,F,Importado,Casa,Leve
-569,2020-04-02,Bogot√°,08 - Kennedy,45,F,Importado,Casa,Leve
-570,2020-04-02,Bogot√°,10 - Engativ√°,49,F,Relacionado,Casa,Leve
-571,2020-04-02,Bogot√°,01 - Usaqu√©n,31,M,En estudio,Hospital,Moderado
-572,2020-04-02,Bogot√°,14 - Los M√°rtires,66,M,Desconocido,Hospital,Moderado
-573,2020-04-02,Bogot√°,04 - San Crist√≥bal,62,M,En estudio,Hospital,Moderado
-574,2020-04-02,Bogot√°,11 - Suba,22,F,Desconocido,Casa,Leve
-575,2020-04-02,Bogot√°,13 - Teusaquillo,33,F,En estudio,Casa,Leve
-576,2020-04-02,Bogot√°,08 - Kennedy,50,M,En estudio,Hospital UCI,Grave
-577,2020-04-02,Bogot√°,08 - Kennedy,36,M,En estudio,Casa,Leve
-578,2020-04-02,Bogot√°,02 - Chapinero,28,M,En estudio,Casa,Leve
-579,2020-04-02,Bogot√°,11 - Suba,31,M,Importado,Casa,Leve
-580,2020-04-02,Bogot√°,01 - Usaqu√©n,48,M,Importado,Hospital,Moderado
-581,2020-04-02,Bogot√°,10 - Engativ√°,70,F,Importado,Casa,Leve
-582,2020-04-02,Bogot√°,13 - Teusaquillo,33,F,En estudio,Casa,Leve
-583,2020-04-02,Bogot√°,03 - Santa Fe,61,M,En estudio,Casa,Leve
-584,2020-04-02,Bogot√°,01 - Usaqu√©n,76,M,En estudio,Hospital UCI,Grave
-585,2020-04-02,Bogot√°,01 - Usaqu√©n,19,M,Importado,Casa,Leve
-586,2020-04-03,Bogot√°,09 - Fontib√≥n,33,M,En estudio,Hospital UCI,Grave
-587,2020-04-03,Bogot√°,11 - Suba,59,M,Relacionado,Hospital UCI,Grave
-588,2020-04-03,Bogot√°,10 - Engativ√°,60,F,Importado,Casa,Leve
-589,2020-04-03,Bogot√°,11 - Suba,35,M,Importado,Casa,Leve
-590,2020-04-03,Bogot√°,01 - Usaqu√©n,59,F,Importado,Casa,Leve
-591,2020-04-03,Bogot√°,13 - Teusaquillo,39,M,Importado,Casa,Leve
-592,2020-04-03,Bogot√°,11 - Suba,62,M,Importado,Casa,Leve
-593,2020-04-03,Fuera de Bogot√°,21 - Fuera de Bogot√°,30,F,En estudio,Casa,Leve
-594,2020-04-03,Bogot√°,01 - Usaqu√©n,71,M,Importado,Casa,Leve
-595,2020-04-03,Bogot√°,01 - Usaqu√©n,66,F,Importado,Casa,Leve
-596,2020-04-03,Bogot√°,10 - Engativ√°,57,M,Importado,Casa,Leve
-597,2020-04-03,Bogot√°,16 - Puente Aranda,21,F,En estudio,Casa,Leve
-598,2020-04-03,Bogot√°,22 - Sin Dato,24,M,En estudio,Casa,Leve
-599,2020-04-03,Bogot√°,10 - Engativ√°,29,M,Importado,Casa,Leve
-600,2020-04-03,Bogot√°,09 - Fontib√≥n,50,F,En estudio,Casa,Leve
-601,2020-04-03,Bogot√°,09 - Fontib√≥n,38,F,Importado,Casa,Leve
-602,2020-04-03,Fuera de Bogot√°,21 - Fuera de Bogot√°,39,F,En estudio,Casa,Leve
-603,2020-04-03,Bogot√°,08 - Kennedy,52,F,En estudio,Casa,Leve
-604,2020-04-03,Bogot√°,08 - Kennedy,74,F,En estudio,Casa,Leve
-605,2020-04-03,Bogot√°,11 - Suba,50,M,Importado,Casa,Leve
-606,2020-04-03,Bogot√°,18 - Rafael Uribe Uribe,62,M,En estudio,Casa,Leve
-607,2020-04-03,Bogot√°,13 - Teusaquillo,39,F,Importado,Casa,Leve
-608,2020-04-03,Bogot√°,13 - Teusaquillo,84,F,En estudio,Hospital,Moderado
-609,2020-04-03,Bogot√°,14 - Los M√°rtires,55,F,Importado,Casa,Leve
-610,2020-04-03,Bogot√°,14 - Los M√°rtires,59,F,Importado,Casa,Leve
-611,2020-04-03,Bogot√°,13 - Teusaquillo,5,F,Relacionado,Casa,Leve
-612,2020-04-03,Bogot√°,01 - Usaqu√©n,25,M,Importado,Casa,Leve
-613,2020-04-03,Bogot√°,04 - San Crist√≥bal,47,F,Importado,Casa,Leve
-614,2020-04-03,Bogot√°,09 - Fontib√≥n,60,M,En estudio,Casa,Leve
-615,2020-04-03,Bogot√°,18 - Rafael Uribe Uribe,37,F,En estudio,Casa,Leve
-616,2020-04-03,Bogot√°,19 - Ciudad Bol√≠var,69,M,En estudio,Casa,Leve
-617,2020-04-03,Bogot√°,10 - Engativ√°,59,M,En estudio,Casa,Leve
-618,2020-04-03,Bogot√°,07 - Bosa,28,F,En estudio,Casa,Leve
-619,2020-04-03,Bogot√°,02 - Chapinero,67,F,Importado,Casa,Leve
-620,2020-04-03,Bogot√°,07 - Bosa,32,F,En estudio,Casa,Leve
-621,2020-04-03,Bogot√°,11 - Suba,40,M,Importado,Hospital UCI,Grave
-622,2020-04-03,Bogot√°,08 - Kennedy,69,M,En estudio,Casa,Leve
-623,2020-04-03,Bogot√°,02 - Chapinero,10,M,En estudio,Casa,Leve
-624,2020-04-03,Bogot√°,05 - Usme,47,F,En estudio,Casa,Leve
-625,2020-04-03,Bogot√°,08 - Kennedy,60,M,En estudio,Casa,Leve
-626,2020-04-03,Bogot√°,15 - Antonio Nari√±o,29,F,En estudio,Casa,Leve
-627,2020-04-03,Bogot√°,07 - Bosa,10,M,En estudio,Casa,Leve
-628,2020-04-03,Bogot√°,07 - Bosa,27,F,En estudio,Casa,Leve
-629,2020-04-03,Fuera de Bogot√°,07 - Bosa,52,M,En estudio,Casa,Leve
-630,2020-04-03,Bogot√°,07 - Bosa,49,F,En estudio,Casa,Leve
-631,2020-04-03,Bogot√°,09 - Fontib√≥n,47,F,En estudio,Casa,Leve
-632,2020-04-03,Bogot√°,07 - Bosa,34,F,En estudio,Casa,Leve
-633,2020-04-03,Bogot√°,10 - Engativ√°,20,M,Importado,Casa,Leve
-634,2020-04-03,Bogot√°,10 - Engativ√°,42,F,En estudio,Casa,Leve
-635,2020-04-03,Bogot√°,01 - Usaqu√©n,32,M,Importado,Casa,Leve
-636,2020-04-03,Bogot√°,01 - Usaqu√©n,28,M,Importado,Casa,Leve
-637,2020-04-03,Bogot√°,02 - Chapinero,38,F,Relacionado,Casa,Leve
-638,2020-04-03,Bogot√°,02 - Chapinero,3,M,Relacionado,Casa,Leve
-639,2020-04-03,Bogot√°,02 - Chapinero,48,M,Relacionado,Casa,Leve
-640,2020-04-03,Bogot√°,02 - Chapinero,22,M,Importado,Casa,Leve
-641,2020-04-03,Bogot√°,11 - Suba,21,F,En estudio,Casa,Leve
-642,2020-04-03,Bogot√°,02 - Chapinero,29,M,En estudio,Casa,Leve
-643,2020-04-03,Bogot√°,02 - Chapinero,46,M,En estudio,Hospital,Moderado
-644,2020-04-03,Bogot√°,11 - Suba,70,F,En estudio,Casa,Leve
-645,2020-04-03,Bogot√°,11 - Suba,44,F,Importado,Casa,Leve
-646,2020-04-03,Bogot√°,11 - Suba,53,M,En estudio,Hospital,Moderado
-647,2020-04-03,Bogot√°,12 - Barrios Unidos,26,F,En estudio,Casa,Leve
-648,2020-04-03,Bogot√°,13 - Teusaquillo,7,F,En estudio,Casa,Leve
-649,2020-04-03,Bogot√°,08 - Kennedy,41,F,En estudio,Casa,Leve
-650,2020-04-03,Bogot√°,13 - Teusaquillo,51,F,En estudio,Casa,Leve
-651,2020-04-03,Bogot√°,01 - Usaqu√©n,58,M,Importado,Hospital,Moderado
-652,2020-04-03,Bogot√°,07 - Bosa,95,F,En estudio,Casa,Leve
-653,2020-04-03,Bogot√°,01 - Usaqu√©n,19,M,En estudio,Hospital,Moderado
-654,2020-04-03,Bogot√°,02 - Chapinero,48,M,Importado,Casa,Leve
-655,2020-04-03,Bogot√°,11 - Suba,71,F,Desconocido,Casa,Leve
-656,2020-04-03,Bogot√°,10 - Engativ√°,30,F,Importado,Casa,Leve
-657,2020-04-03,Bogot√°,07 - Bosa,45,F,En estudio,Casa,Leve
-658,2020-04-03,Bogot√°,02 - Chapinero,60,M,Desconocido,Casa,Leve
-659,2020-04-03,Bogot√°,10 - Engativ√°,67,F,Importado,Casa,Leve
-660,2020-04-03,Bogot√°,02 - Chapinero,39,F,En estudio,Casa,Leve
-661,2020-04-03,Bogot√°,13 - Teusaquillo,92,M,En estudio,Casa,Leve
-662,2020-04-03,Bogot√°,02 - Chapinero,52,M,En estudio,Casa,Leve
-663,2020-04-03,Bogot√°,10 - Engativ√°,5,M,Relacionado,Casa,Leve
-664,2020-04-03,Bogot√°,10 - Engativ√°,38,F,Relacionado,Casa,Leve
-665,2020-04-03,Bogot√°,08 - Kennedy,32,F,En estudio,Casa,Leve
-666,2020-04-03,Bogot√°,10 - Engativ√°,48,F,Importado,Casa,Leve
-667,2020-04-03,Bogot√°,10 - Engativ√°,34,M,Importado,Casa,Leve
-668,2020-04-03,Bogot√°,01 - Usaqu√©n,32,F,En estudio,Casa,Leve
-669,2020-04-03,Bogot√°,01 - Usaqu√©n,35,M,Importado,Casa,Leve
-670,2020-04-03,Bogot√°,10 - Engativ√°,28,F,Desconocido,Casa,Leve
-671,2020-04-03,Bogot√°,02 - Chapinero,18,M,Relacionado,Casa,Leve
-672,2020-04-03,Bogot√°,03 - Santa Fe,46,M,Importado,Hospital,Moderado
-673,2020-04-03,Bogot√°,12 - Barrios Unidos,41,M,En estudio,Casa,Leve
-674,2020-04-03,Bogot√°,01 - Usaqu√©n,67,F,Relacionado,Casa,Leve
-675,2020-04-03,Bogot√°,01 - Usaqu√©n,85,M,Desconocido,Fallecido,Fallecido
-676,2020-04-03,Bogot√°,10 - Engativ√°,26,M,En estudio,Casa,Leve
-677,2020-04-03,Bogot√°,17 - La Candelaria,58,M,En estudio,Casa,Leve
-678,2020-04-03,Bogot√°,02 - Chapinero,32,F,Importado,Casa,Leve
-679,2020-04-03,Bogot√°,08 - Kennedy,61,M,Importado,Casa,Leve
-680,2020-04-03,Bogot√°,11 - Suba,32,M,Desconocido,Casa,Leve
-681,2020-04-03,Bogot√°,01 - Usaqu√©n,64,F,Desconocido,Casa,Leve
-682,2020-04-03,Bogot√°,14 - Los M√°rtires,28,M,Importado,Casa,Leve
-683,2020-04-03,Bogot√°,11 - Suba,30,M,En estudio,Casa,Leve
-684,2020-04-03,Bogot√°,08 - Kennedy,29,F,En estudio,Casa,Leve
-685,2020-04-03,Bogot√°,19 - Ciudad Bol√≠var,37,F,En estudio,Casa,Leve
-686,2020-04-03,Bogot√°,02 - Chapinero,41,F,Relacionado,Casa,Leve
-687,2020-04-03,Bogot√°,02 - Chapinero,62,M,Relacionado,Casa,Leve
-688,2020-04-03,Bogot√°,10 - Engativ√°,42,F,En estudio,Casa,Leve
-689,2020-04-03,Bogot√°,12 - Barrios Unidos,66,M,Importado,Hospital,Moderado
-690,2020-04-03,Bogot√°,10 - Engativ√°,57,M,Desconocido,Casa,Leve
-691,2020-04-03,Bogot√°,08 - Kennedy,22,F,En estudio,Casa,Leve
-692,2020-04-03,Bogot√°,22 - Sin Dato,51,M,En estudio,Casa,Leve
-693,2020-04-03,Bogot√°,03 - Santa Fe,54,M,En estudio,Casa,Leve
-694,2020-04-03,Bogot√°,01 - Usaqu√©n,63,M,Relacionado,Hospital UCI,Grave
-695,2020-04-03,Bogot√°,01 - Usaqu√©n,29,F,Relacionado,Casa,Leve
-696,2020-04-03,Bogot√°,08 - Kennedy,59,M,En estudio,Casa,Leve
-697,2020-04-03,Bogot√°,02 - Chapinero,75,M,Importado,Casa,Leve
-698,2020-04-03,Bogot√°,10 - Engativ√°,33,M,Desconocido,Casa,Leve
-699,2020-04-03,Bogot√°,08 - Kennedy,24,M,Desconocido,Casa,Leve
-700,2020-04-03,Bogot√°,01 - Usaqu√©n,31,M,En estudio,Casa,Leve
-701,2020-04-03,Bogot√°,02 - Chapinero,25,F,En estudio,Casa,Leve
-702,2020-04-03,Bogot√°,04 - San Crist√≥bal,72,M,Desconocido,Fallecido,Fallecido
-703,2020-04-03,Bogot√°,13 - Teusaquillo,18,M,En estudio,Casa,Leve
-704,2020-04-03,Bogot√°,13 - Teusaquillo,61,F,En estudio,Casa,Leve
-705,2020-04-03,Bogot√°,13 - Teusaquillo,32,M,Importado,Casa,Leve
-706,2020-04-03,Bogot√°,05 - Usme,36,M,En estudio,Casa,Leve
-707,2020-04-03,Bogot√°,09 - Fontib√≥n,65,M,En estudio,Casa,Leve
-708,2020-04-03,Bogot√°,01 - Usaqu√©n,29,F,En estudio,Casa,Leve
-709,2020-04-03,Bogot√°,08 - Kennedy,35,F,En estudio,Casa,Leve
-710,2020-04-03,Bogot√°,13 - Teusaquillo,33,F,En estudio,Casa,Leve
-711,2020-04-03,Bogot√°,13 - Teusaquillo,59,M,Importado,Hospital,Moderado
-712,2020-04-03,Bogot√°,08 - Kennedy,29,F,En estudio,Casa,Leve
-713,2020-04-03,Bogot√°,11 - Suba,27,F,Relacionado,Casa,Leve
-714,2020-04-03,Bogot√°,11 - Suba,23,F,Desconocido,Casa,Leve
-715,2020-04-03,Bogot√°,04 - San Crist√≥bal,48,M,Importado,Casa,Leve
-716,2020-04-03,Bogot√°,11 - Suba,32,F,En estudio,Casa,Leve
-717,2020-04-03,Bogot√°,01 - Usaqu√©n,47,M,En estudio,Casa,Leve
-718,2020-04-03,Bogot√°,09 - Fontib√≥n,37,F,Importado,Casa,Leve
-719,2020-04-04,Bogot√°,11 - Suba,51,F,Desconocido,Casa,Leve
-720,2020-04-04,Bogot√°,10 - Engativ√°,48,M,En estudio,Hospital,Moderado
-721,2020-04-04,Bogot√°,17 - La Candelaria,50,F,En estudio,Casa,Leve
-722,2020-04-04,Bogot√°,11 - Suba,84,F,En estudio,Casa,Leve
-723,2020-04-04,Bogot√°,11 - Suba,45,F,En estudio,Casa,Leve
-724,2020-04-04,Bogot√°,11 - Suba,48,M,En estudio,Casa,Leve
-725,2020-04-04,Bogot√°,09 - Fontib√≥n,37,M,En estudio,Casa,Leve
-726,2020-04-04,Bogot√°,18 - Rafael Uribe Uribe,42,M,En estudio,Casa,Leve
-727,2020-04-04,Bogot√°,11 - Suba,44,M,En estudio,Casa,Leve
-728,2020-04-04,Bogot√°,07 - Bosa,38,M,En estudio,Hospital,Moderado
-729,2020-04-04,Bogot√°,11 - Suba,71,M,En estudio,Hospital,Moderado
-730,2020-04-04,Bogot√°,11 - Suba,49,F,En estudio,Casa,Leve
-731,2020-04-04,Bogot√°,01 - Usaqu√©n,19,M,En estudio,Casa,Leve
-732,2020-04-04,Bogot√°,08 - Kennedy,97,F,En estudio,Hospital,Moderado
-733,2020-04-04,Bogot√°,08 - Kennedy,55,M,En estudio,Casa,Leve
-734,2020-04-04,Bogot√°,06 - Tunjuelito,31,M,En estudio,Hospital,Moderado
-735,2020-04-04,Bogot√°,02 - Chapinero,27,F,En estudio,Casa,Leve
-736,2020-04-04,Bogot√°,16 - Puente Aranda,27,F,En estudio,Casa,Leve
-737,2020-04-04,Bogot√°,07 - Bosa,21,F,En estudio,Casa,Leve
-738,2020-04-04,Bogot√°,01 - Usaqu√©n,35,F,En estudio,Casa,Leve
-739,2020-04-04,Bogot√°,09 - Fontib√≥n,31,F,En estudio,Casa,Leve
-740,2020-04-04,Bogot√°,11 - Suba,87,F,En estudio,Casa,Leve
-741,2020-04-04,Bogot√°,09 - Fontib√≥n,44,F,En estudio,Casa,Leve
-742,2020-04-04,Bogot√°,02 - Chapinero,30,M,En estudio,Casa,Leve
-743,2020-04-04,Bogot√°,15 - Antonio Nari√±o,50,M,En estudio,Hospital,Moderado
-744,2020-04-04,Bogot√°,10 - Engativ√°,15,F,En estudio,Hospital,Moderado
-745,2020-04-04,Bogot√°,10 - Engativ√°,86,M,En estudio,Fallecido,Fallecido
-746,2020-04-04,Bogot√°,06 - Tunjuelito,30,F,En estudio,Casa,Leve
-747,2020-04-04,Bogot√°,16 - Puente Aranda,42,M,En estudio,Casa,Leve
-748,2020-04-04,Bogot√°,11 - Suba,37,M,Importado,Casa,Leve
-749,2020-04-04,Bogot√°,11 - Suba,45,F,En estudio,Casa,Leve
-750,2020-04-04,Bogot√°,11 - Suba,34,F,Importado,Casa,Leve
-751,2020-04-04,Bogot√°,11 - Suba,52,F,En estudio,Casa,Leve
-752,2020-04-04,Bogot√°,09 - Fontib√≥n,59,F,En estudio,Casa,Leve
-753,2020-04-04,Bogot√°,08 - Kennedy,50,F,En estudio,Hospital,Moderado
-754,2020-04-04,Bogot√°,08 - Kennedy,63,M,En estudio,Hospital,Moderado
-755,2020-04-04,Bogot√°,10 - Engativ√°,74,F,En estudio,Hospital UCI,Grave
-756,2020-04-04,Bogot√°,01 - Usaqu√©n,8,F,En estudio,Casa,Leve
-757,2020-04-04,Bogot√°,19 - Ciudad Bol√≠var,66,F,En estudio,Hospital,Moderado
-758,2020-04-04,Bogot√°,11 - Suba,85,F,Importado,Casa,Leve
-759,2020-04-04,Bogot√°,11 - Suba,55,M,En estudio,Casa,Leve
-760,2020-04-04,Bogot√°,19 - Ciudad Bol√≠var,26,F,En estudio,Casa,Leve
-761,2020-04-04,Bogot√°,11 - Suba,29,F,En estudio,Casa,Leve
-762,2020-04-04,Bogot√°,05 - Usme,31,F,En estudio,Casa,Leve
-763,2020-04-04,Bogot√°,16 - Puente Aranda,32,F,En estudio,Casa,Leve
-764,2020-04-04,Bogot√°,07 - Bosa,35,M,En estudio,Casa,Leve
-765,2020-04-04,Bogot√°,07 - Bosa,15,M,En estudio,Casa,Leve
-766,2020-04-04,Bogot√°,06 - Tunjuelito,16,F,En estudio,Casa,Leve
-767,2020-04-04,Bogot√°,06 - Tunjuelito,1,F,En estudio,Casa,Leve
-768,2020-04-04,Bogot√°,06 - Tunjuelito,31,F,En estudio,Casa,Leve
-769,2020-04-04,Bogot√°,07 - Bosa,34,M,En estudio,Casa,Leve
-770,2020-04-04,Bogot√°,02 - Chapinero,67,F,Importado,Casa,Leve
-771,2020-04-04,Bogot√°,16 - Puente Aranda,53,F,En estudio,Casa,Leve
-772,2020-04-04,Bogot√°,08 - Kennedy,82,M,En estudio,Casa,Leve
-773,2020-04-04,Bogot√°,08 - Kennedy,50,M,En estudio,Casa,Leve
-774,2020-04-04,Bogot√°,08 - Kennedy,45,M,En estudio,Casa,Leve
-775,2020-04-04,Bogot√°,08 - Kennedy,45,F,En estudio,Casa,Leve
-776,2020-04-04,Bogot√°,09 - Fontib√≥n,66,F,En estudio,Hospital,Moderado
-777,2020-04-04,Bogot√°,08 - Kennedy,73,F,En estudio,Fallecido,Fallecido
-778,2020-04-04,Bogot√°,07 - Bosa,48,F,En estudio,Hospital,Moderado
-779,2020-04-04,Bogot√°,07 - Bosa,69,F,En estudio,Hospital,Moderado
-780,2020-04-04,Bogot√°,10 - Engativ√°,38,F,En estudio,Casa,Leve
-781,2020-04-04,Bogot√°,09 - Fontib√≥n,43,F,Relacionado,Casa,Leve
-782,2020-04-04,Bogot√°,02 - Chapinero,46,F,Relacionado,Casa,Leve
-783,2020-04-04,Bogot√°,02 - Chapinero,36,M,Relacionado,Casa,Leve
-784,2020-04-04,Bogot√°,12 - Barrios Unidos,34,M,Relacionado,Casa,Leve
-785,2020-04-04,Bogot√°,10 - Engativ√°,31,F,En estudio,Casa,Leve
-786,2020-04-04,Bogot√°,11 - Suba,22,F,Importado,Casa,Leve
-787,2020-04-04,Bogot√°,08 - Kennedy,48,F,En estudio,Hospital,Moderado
-788,2020-04-04,Bogot√°,08 - Kennedy,62,M,En estudio,Hospital,Moderado
-789,2020-04-04,Bogot√°,19 - Ciudad Bol√≠var,54,F,En estudio,Casa,Leve
-790,2020-04-04,Bogot√°,19 - Ciudad Bol√≠var,53,F,En estudio,Casa,Leve
-791,2020-04-04,Bogot√°,18 - Rafael Uribe Uribe,44,M,En estudio,Casa,Leve
-792,2020-04-04,Bogot√°,01 - Usaqu√©n,61,F,En estudio,Casa,Leve
-793,2020-04-04,Bogot√°,01 - Usaqu√©n,24,M,Importado,Casa,Leve
-794,2020-04-04,Bogot√°,10 - Engativ√°,7,M,En estudio,Casa,Leve
-795,2020-04-04,Bogot√°,11 - Suba,54,M,Importado,Casa,Leve
-796,2020-04-04,Bogot√°,11 - Suba,75,F,En estudio,Hospital,Moderado
-797,2020-04-04,Bogot√°,07 - Bosa,32,F,En estudio,Casa,Leve
-798,2020-04-04,Bogot√°,01 - Usaqu√©n,55,M,En estudio,Casa,Leve
-799,2020-04-04,Bogot√°,01 - Usaqu√©n,48,F,En estudio,Casa,Leve
-800,2020-04-04,Bogot√°,09 - Fontib√≥n,43,F,Importado,Casa,Leve
-801,2020-04-04,Bogot√°,01 - Usaqu√©n,71,F,Relacionado,Casa,Leve
-802,2020-04-05,Bogot√°,11 - Suba,70,M,En estudio,Casa,Leve
-803,2020-04-05,Bogot√°,11 - Suba,64,M,En estudio,Casa,Leve
-804,2020-04-05,Bogot√°,11 - Suba,31,F,En estudio,Casa,Leve
-805,2020-04-05,Bogot√°,08 - Kennedy,53,F,En estudio,Casa,Leve
-806,2020-04-05,Bogot√°,02 - Chapinero,73,M,En estudio,Hospital,Moderado
-807,2020-04-05,Bogot√°,04 - San Crist√≥bal,23,F,En estudio,Casa,Leve
-808,2020-04-05,Bogot√°,14 - Los M√°rtires,67,F,En estudio,Hospital,Moderado
-809,2020-04-05,Bogot√°,11 - Suba,36,M,En estudio,Casa,Leve
-810,2020-04-05,Bogot√°,10 - Engativ√°,46,M,En estudio,Hospital,Moderado
-811,2020-04-05,Bogot√°,13 - Teusaquillo,78,F,En estudio,Hospital UCI,Grave
-812,2020-04-05,Bogot√°,08 - Kennedy,64,M,En estudio,Fallecido,Fallecido
-813,2020-04-06,Bogot√°,07 - Bosa,50,M,En estudio,Hospital,Moderado
-814,2020-04-06,Bogot√°,11 - Suba,51,F,En estudio,Casa,Leve
-815,2020-04-06,Bogot√°,08 - Kennedy,29,M,En estudio,Casa,Leve
-816,2020-04-06,Bogot√°,13 - Teusaquillo,55,M,En estudio,Casa,Leve
-817,2020-04-06,Bogot√°,01 - Usaqu√©n,47,F,Importado,Casa,Leve
-818,2020-04-06,Bogot√°,13 - Teusaquillo,57,F,Importado,Casa,Leve
-819,2020-04-06,Bogot√°,10 - Engativ√°,60,F,Importado,Casa,Leve
-820,2020-04-06,Bogot√°,10 - Engativ√°,40,M,En estudio,Casa,Leve
-821,2020-04-06,Bogot√°,10 - Engativ√°,42,F,En estudio,Casa,Leve
-822,2020-04-06,Bogot√°,11 - Suba,53,F,En estudio,Casa,Leve
-823,2020-04-06,Bogot√°,11 - Suba,21,F,En estudio,Casa,Leve
-824,2020-04-06,Bogot√°,10 - Engativ√°,28,M,En estudio,Casa,Leve
-825,2020-04-06,Bogot√°,07 - Bosa,29,M,En estudio,Casa,Leve
-826,2020-04-06,Bogot√°,07 - Bosa,23,F,En estudio,Casa,Leve
-827,2020-04-06,Bogot√°,07 - Bosa,51,M,Importado,Casa,Leve
-828,2020-04-06,Bogot√°,07 - Bosa,27,F,Desconocido,Casa,Leve
-829,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,29,M,En estudio,Casa,Leve
-830,2020-04-06,Bogot√°,09 - Fontib√≥n,45,F,En estudio,Casa,Leve
-831,2020-04-06,Bogot√°,13 - Teusaquillo,39,F,En estudio,Casa,Leve
-832,2020-04-06,Bogot√°,16 - Puente Aranda,30,M,Importado,Casa,Leve
-833,2020-04-06,Bogot√°,11 - Suba,77,M,En estudio,Hospital,Moderado
-834,2020-04-06,Fuera de Bogot√°,21 - Fuera de Bogot√°,73,F,En estudio,Hospital,Moderado
-835,2020-04-06,Bogot√°,02 - Chapinero,52,F,Importado,Casa,Leve
-836,2020-04-06,Bogot√°,11 - Suba,39,F,En estudio,Casa,Leve
-837,2020-04-06,Bogot√°,11 - Suba,49,F,En estudio,Casa,Leve
-838,2020-04-06,Bogot√°,02 - Chapinero,29,M,En estudio,Casa,Leve
-839,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,51,M,En estudio,Casa,Leve
-840,2020-04-06,Bogot√°,01 - Usaqu√©n,35,M,En estudio,Casa,Leve
-841,2020-04-06,Bogot√°,10 - Engativ√°,53,F,Importado,Casa,Leve
-842,2020-04-06,Bogot√°,07 - Bosa,37,M,En estudio,Casa,Leve
-843,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,49,M,En estudio,Casa,Leve
-844,2020-04-06,Bogot√°,01 - Usaqu√©n,28,M,Importado,Casa,Leve
-845,2020-04-06,Bogot√°,11 - Suba,44,M,En estudio,Casa,Leve
-846,2020-04-06,Bogot√°,10 - Engativ√°,28,F,En estudio,Casa,Leve
-847,2020-04-06,Bogot√°,10 - Engativ√°,50,M,En estudio,Casa,Leve
-848,2020-04-06,Bogot√°,11 - Suba,24,F,En estudio,Casa,Leve
-849,2020-04-06,Bogot√°,01 - Usaqu√©n,37,F,En estudio,Casa,Leve
-850,2020-04-06,Fuera de Bogot√°,10 - Engativ√°,31,F,En estudio,Casa,Leve
-851,2020-04-06,Bogot√°,09 - Fontib√≥n,58,M,En estudio,Casa,Leve
-852,2020-04-06,Bogot√°,01 - Usaqu√©n,29,F,En estudio,Casa,Leve
-853,2020-04-06,Bogot√°,13 - Teusaquillo,79,F,En estudio,Hospital,Moderado
-854,2020-04-06,Bogot√°,11 - Suba,38,M,En estudio,Casa,Leve
-855,2020-04-06,Bogot√°,01 - Usaqu√©n,34,F,Relacionado,Casa,Leve
-856,2020-04-06,Bogot√°,11 - Suba,60,F,Importado,Casa,Leve
-857,2020-04-06,Bogot√°,11 - Suba,30,M,En estudio,Casa,Leve
-858,2020-04-06,Bogot√°,01 - Usaqu√©n,35,M,En estudio,Casa,Leve
-859,2020-04-06,Bogot√°,01 - Usaqu√©n,62,F,En estudio,Casa,Leve
-860,2020-04-06,Bogot√°,02 - Chapinero,56,F,En estudio,Casa,Leve
-861,2020-04-06,Bogot√°,16 - Puente Aranda,42,M,En estudio,Hospital,Moderado
-862,2020-04-06,Bogot√°,01 - Usaqu√©n,59,M,En estudio,Casa,Leve
-863,2020-04-06,Bogot√°,18 - Rafael Uribe Uribe,61,M,En estudio,Casa,Leve
-864,2020-04-06,Bogot√°,13 - Teusaquillo,24,M,En estudio,Casa,Leve
-865,2020-04-06,Bogot√°,10 - Engativ√°,54,F,En estudio,Casa,Leve
-866,2020-04-06,Fuera de Bogot√°,08 - Kennedy,48,F,En estudio,Hospital,Moderado
-867,2020-04-06,Bogot√°,02 - Chapinero,28,F,Importado,Casa,Leve
-868,2020-04-06,Bogot√°,01 - Usaqu√©n,61,M,Importado,Casa,Leve
-869,2020-04-06,Bogot√°,10 - Engativ√°,30,F,En estudio,Casa,Leve
-870,2020-04-06,Bogot√°,12 - Barrios Unidos,31,M,En estudio,Casa,Leve
-871,2020-04-06,Bogot√°,08 - Kennedy,31,F,Desconocido,Casa,Leve
-872,2020-04-06,Bogot√°,12 - Barrios Unidos,32,F,Desconocido,Casa,Leve
-873,2020-04-06,Bogot√°,16 - Puente Aranda,53,M,En estudio,Hospital,Moderado
-874,2020-04-06,Bogot√°,07 - Bosa,74,M,En estudio,Hospital,Moderado
-875,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,28,M,Desconocido,Hospital,Moderado
-876,2020-04-06,Bogot√°,16 - Puente Aranda,43,M,En estudio,Hospital,Moderado
-877,2020-04-06,Bogot√°,10 - Engativ√°,58,M,En estudio,Casa,Leve
-878,2020-04-06,Bogot√°,09 - Fontib√≥n,38,F,Importado,Casa,Leve
-879,2020-04-06,Bogot√°,02 - Chapinero,61,F,En estudio,Casa,Leve
-880,2020-04-06,Bogot√°,02 - Chapinero,62,M,Desconocido,Hospital UCI,Grave
-881,2020-04-06,Bogot√°,02 - Chapinero,34,F,Importado,Casa,Leve
-882,2020-04-06,Bogot√°,11 - Suba,62,F,Importado,Casa,Leve
-883,2020-04-06,Bogot√°,08 - Kennedy,34,M,En estudio,Casa,Leve
-884,2020-04-06,Bogot√°,11 - Suba,45,M,Importado,Casa,Leve
-885,2020-04-06,Bogot√°,01 - Usaqu√©n,52,F,Desconocido,Casa,Leve
-886,2020-04-06,Bogot√°,02 - Chapinero,27,M,En estudio,Casa,Leve
-887,2020-04-06,Bogot√°,10 - Engativ√°,83,M,En estudio,Hospital UCI,Grave
-888,2020-04-06,Bogot√°,01 - Usaqu√©n,14,M,En estudio,Casa,Leve
-889,2020-04-06,Bogot√°,10 - Engativ√°,64,M,En estudio,Casa,Leve
-890,2020-04-06,Bogot√°,01 - Usaqu√©n,48,F,Desconocido,Casa,Leve
-891,2020-04-06,Bogot√°,10 - Engativ√°,52,M,Desconocido,Hospital,Moderado
-892,2020-04-06,Bogot√°,04 - San Crist√≥bal,28,F,Relacionado,Casa,Leve
-893,2020-04-06,Bogot√°,08 - Kennedy,30,F,Desconocido,Casa,Leve
-894,2020-04-06,Bogot√°,18 - Rafael Uribe Uribe,41,M,Relacionado,Casa,Leve
-895,2020-04-06,Bogot√°,02 - Chapinero,27,F,Relacionado,Casa,Leve
-896,2020-04-06,Bogot√°,09 - Fontib√≥n,45,M,Importado,Casa,Leve
-897,2020-04-06,Bogot√°,11 - Suba,29,F,En estudio,Casa,Leve
-898,2020-04-06,Bogot√°,08 - Kennedy,39,F,Desconocido,Hospital,Moderado
-899,2020-04-06,Bogot√°,01 - Usaqu√©n,38,M,En estudio,Casa,Leve
-900,2020-04-06,Bogot√°,09 - Fontib√≥n,69,F,Importado,Hospital UCI,Grave
-901,2020-04-06,Bogot√°,15 - Antonio Nari√±o,32,M,En estudio,Casa,Leve
-902,2020-04-06,Bogot√°,13 - Teusaquillo,61,M,Importado,Casa,Leve
-903,2020-04-06,Bogot√°,10 - Engativ√°,34,M,En estudio,Casa,Leve
-904,2020-04-06,Bogot√°,09 - Fontib√≥n,26,M,En estudio,Casa,Leve
-905,2020-04-06,Bogot√°,08 - Kennedy,37,F,En estudio,Casa,Leve
-906,2020-04-06,Bogot√°,11 - Suba,34,M,En estudio,Casa,Leve
-907,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,50,M,En estudio,Hospital,Moderado
-908,2020-04-06,Bogot√°,16 - Puente Aranda,64,M,En estudio,Casa,Leve
-909,2020-04-06,Bogot√°,01 - Usaqu√©n,37,F,En estudio,Fallecido,Fallecido
-910,2020-04-06,Bogot√°,01 - Usaqu√©n,5,M,Importado,Casa,Leve
-911,2020-04-06,Bogot√°,01 - Usaqu√©n,14,M,Importado,Casa,Leve
-912,2020-04-06,Bogot√°,01 - Usaqu√©n,33,F,En estudio,Casa,Leve
-913,2020-04-06,Bogot√°,22 - Sin Dato,66,M,En estudio,Hospital,Moderado
-914,2020-04-06,Bogot√°,22 - Sin Dato,48,M,En estudio,Hospital UCI,Grave
-915,2020-04-06,Bogot√°,06 - Tunjuelito,74,F,En estudio,Hospital UCI,Grave
-916,2020-04-06,Bogot√°,10 - Engativ√°,56,M,En estudio,Hospital,Moderado
-917,2020-04-06,Bogot√°,08 - Kennedy,67,M,En estudio,Hospital,Moderado
-918,2020-04-06,Bogot√°,08 - Kennedy,13,M,En estudio,Casa,Leve
-919,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,12,M,En estudio,Casa,Leve
-920,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,19,F,En estudio,Casa,Leve
-921,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,49,M,En estudio,Casa,Leve
-922,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,27,M,En estudio,Casa,Leve
-923,2020-04-06,Bogot√°,01 - Usaqu√©n,30,M,Importado,Casa,Leve
-924,2020-04-06,Bogot√°,11 - Suba,33,M,En estudio,Casa,Leve
-925,2020-04-06,Bogot√°,09 - Fontib√≥n,48,F,En estudio,Casa,Leve
-926,2020-04-06,Bogot√°,11 - Suba,45,M,Importado,Casa,Leve
-927,2020-04-06,Bogot√°,10 - Engativ√°,47,F,En estudio,Casa,Leve
-928,2020-04-06,Bogot√°,10 - Engativ√°,45,F,En estudio,Casa,Leve
-929,2020-04-06,Bogot√°,10 - Engativ√°,22,M,En estudio,Casa,Leve
-930,2020-04-06,Bogot√°,12 - Barrios Unidos,72,M,En estudio,Casa,Leve
-931,2020-04-06,Bogot√°,06 - Tunjuelito,64,M,En estudio,Hospital,Moderado
-932,2020-04-06,Bogot√°,11 - Suba,67,M,Importado,Casa,Leve
-933,2020-04-06,Bogot√°,01 - Usaqu√©n,44,F,En estudio,Casa,Leve
-934,2020-04-06,Bogot√°,04 - San Crist√≥bal,24,F,En estudio,Casa,Leve
-935,2020-04-06,Bogot√°,02 - Chapinero,58,M,Importado,Casa,Leve
-936,2020-04-06,Bogot√°,11 - Suba,71,M,En estudio,Casa,Leve
-937,2020-04-06,Bogot√°,08 - Kennedy,30,M,En estudio,Casa,Leve
-938,2020-04-06,Bogot√°,19 - Ciudad Bol√≠var,34,F,En estudio,Casa,Leve
-939,2020-04-06,Bogot√°,08 - Kennedy,48,F,En estudio,Casa,Leve
-940,2020-04-06,Bogot√°,08 - Kennedy,48,M,En estudio,Casa,Leve
-941,2020-04-06,Bogot√°,02 - Chapinero,10,M,En estudio,Casa,Leve
-942,2020-04-06,Bogot√°,09 - Fontib√≥n,36,F,Importado,Casa,Leve
-943,2020-04-06,Bogot√°,07 - Bosa,2,F,En estudio,Hospital,Moderado
-944,2020-04-06,Bogot√°,08 - Kennedy,38,F,En estudio,Hospital,Moderado
-945,2020-04-06,Bogot√°,11 - Suba,76,F,En estudio,Casa,Leve
-946,2020-04-06,Bogot√°,01 - Usaqu√©n,47,F,Importado,Casa,Leve
-947,2020-04-06,Bogot√°,11 - Suba,28,M,Importado,Casa,Leve
-948,2020-04-07,Bogot√°,07 - Bosa,72,M,Desconocido,Hospital,Moderado
-949,2020-04-07,Bogot√°,08 - Kennedy,49,M,Desconocido,Casa,Leve
-950,2020-04-07,Bogot√°,10 - Engativ√°,49,M,Desconocido,Hospital,Moderado
-951,2020-04-07,Bogot√°,04 - San Crist√≥bal,51,M,Desconocido,Hospital,Moderado
-952,2020-04-07,Bogot√°,08 - Kennedy,26,M,Desconocido,Casa,Leve
-953,2020-04-07,Bogot√°,01 - Usaqu√©n,52,F,En estudio,Casa,Leve
-954,2020-04-07,Bogot√°,11 - Suba,72,M,En estudio,Hospital UCI,Grave
-955,2020-04-07,Bogot√°,08 - Kennedy,60,M,En estudio,Hospital,Moderado
-956,2020-04-07,Bogot√°,15 - Antonio Nari√±o,65,F,En estudio,Hospital,Moderado
-957,2020-04-07,Bogot√°,18 - Rafael Uribe Uribe,2,F,Desconocido,Casa,Leve
-958,2020-04-07,Bogot√°,18 - Rafael Uribe Uribe,35,F,Desconocido,Casa,Leve
-959,2020-04-07,Bogot√°,18 - Rafael Uribe Uribe,36,M,Desconocido,Casa,Leve
-960,2020-04-07,Bogot√°,04 - San Crist√≥bal,52,F,En estudio,Hospital,Moderado
-961,2020-04-07,Bogot√°,09 - Fontib√≥n,19,M,En estudio,Casa,Leve
-962,2020-04-07,Bogot√°,09 - Fontib√≥n,49,F,Importado,Casa,Leve
-963,2020-04-07,Bogot√°,11 - Suba,57,M,En estudio,Hospital,Moderado
-964,2020-04-07,Bogot√°,08 - Kennedy,59,M,Desconocido,Casa,Leve
-965,2020-04-07,Bogot√°,11 - Suba,82,M,En estudio,Hospital,Moderado
-966,2020-04-07,Bogot√°,10 - Engativ√°,62,M,Desconocido,Hospital,Moderado
-967,2020-04-07,Bogot√°,12 - Barrios Unidos,70,M,Importado,Casa,Leve
-968,2020-04-07,Bogot√°,10 - Engativ√°,40,F,Desconocido,Casa,Leve
-969,2020-04-07,Bogot√°,10 - Engativ√°,30,F,Importado,Casa,Leve
-970,2020-04-07,Bogot√°,08 - Kennedy,43,F,En estudio,Casa,Leve
-971,2020-04-07,Bogot√°,08 - Kennedy,64,F,En estudio,Casa,Leve
-972,2020-04-07,Bogot√°,11 - Suba,61,M,Importado,Casa,Leve
-973,2020-04-07,Bogot√°,01 - Usaqu√©n,59,F,Importado,Casa,Leve
-974,2020-04-07,Bogot√°,07 - Bosa,52,F,En estudio,Casa,Leve
-975,2020-04-07,Bogot√°,10 - Engativ√°,77,F,En estudio,Casa,Leve
-976,2020-04-07,Bogot√°,09 - Fontib√≥n,54,F,En estudio,Casa,Leve
-977,2020-04-07,Bogot√°,08 - Kennedy,22,F,En estudio,Casa,Leve
-978,2020-04-07,Bogot√°,01 - Usaqu√©n,45,F,En estudio,Casa,Leve
-979,2020-04-07,Bogot√°,10 - Engativ√°,73,F,En estudio,Casa,Leve
-980,2020-04-07,Bogot√°,16 - Puente Aranda,8,F,En estudio,Casa,Leve
-981,2020-04-07,Bogot√°,16 - Puente Aranda,55,M,En estudio,Casa,Leve
-982,2020-04-07,Bogot√°,19 - Ciudad Bol√≠var,34,M,En estudio,Casa,Leve
-983,2020-04-07,Bogot√°,16 - Puente Aranda,26,F,En estudio,Casa,Leve
-984,2020-04-07,Bogot√°,10 - Engativ√°,49,F,En estudio,Casa,Leve
-985,2020-04-07,Bogot√°,01 - Usaqu√©n,62,M,Importado,Hospital,Moderado
-986,2020-04-07,Bogot√°,08 - Kennedy,37,F,En estudio,Casa,Leve
-987,2020-04-07,Bogot√°,01 - Usaqu√©n,32,F,En estudio,Casa,Leve
-988,2020-04-07,Bogot√°,10 - Engativ√°,26,F,Importado,Casa,Leve
-989,2020-04-07,Bogot√°,10 - Engativ√°,27,M,Importado,Casa,Leve
-990,2020-04-07,Bogot√°,08 - Kennedy,62,F,En estudio,Casa,Leve
-991,2020-04-07,Bogot√°,11 - Suba,48,M,En estudio,Casa,Leve
-992,2020-04-07,Bogot√°,08 - Kennedy,44,F,En estudio,Casa,Leve
-993,2020-04-07,Bogot√°,07 - Bosa,28,M,En estudio,Hospital,Moderado
-994,2020-04-07,Bogot√°,11 - Suba,54,F,Desconocido,Casa,Leve
-995,2020-04-07,Bogot√°,18 - Rafael Uribe Uribe,26,F,En estudio,Casa,Leve
-996,2020-04-07,Bogot√°,18 - Rafael Uribe Uribe,61,F,En estudio,Hospital,Moderado
-997,2020-04-07,Bogot√°,01 - Usaqu√©n,58,F,En estudio,Casa,Leve
-998,2020-04-07,Bogot√°,01 - Usaqu√©n,32,M,En estudio,Casa,Leve
-999,2020-04-07,Bogot√°,01 - Usaqu√©n,28,M,En estudio,Casa,Leve
-1000,2020-04-07,Bogot√°,01 - Usaqu√©n,23,F,En estudio,Casa,Leve
-1001,2020-04-07,Bogot√°,01 - Usaqu√©n,60,M,En estudio,Casa,Leve
-1002,2020-04-07,Bogot√°,10 - Engativ√°,34,F,En estudio,Casa,Leve
-1003,2020-04-07,Bogot√°,11 - Suba,24,F,Relacionado,Casa,Leve
-1004,2020-04-07,Bogot√°,07 - Bosa,46,F,Relacionado,Casa,Leve
-1005,2020-04-07,Fuera de Bogot√°,21 - Fuera de Bogot√°,37,F,En estudio,Casa,Leve
-1006,2020-04-07,Fuera de Bogot√°,11 - Suba,36,M,En estudio,Casa,Leve
-1007,2020-04-07,Bogot√°,01 - Usaqu√©n,8,F,Relacionado,Casa,Leve
-1008,2020-04-07,Bogot√°,09 - Fontib√≥n,20,M,Relacionado,Casa,Leve
-1009,2020-04-07,Bogot√°,09 - Fontib√≥n,17,M,Relacionado,Casa,Leve
-1010,2020-04-07,Bogot√°,01 - Usaqu√©n,72,M,En estudio,Casa,Leve
-1011,2020-04-07,Bogot√°,11 - Suba,40,M,Relacionado,Casa,Leve
-1012,2020-04-07,Bogot√°,08 - Kennedy,36,F,En estudio,Casa,Leve
-1013,2020-04-07,Bogot√°,08 - Kennedy,18,F,En estudio,Casa,Leve
-1014,2020-04-07,Bogot√°,10 - Engativ√°,30,M,En estudio,Casa,Leve
-1015,2020-04-07,Bogot√°,10 - Engativ√°,48,F,Relacionado,Hospital,Moderado
-1016,2020-04-07,Bogot√°,01 - Usaqu√©n,2,M,Relacionado,Casa,Leve
-1017,2020-04-07,Bogot√°,09 - Fontib√≥n,38,M,Importado,Casa,Leve
-1018,2020-04-07,Bogot√°,01 - Usaqu√©n,83,F,En estudio,Hospital,Moderado
-1019,2020-04-07,Bogot√°,11 - Suba,41,F,En estudio,Hospital,Moderado
-1020,2020-04-07,Bogot√°,10 - Engativ√°,65,M,En estudio,Hospital,Moderado
-1021,2020-04-07,Bogot√°,16 - Puente Aranda,33,F,Relacionado,Casa,Leve
-1022,2020-04-07,Bogot√°,08 - Kennedy,15,M,Relacionado,Casa,Leve
-1023,2020-04-07,Bogot√°,09 - Fontib√≥n,30,F,Relacionado,Casa,Leve
-1024,2020-04-07,Bogot√°,19 - Ciudad Bol√≠var,79,F,En estudio,Casa,Leve
-1025,2020-04-07,Bogot√°,10 - Engativ√°,83,M,En estudio,Hospital,Moderado
-1026,2020-04-08,Bogot√°,10 - Engativ√°,45,M,En estudio,Casa,Leve
-1027,2020-04-08,Bogot√°,16 - Puente Aranda,31,M,En estudio,Casa,Leve
-1028,2020-04-09,Bogot√°,22 - Sin Dato,56,M,Relacionado,Casa,Leve
-1029,2020-04-09,Bogot√°,07 - Bosa,17,F,En estudio,Casa,Leve
-1030,2020-04-09,Bogot√°,08 - Kennedy,17,F,En estudio,Casa,Leve
-1031,2020-04-09,Bogot√°,10 - Engativ√°,20,F,En estudio,Casa,Leve
-1032,2020-04-09,Bogot√°,10 - Engativ√°,18,F,En estudio,Casa,Leve
-1033,2020-04-09,Bogot√°,12 - Barrios Unidos,29,F,En estudio,Hospital,Moderado
-1034,2020-04-09,Bogot√°,01 - Usaqu√©n,29,M,En estudio,Casa,Leve
-1035,2020-04-09,Bogot√°,08 - Kennedy,21,F,En estudio,Casa,Leve
-1036,2020-04-09,Bogot√°,08 - Kennedy,29,M,En estudio,Casa,Leve
-1037,2020-04-09,Bogot√°,06 - Tunjuelito,26,M,En estudio,Casa,Leve
-1038,2020-04-09,Bogot√°,12 - Barrios Unidos,33,F,En estudio,Casa,Leve
-1039,2020-04-09,Bogot√°,16 - Puente Aranda,56,M,En estudio,Casa,Leve
-1040,2020-04-09,Bogot√°,02 - Chapinero,26,F,En estudio,Casa,Leve
-1041,2020-04-09,Bogot√°,07 - Bosa,9,F,En estudio,Casa,Leve
-1042,2020-04-09,Bogot√°,07 - Bosa,8,M,En estudio,Casa,Leve
-1043,2020-04-09,Bogot√°,07 - Bosa,25,M,En estudio,Casa,Leve
-1044,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,24,M,En estudio,Casa,Leve
-1045,2020-04-09,Bogot√°,15 - Antonio Nari√±o,26,F,En estudio,Casa,Leve
-1046,2020-04-09,Fuera de Bogot√°,21 - Fuera de Bogot√°,31,F,En estudio,Casa,Leve
-1047,2020-04-09,Bogot√°,07 - Bosa,63,F,En estudio,Hospital,Moderado
-1048,2020-04-09,Bogot√°,10 - Engativ√°,39,M,En estudio,Casa,Leve
-1049,2020-04-09,Bogot√°,11 - Suba,73,M,En estudio,Fallecido,Fallecido
-1050,2020-04-09,Bogot√°,18 - Rafael Uribe Uribe,59,M,En estudio,Hospital,Moderado
-1051,2020-04-09,Bogot√°,11 - Suba,82,F,En estudio,Casa,Leve
-1052,2020-04-09,Bogot√°,10 - Engativ√°,93,F,En estudio,Casa,Leve
-1053,2020-04-09,Bogot√°,08 - Kennedy,55,F,En estudio,Casa,Leve
-1054,2020-04-09,Bogot√°,01 - Usaqu√©n,63,F,Importado,Casa,Leve
-1055,2020-04-09,Bogot√°,11 - Suba,73,F,En estudio,Casa,Leve
-1056,2020-04-09,Bogot√°,04 - San Crist√≥bal,60,F,En estudio,Hospital UCI,Grave
-1057,2020-04-09,Bogot√°,13 - Teusaquillo,60,F,Importado,Casa,Leve
-1058,2020-04-09,Bogot√°,11 - Suba,66,M,En estudio,Casa,Leve
-1059,2020-04-09,Fuera de Bogot√°,21 - Fuera de Bogot√°,60,F,En estudio,Hospital,Moderado
-1060,2020-04-09,Bogot√°,10 - Engativ√°,35,F,Importado,Casa,Leve
-1061,2020-04-09,Bogot√°,08 - Kennedy,69,F,En estudio,Casa,Leve
-1062,2020-04-09,Bogot√°,01 - Usaqu√©n,65,F,Importado,Hospital,Moderado
-1063,2020-04-09,Bogot√°,08 - Kennedy,52,F,En estudio,Casa,Leve
-1064,2020-04-09,Bogot√°,08 - Kennedy,57,F,En estudio,Casa,Leve
-1065,2020-04-09,Bogot√°,06 - Tunjuelito,49,F,En estudio,Casa,Leve
-1066,2020-04-09,Bogot√°,08 - Kennedy,44,F,En estudio,Casa,Leve
-1067,2020-04-09,Bogot√°,11 - Suba,44,F,En estudio,Hospital,Moderado
-1068,2020-04-09,Bogot√°,01 - Usaqu√©n,39,F,En estudio,Hospital,Moderado
-1069,2020-04-09,Bogot√°,04 - San Crist√≥bal,38,F,Importado,Casa,Leve
-1070,2020-04-09,Bogot√°,16 - Puente Aranda,34,F,En estudio,Casa,Leve
-1071,2020-04-09,Bogot√°,18 - Rafael Uribe Uribe,59,M,En estudio,Casa,Leve
-1072,2020-04-09,Bogot√°,15 - Antonio Nari√±o,39,M,En estudio,Casa,Leve
-1073,2020-04-09,Bogot√°,10 - Engativ√°,59,M,En estudio,Hospital,Moderado
-1074,2020-04-09,Bogot√°,08 - Kennedy,55,M,En estudio,Hospital,Moderado
-1075,2020-04-09,Bogot√°,18 - Rafael Uribe Uribe,51,M,Importado,Casa,Leve
-1076,2020-04-09,Bogot√°,13 - Teusaquillo,44,M,En estudio,Casa,Leve
-1077,2020-04-09,Bogot√°,04 - San Crist√≥bal,43,M,En estudio,Hospital,Moderado
-1078,2020-04-09,Bogot√°,08 - Kennedy,39,M,En estudio,Casa,Leve
-1079,2020-04-09,Bogot√°,08 - Kennedy,36,M,En estudio,Casa,Leve
-1080,2020-04-09,Bogot√°,01 - Usaqu√©n,46,M,Importado,Casa,Leve
-1081,2020-04-09,Bogot√°,08 - Kennedy,24,F,En estudio,Casa,Leve
-1082,2020-04-09,Bogot√°,11 - Suba,53,M,Importado,Casa,Leve
-1083,2020-04-09,Bogot√°,09 - Fontib√≥n,32,F,En estudio,Casa,Leve
-1084,2020-04-09,Bogot√°,10 - Engativ√°,39,F,En estudio,Casa,Leve
-1085,2020-04-09,Bogot√°,09 - Fontib√≥n,25,M,En estudio,Casa,Leve
-1086,2020-04-09,Bogot√°,01 - Usaqu√©n,60,M,En estudio,Casa,Leve
-1087,2020-04-09,Bogot√°,03 - Santa Fe,36,M,En estudio,Casa,Leve
-1088,2020-04-09,Bogot√°,06 - Tunjuelito,25,M,En estudio,Casa,Leve
-1089,2020-04-09,Bogot√°,01 - Usaqu√©n,39,M,En estudio,Casa,Leve
-1090,2020-04-09,Bogot√°,07 - Bosa,53,M,En estudio,Casa,Leve
-1091,2020-04-09,Bogot√°,11 - Suba,24,M,En estudio,Casa,Leve
-1092,2020-04-09,Bogot√°,01 - Usaqu√©n,55,F,En estudio,Casa,Leve
-1093,2020-04-09,Bogot√°,01 - Usaqu√©n,23,F,En estudio,Casa,Leve
-1094,2020-04-09,Bogot√°,13 - Teusaquillo,38,F,Importado,Casa,Leve
-1095,2020-04-09,Bogot√°,01 - Usaqu√©n,33,M,En estudio,Casa,Leve
-1096,2020-04-09,Bogot√°,04 - San Crist√≥bal,27,F,En estudio,Casa,Leve
-1097,2020-04-09,Bogot√°,11 - Suba,44,F,En estudio,Hospital,Moderado
-1098,2020-04-09,Bogot√°,13 - Teusaquillo,2,M,En estudio,Casa,Leve
-1099,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,24,F,Relacionado,Casa,Leve
-1100,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,36,F,Relacionado,Casa,Leve
-1101,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,18,F,Relacionado,Casa,Leve
-1102,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,48,M,En estudio,Casa,Leve
-1103,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,42,M,En estudio,Casa,Leve
-1104,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,42,F,En estudio,Casa,Leve
-1105,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,39,F,Relacionado,Casa,Leve
-1106,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,19,F,Relacionado,Casa,Leve
-1107,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,18,F,Relacionado,Casa,Leve
-1108,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,10,M,En estudio,Casa,Leve
-1109,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,25,M,Relacionado,Casa,Leve
-1110,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,10,M,Relacionado,Casa,Leve
-1111,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,65,F,Relacionado,Casa,Leve
-1112,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,13,F,Relacionado,Casa,Leve
-1113,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,14,F,Relacionado,Casa,Leve
-1114,2020-04-09,Bogot√°,18 - Rafael Uribe Uribe,23,M,Relacionado,Casa,Leve
-1115,2020-04-09,Bogot√°,06 - Tunjuelito,22,F,Relacionado,Casa,Leve
-1116,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,17,F,Relacionado,Casa,Leve
-1117,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,25,M,En estudio,Casa,Leve
-1118,2020-04-09,Bogot√°,11 - Suba,29,M,Importado,Casa,Leve
-1119,2020-04-09,Bogot√°,06 - Tunjuelito,86,F,En estudio,Casa,Leve
-1120,2020-04-09,Bogot√°,08 - Kennedy,38,F,Importado,Casa,Leve
-1121,2020-04-09,Bogot√°,09 - Fontib√≥n,67,M,En estudio,Casa,Leve
-1122,2020-04-09,Bogot√°,10 - Engativ√°,47,F,En estudio,Casa,Leve
-1123,2020-04-09,Bogot√°,04 - San Crist√≥bal,38,M,Desconocido,Casa,Leve
-1124,2020-04-09,Bogot√°,06 - Tunjuelito,64,M,En estudio,Hospital,Moderado
-1125,2020-04-09,Bogot√°,16 - Puente Aranda,32,F,Desconocido,Casa,Leve
-1126,2020-04-09,Bogot√°,16 - Puente Aranda,89,F,En estudio,Hospital,Moderado
-1127,2020-04-09,Bogot√°,09 - Fontib√≥n,68,F,En estudio,Casa,Leve
-1128,2020-04-09,Bogot√°,11 - Suba,70,M,En estudio,Hospital,Moderado
-1129,2020-04-09,Bogot√°,10 - Engativ√°,37,F,En estudio,Casa,Leve
-1130,2020-04-09,Bogot√°,09 - Fontib√≥n,60,F,Desconocido,Casa,Leve
-1131,2020-04-09,Bogot√°,13 - Teusaquillo,33,F,En estudio,Casa,Leve
-1132,2020-04-09,Bogot√°,05 - Usme,37,M,Relacionado,Casa,Leve
-1133,2020-04-09,Bogot√°,09 - Fontib√≥n,19,M,Relacionado,Casa,Leve
-1134,2020-04-09,Bogot√°,11 - Suba,49,M,En estudio,Casa,Leve
-1135,2020-04-09,Bogot√°,10 - Engativ√°,91,M,Desconocido,Hospital,Moderado
-1136,2020-04-09,Bogot√°,07 - Bosa,51,F,En estudio,Hospital,Moderado
-1137,2020-04-09,Bogot√°,07 - Bosa,36,F,En estudio,Casa,Leve
-1138,2020-04-09,Bogot√°,05 - Usme,61,F,En estudio,Casa,Leve
-1139,2020-04-09,Bogot√°,11 - Suba,47,M,Desconocido,Hospital,Moderado
-1140,2020-04-09,Bogot√°,08 - Kennedy,52,M,En estudio,Hospital,Moderado
-1141,2020-04-09,Bogot√°,15 - Antonio Nari√±o,27,M,En estudio,Hospital,Moderado
-1142,2020-04-09,Bogot√°,07 - Bosa,49,F,En estudio,Casa,Leve
-1143,2020-04-09,Bogot√°,08 - Kennedy,78,F,En estudio,Casa,Leve
-1144,2020-04-09,Bogot√°,08 - Kennedy,57,F,En estudio,Casa,Leve
-1145,2020-04-09,Bogot√°,08 - Kennedy,27,F,En estudio,Casa,Leve
-1146,2020-04-09,Bogot√°,08 - Kennedy,53,F,En estudio,Casa,Leve
-1147,2020-04-09,Bogot√°,12 - Barrios Unidos,18,M,Relacionado,Casa,Leve
-1148,2020-04-09,Bogot√°,12 - Barrios Unidos,40,F,En estudio,Casa,Leve
-1149,2020-04-09,Bogot√°,19 - Ciudad Bol√≠var,87,M,En estudio,Hospital,Moderado
-1150,2020-04-09,Bogot√°,08 - Kennedy,26,F,En estudio,Casa,Leve
-1151,2020-04-09,Bogot√°,11 - Suba,40,F,Desconocido,Hospital,Moderado
-1152,2020-04-09,Bogot√°,17 - La Candelaria,28,M,En estudio,Hospital UCI,Grave
-1153,2020-04-09,Bogot√°,08 - Kennedy,37,M,En estudio,Casa,Leve
-1154,2020-04-09,Bogot√°,16 - Puente Aranda,34,F,En estudio,Casa,Leve
-1155,2020-04-09,Bogot√°,08 - Kennedy,77,M,En estudio,Casa,Leve
-1156,2020-04-09,Bogot√°,11 - Suba,67,F,En estudio,Hospital,Moderado
-1157,2020-04-09,Bogot√°,10 - Engativ√°,54,M,Desconocido,Hospital,Moderado
-1158,2020-04-09,Bogot√°,04 - San Crist√≥bal,31,M,En estudio,Hospital,Moderado
-1159,2020-04-08,Fuera de Bogot√°,21 - Fuera de Bogot√°,67,F,En estudio,Hospital,Moderado
-1160,2020-04-10,Fuera de Bogot√°,21 - Fuera de Bogot√°,8,M,En estudio,Hospital,Moderado
-1161,2020-04-10,Bogot√°,19 - Ciudad Bol√≠var,90,F,En estudio,Hospital,Moderado
-1162,2020-04-10,Bogot√°,02 - Chapinero,31,M,Relacionado,Casa,Leve
-1163,2020-04-10,Bogot√°,12 - Barrios Unidos,62,M,En estudio,Hospital,Moderado
+ESTO SI CAMBIO EN EL MISMO LINK PERRITOS :D Casos confirmados de COVID-19 en Bogot· D.C.;;;;;;;;
+;;;;;;;;
+Utilidad:  Permite conocer la evoluciÛn del n˙mero de casos confirmados con nuevo coronavirus COVID-19 en el contexto de la pandemia.;;;;;;;;
+;;;;;;;;
+ID de caso;Fecha de diagnÛstico;Ciudad de residencia;Localidad de residencia;Edad;Sexo;Tipo de caso;UbicaciÛn;Estado
+1;6/03/2020;Bogot·;01 - UsaquÈn;19;F;Importado;Casa;Leve
+2;10/03/2020;Bogot·;10 - Engativ·;22;F;Importado;Casa;Leve
+3;10/03/2020;Bogot·;10 - Engativ·;28;F;Importado;Casa;Leve
+4;12/03/2020;Bogot·;09 - FontibÛn;36;F;Importado;Casa;Leve
+5;12/03/2020;Bogot·;08 - Kennedy;42;F;Importado;Casa;Leve
+6;13/03/2020;Bogot·;11 - Suba;61;F;Importado;Casa;Leve
+7;13/03/2020;Bogot·;10 - Engativ·;73;F;Importado;Casa;Leve
+8;13/03/2020;Bogot·;11 - Suba;54;M;Importado;Casa;Leve
+9;13/03/2020;Bogot·;10 - Engativ·;54;F;En estudio;Casa;Leve
+10;13/03/2020;Bogot·;10 - Engativ·;54;M;Importado;Casa;Leve
+11;13/03/2020;Bogot·;10 - Engativ·;37;M;Relacionado;Casa;Leve
+12;14/03/2020;Bogot·;09 - FontibÛn;23;M;Relacionado;Casa;Leve
+13;14/03/2020;Bogot·;02 - Chapinero;18;F;Importado;Casa;Leve
+14;14/03/2020;Bogot·;10 - Engativ·;59;M;Importado;Hospital;Moderado
+15;14/03/2020;Bogot·;11 - Suba;23;F;Importado;Casa;Leve
+16;15/03/2020;Bogot·;01 - UsaquÈn;72;M;Importado;Casa;Leve
+17;15/03/2020;Bogot·;19 - Ciudad BolÌvar;45;F;Relacionado;Casa;Leve
+18;15/03/2020;Bogot·;02 - Chapinero;29;M;Importado;Casa;Leve
+19;15/03/2020;Bogot·;02 - Chapinero;21;M;Importado;Casa;Leve
+20;15/03/2020;Bogot·;02 - Chapinero;23;F;Importado;Casa;Leve
+21;15/03/2020;Bogot·;08 - Kennedy;44;F;Relacionado;Casa;Leve
+22;15/03/2020;Bogot·;08 - Kennedy;38;M;Relacionado;Casa;Leve
+23;15/03/2020;Bogot·;01 - UsaquÈn;31;M;Relacionado;Casa;Leve
+24;15/03/2020;Bogot·;02 - Chapinero;41;F;Importado;Casa;Leve
+25;15/03/2020;Bogot·;12 - Barrios Unidos;67;F;Importado;Casa;Leve
+26;15/03/2020;Bogot·;02 - Chapinero;29;M;Importado;Casa;Leve
+27;15/03/2020;Bogot·;02 - Chapinero;62;M;Importado;Casa;Leve
+28;15/03/2020;Bogot·;11 - Suba;42;F;Importado;Hospital;Moderado
+29;15/03/2020;Bogot·;01 - UsaquÈn;58;F;Relacionado;Casa;Leve
+30;15/03/2020;Bogot·;10 - Engativ·;34;M;Importado;Casa;Leve
+31;16/03/2020;Bogot·;01 - UsaquÈn;31;M;Importado;Hospital;Moderado
+32;16/03/2020;Bogot·;01 - UsaquÈn;64;M;Relacionado;Casa;Leve
+33;17/03/2020;Bogot·;02 - Chapinero;40;F;Importado;Casa;Leve
+34;17/03/2020;Bogot·;02 - Chapinero;22;F;Importado;Casa;Leve
+35;17/03/2020;Bogot·;02 - Chapinero;21;M;Importado;Casa;Leve
+36;17/03/2020;Bogot·;02 - Chapinero;72;M;Importado;Hospital UCI;Grave
+37;17/03/2020;Bogot·;01 - UsaquÈn;37;F;Importado;Casa;Leve
+38;17/03/2020;Bogot·;17 - La Candelaria;49;F;Relacionado;Casa;Leve
+39;17/03/2020;Bogot·;18 - Rafael Uribe Uribe;18;M;Relacionado;Casa;Leve
+40;17/03/2020;Bogot·;11 - Suba;50;M;Relacionado;Casa;Leve
+41;17/03/2020;Bogot·;02 - Chapinero;26;F;Importado;Casa;Leve
+42;18/03/2020;Bogot·;16 - Puente Aranda;53;M;Importado;Casa;Leve
+43;18/03/2020;Bogot·;01 - UsaquÈn;69;M;Importado;Hospital UCI;Grave
+44;18/03/2020;Bogot·;09 - FontibÛn;37;F;Importado;Casa;Leve
+45;19/03/2020;Bogot·;16 - Puente Aranda;54;M;Importado;Casa;Leve
+46;19/03/2020;Bogot·;09 - FontibÛn;62;F;Importado;Casa;Leve
+47;19/03/2020;Bogot·;01 - UsaquÈn;60;M;Relacionado;Casa;Leve
+48;19/03/2020;Bogot·;01 - UsaquÈn;30;M;Importado;Casa;Leve
+49;19/03/2020;Bogot·;02 - Chapinero;33;M;Importado;Casa;Leve
+50;19/03/2020;Bogot·;11 - Suba;49;M;Importado;Casa;Leve
+51;19/03/2020;Bogot·;09 - FontibÛn;29;M;Importado;Casa;Leve
+52;19/03/2020;Bogot·;11 - Suba;40;F;Relacionado;Casa;Leve
+53;19/03/2020;Bogot·;10 - Engativ·;54;M;Importado;Casa;Leve
+54;19/03/2020;Bogot·;02 - Chapinero;30;M;Importado;Casa;Leve
+55;19/03/2020;Bogot·;02 - Chapinero;34;M;Importado;Casa;Leve
+56;19/03/2020;Bogot·;02 - Chapinero;29;F;Importado;Casa;Leve
+57;20/03/2020;Bogot·;09 - FontibÛn;37;M;Importado;Casa;Leve
+58;20/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;31;F;Relacionado;Casa;Leve
+59;20/03/2020;Bogot·;11 - Suba;32;M;Relacionado;Casa;Leve
+60;20/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;25;F;Relacionado;Casa;Leve
+61;20/03/2020;Bogot·;13 - Teusaquillo;47;M;Importado;Casa;Leve
+62;20/03/2020;Bogot·;01 - UsaquÈn;65;M;Importado;Fallecido;Fallecido
+63;20/03/2020;Bogot·;16 - Puente Aranda;53;F;En estudio;Fallecido;Fallecido
+64;20/03/2020;Bogot·;01 - UsaquÈn;40;M;Importado;Casa;Leve
+65;20/03/2020;Bogot·;02 - Chapinero;34;M;Importado;Casa;Leve
+66;20/03/2020;Bogot·;10 - Engativ·;42;F;Importado;Casa;Leve
+67;20/03/2020;Bogot·;11 - Suba;22;F;Importado;Casa;Leve
+68;20/03/2020;Bogot·;11 - Suba;25;M;Importado;Casa;Leve
+69;20/03/2020;Bogot·;11 - Suba;28;M;En estudio;Hospital UCI;Grave
+70;20/03/2020;Bogot·;01 - UsaquÈn;67;F;Importado;Casa;Leve
+71;20/03/2020;Bogot·;09 - FontibÛn;32;F;Relacionado;Casa;Leve
+72;20/03/2020;Bogot·;11 - Suba;45;F;En estudio;Casa;Leve
+73;20/03/2020;Bogot·;10 - Engativ·;46;F;Relacionado;Casa;Leve
+74;20/03/2020;Bogot·;06 - Tunjuelito;25;F;Importado;Hospital;Moderado
+75;20/03/2020;Bogot·;10 - Engativ·;42;F;Relacionado;Hospital;Moderado
+76;20/03/2020;Bogot·;01 - UsaquÈn;45;F;Importado;Casa;Leve
+77;20/03/2020;Bogot·;10 - Engativ·;21;F;Relacionado;Casa;Leve
+78;20/03/2020;Bogot·;10 - Engativ·;27;M;En estudio;Casa;Leve
+79;20/03/2020;Bogot·;13 - Teusaquillo;65;F;Importado;Casa;Leve
+80;20/03/2020;Bogot·;13 - Teusaquillo;70;M;Importado;Casa;Leve
+81;20/03/2020;Bogot·;09 - FontibÛn;23;F;Importado;Casa;Leve
+82;20/03/2020;Bogot·;01 - UsaquÈn;28;M;Relacionado;Casa;Leve
+83;20/03/2020;Bogot·;01 - UsaquÈn;60;F;Importado;Casa;Leve
+84;20/03/2020;Bogot·;01 - UsaquÈn;41;M;Importado;Hospital UCI;Grave
+85;20/03/2020;Bogot·;09 - FontibÛn;41;M;Importado;Casa;Leve
+86;21/03/2020;Bogot·;01 - UsaquÈn;62;M;Importado;Casa;Leve
+87;21/03/2020;Bogot·;13 - Teusaquillo;68;F;Importado;Casa;Leve
+88;21/03/2020;Fuera de Bogot·;11 - Suba;64;M;En estudio;Casa;Leve
+89;21/03/2020;Bogot·;07 - Bosa;41;M;Relacionado;Casa;Leve
+90;21/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;47;M;Importado;Hospital;Moderado
+91;21/03/2020;Bogot·;06 - Tunjuelito;32;F;En estudio;Casa;Leve
+92;22/03/2020;Bogot·;11 - Suba;59;F;En estudio;Fallecido;Fallecido
+93;22/03/2020;Bogot·;11 - Suba;58;F;Relacionado;Hospital;Moderado
+94;22/03/2020;Bogot·;05 - Usme;40;M;Importado;Casa;Leve
+95;22/03/2020;Bogot·;11 - Suba;52;M;Importado;Casa;Leve
+96;22/03/2020;Bogot·;09 - FontibÛn;49;M;Importado;Casa;Leve
+97;22/03/2020;Bogot·;11 - Suba;28;M;En estudio;Casa;Leve
+98;22/03/2020;Bogot·;09 - FontibÛn;26;M;Relacionado;Casa;Leve
+99;22/03/2020;Bogot·;08 - Kennedy;30;F;Importado;Casa;Leve
+100;22/03/2020;Bogot·;09 - FontibÛn;72;F;Importado;Casa;Leve
+101;22/03/2020;Bogot·;13 - Teusaquillo;45;F;Importado;Casa;Leve
+102;22/03/2020;Bogot·;01 - UsaquÈn;38;F;Importado;Casa;Leve
+103;22/03/2020;Bogot·;08 - Kennedy;34;F;En estudio;Casa;Leve
+104;22/03/2020;Bogot·;02 - Chapinero;55;M;Importado;Casa;Leve
+105;22/03/2020;Bogot·;01 - UsaquÈn;57;F;Importado;Casa;Leve
+106;22/03/2020;Bogot·;01 - UsaquÈn;26;M;Importado;Casa;Leve
+107;22/03/2020;Bogot·;02 - Chapinero;80;M;Relacionado;Casa;Leve
+108;22/03/2020;Bogot·;01 - UsaquÈn;19;F;Importado;Casa;Leve
+109;22/03/2020;Bogot·;11 - Suba;35;M;Importado;Casa;Leve
+110;22/03/2020;Bogot·;03 - Santa Fe;39;M;Importado;Casa;Leve
+111;22/03/2020;Bogot·;09 - FontibÛn;31;M;Importado;Casa;Leve
+112;22/03/2020;Bogot·;11 - Suba;40;F;Desconocido;Casa;Leve
+113;22/03/2020;Bogot·;11 - Suba;18;F;Desconocido;Casa;Leve
+114;23/03/2020;Bogot·;08 - Kennedy;76;M;En estudio;Fallecido;Fallecido
+115;23/03/2020;Bogot·;01 - UsaquÈn;61;M;En estudio;Fallecido;Fallecido
+116;23/03/2020;Bogot·;12 - Barrios Unidos;21;F;Desconocido;Casa;Leve
+117;23/03/2020;Bogot·;02 - Chapinero;59;M;Importado;Casa;Leve
+118;23/03/2020;Bogot·;11 - Suba;28;F;Importado;Casa;Leve
+119;23/03/2020;Bogot·;13 - Teusaquillo;48;F;En estudio;Casa;Leve
+120;23/03/2020;Bogot·;11 - Suba;50;M;Importado;Casa;Leve
+121;24/03/2020;Bogot·;10 - Engativ·;23;F;Relacionado;Casa;Leve
+122;24/03/2020;Bogot·;10 - Engativ·;34;F;Relacionado;Casa;Leve
+123;24/03/2020;Bogot·;02 - Chapinero;48;F;Importado;Casa;Leve
+124;24/03/2020;Bogot·;02 - Chapinero;61;M;Importado;Casa;Leve
+125;24/03/2020;Bogot·;02 - Chapinero;58;F;Importado;Casa;Leve
+126;24/03/2020;Bogot·;02 - Chapinero;63;M;Relacionado;Casa;Leve
+127;24/03/2020;Bogot·;11 - Suba;59;M;Importado;Hospital;Moderado
+128;24/03/2020;Bogot·;09 - FontibÛn;51;M;Importado;Hospital;Moderado
+129;24/03/2020;Bogot·;01 - UsaquÈn;29;M;Importado;Casa;Leve
+130;24/03/2020;Bogot·;01 - UsaquÈn;43;F;Desconocido;Casa;Leve
+131;24/03/2020;Bogot·;11 - Suba;73;M;Relacionado;Fallecido;Fallecido
+132;24/03/2020;Bogot·;11 - Suba;74;F;Relacionado;Casa;Leve
+133;24/03/2020;Bogot·;13 - Teusaquillo;45;F;Importado;Casa;Leve
+134;24/03/2020;Bogot·;01 - UsaquÈn;34;M;Importado;Casa;Leve
+135;24/03/2020;Bogot·;01 - UsaquÈn;45;M;Relacionado;Casa;Leve
+136;24/03/2020;Bogot·;01 - UsaquÈn;48;M;Relacionado;Casa;Leve
+137;24/03/2020;Bogot·;01 - UsaquÈn;66;M;Importado;Hospital;Moderado
+138;24/03/2020;Bogot·;11 - Suba;44;F;Importado;Casa;Leve
+139;24/03/2020;Bogot·;10 - Engativ·;51;F;En estudio;Casa;Leve
+140;24/03/2020;Bogot·;10 - Engativ·;27;F;Relacionado;Casa;Leve
+141;24/03/2020;Bogot·;02 - Chapinero;21;M;Importado;Casa;Leve
+142;24/03/2020;Bogot·;02 - Chapinero;60;F;Importado;Casa;Leve
+143;24/03/2020;Bogot·;16 - Puente Aranda;70;F;Importado;Hospital;Moderado
+144;24/03/2020;Bogot·;11 - Suba;30;F;Importado;Casa;Leve
+145;24/03/2020;Bogot·;01 - UsaquÈn;21;M;Importado;Casa;Leve
+146;24/03/2020;Bogot·;09 - FontibÛn;58;M;Importado;Casa;Leve
+147;24/03/2020;Bogot·;02 - Chapinero;25;M;Importado;Casa;Leve
+148;24/03/2020;Bogot·;02 - Chapinero;25;F;Importado;Casa;Leve
+149;24/03/2020;Bogot·;01 - UsaquÈn;45;M;Importado;Casa;Leve
+150;24/03/2020;Bogot·;01 - UsaquÈn;33;F;Importado;Casa;Leve
+151;24/03/2020;Bogot·;17 - La Candelaria;43;F;Relacionado;Casa;Leve
+152;24/03/2020;Bogot·;17 - La Candelaria;63;M;Relacionado;Casa;Leve
+153;24/03/2020;Bogot·;01 - UsaquÈn;57;F;Relacionado;Hospital UCI;Grave
+154;24/03/2020;Bogot·;01 - UsaquÈn;23;F;Importado;Casa;Leve
+155;24/03/2020;Bogot·;11 - Suba;48;M;Importado;Casa;Leve
+156;24/03/2020;Bogot·;11 - Suba;62;M;Desconocido;Hospital UCI;Grave
+157;24/03/2020;Bogot·;10 - Engativ·;35;M;Desconocido;Casa;Leve
+158;24/03/2020;Bogot·;08 - Kennedy;69;F;Desconocido;Casa;Leve
+159;24/03/2020;Bogot·;09 - FontibÛn;52;F;Relacionado;Casa;Leve
+160;24/03/2020;Bogot·;13 - Teusaquillo;35;M;Importado;Casa;Leve
+161;24/03/2020;Bogot·;11 - Suba;19;F;Importado;Casa;Leve
+162;24/03/2020;Bogot·;08 - Kennedy;40;F;En estudio;Casa;Leve
+163;24/03/2020;Bogot·;11 - Suba;33;F;En estudio;Casa;Leve
+164;24/03/2020;Bogot·;13 - Teusaquillo;37;F;Importado;Casa;Leve
+165;24/03/2020;Bogot·;13 - Teusaquillo;41;M;Importado;Casa;Leve
+166;24/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;30;F;Importado;Casa;Leve
+167;24/03/2020;Bogot·;10 - Engativ·;84;F;En estudio;Hospital;Moderado
+168;24/03/2020;Bogot·;10 - Engativ·;61;F;En estudio;Casa;Leve
+169;24/03/2020;Bogot·;01 - UsaquÈn;57;F;Importado;Casa;Leve
+170;24/03/2020;Bogot·;10 - Engativ·;42;M;En estudio;Hospital;Moderado
+171;24/03/2020;Bogot·;13 - Teusaquillo;39;M;Relacionado;Casa;Leve
+172;24/03/2020;Bogot·;10 - Engativ·;35;M;Importado;Casa;Leve
+173;24/03/2020;Bogot·;02 - Chapinero;31;F;Importado;Casa;Leve
+174;24/03/2020;Bogot·;01 - UsaquÈn;44;F;Importado;Casa;Leve
+175;24/03/2020;Bogot·;15 - Antonio NariÒo;17;F;Desconocido;Casa;Leve
+176;24/03/2020;Bogot·;13 - Teusaquillo;39;F;Importado;Casa;Leve
+177;24/03/2020;Bogot·;09 - FontibÛn;30;F;En estudio;Casa;Leve
+178;24/03/2020;Bogot·;10 - Engativ·;56;M;Desconocido;Casa;Leve
+179;25/03/2020;Bogot·;09 - FontibÛn;40;M;En estudio;Casa;Leve
+180;25/03/2020;Bogot·;13 - Teusaquillo;55;F;En estudio;Casa;Leve
+181;25/03/2020;Bogot·;06 - Tunjuelito;35;F;En estudio;Casa;Leve
+182;25/03/2020;Bogot·;13 - Teusaquillo;50;F;Importado;Casa;Leve
+183;25/03/2020;Fuera de Bogot·;13 - Teusaquillo;43;F;En estudio;Casa;Leve
+184;25/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;34;F;En estudio;Casa;Leve
+185;25/03/2020;Bogot·;11 - Suba;51;M;Desconocido;Casa;Leve
+186;25/03/2020;Bogot·;13 - Teusaquillo;39;M;En estudio;Casa;Leve
+187;25/03/2020;Fuera de Bogot·;13 - Teusaquillo;30;M;En estudio;Casa;Leve
+188;25/03/2020;Bogot·;11 - Suba;43;M;En estudio;Casa;Leve
+189;26/03/2020;Bogot·;13 - Teusaquillo;22;M;Importado;Casa;Leve
+190;26/03/2020;Bogot·;13 - Teusaquillo;37;F;Importado;Casa;Leve
+191;26/03/2020;Fuera de Bogot·;02 - Chapinero;85;M;Importado;Hospital UCI;Grave
+192;26/03/2020;Bogot·;02 - Chapinero;65;M;En estudio;Casa;Leve
+193;26/03/2020;Bogot·;01 - UsaquÈn;23;F;Desconocido;Casa;Leve
+194;26/03/2020;Bogot·;09 - FontibÛn;35;M;Importado;Casa;Leve
+195;26/03/2020;Bogot·;09 - FontibÛn;32;F;Importado;Casa;Leve
+196;26/03/2020;Bogot·;08 - Kennedy;34;M;Importado;Casa;Leve
+197;26/03/2020;Bogot·;11 - Suba;48;M;Importado;Casa;Leve
+198;26/03/2020;Fuera de Bogot·;07 - Bosa;42;F;Importado;Hospital;Moderado
+199;26/03/2020;Bogot·;08 - Kennedy;28;F;Importado;Casa;Leve
+200;26/03/2020;Bogot·;16 - Puente Aranda;28;M;En estudio;Casa;Leve
+201;26/03/2020;Bogot·;07 - Bosa;31;M;En estudio;Casa;Leve
+202;26/03/2020;Bogot·;09 - FontibÛn;50;M;Importado;Casa;Leve
+203;26/03/2020;Bogot·;19 - Ciudad BolÌvar;27;M;Importado;Casa;Leve
+204;26/03/2020;Bogot·;09 - FontibÛn;52;M;Importado;Casa;Leve
+205;26/03/2020;Bogot·;11 - Suba;47;F;Importado;Casa;Leve
+206;26/03/2020;Bogot·;02 - Chapinero;35;M;Importado;Casa;Leve
+207;26/03/2020;Bogot·;09 - FontibÛn;37;M;Desconocido;Casa;Leve
+208;26/03/2020;Bogot·;08 - Kennedy;72;M;Desconocido;Fallecido;Fallecido
+209;26/03/2020;Bogot·;08 - Kennedy;74;F;Desconocido;Hospital;Moderado
+210;26/03/2020;Bogot·;08 - Kennedy;35;M;Importado;Casa;Leve
+211;26/03/2020;Bogot·;13 - Teusaquillo;71;M;Desconocido;Casa;Leve
+212;26/03/2020;Bogot·;12 - Barrios Unidos;71;M;En estudio;Fallecido;Fallecido
+213;26/03/2020;Bogot·;11 - Suba;50;M;Importado;Casa;Leve
+214;26/03/2020;Bogot·;12 - Barrios Unidos;80;M;Importado;Casa;Leve
+215;26/03/2020;Bogot·;10 - Engativ·;30;F;En estudio;Casa;Leve
+216;26/03/2020;Bogot·;10 - Engativ·;24;F;Relacionado;Casa;Leve
+217;26/03/2020;Bogot·;10 - Engativ·;20;M;Relacionado;Casa;Leve
+218;26/03/2020;Bogot·;10 - Engativ·;47;M;Relacionado;Casa;Leve
+219;26/03/2020;Bogot·;10 - Engativ·;26;M;Relacionado;Casa;Leve
+220;26/03/2020;Bogot·;10 - Engativ·;24;F;Relacionado;Casa;Leve
+221;26/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;62;F;Importado;Casa;Leve
+222;26/03/2020;Bogot·;01 - UsaquÈn;37;M;Importado;Casa;Leve
+223;26/03/2020;Bogot·;11 - Suba;32;M;Importado;Casa;Leve
+224;26/03/2020;Bogot·;13 - Teusaquillo;36;F;Relacionado;Casa;Leve
+225;26/03/2020;Bogot·;11 - Suba;84;M;Desconocido;Fallecido;Fallecido
+226;26/03/2020;Bogot·;15 - Antonio NariÒo;56;F;En estudio;Casa;Leve
+227;26/03/2020;Fuera de Bogot·;07 - Bosa;33;F;Relacionado;Casa;Leve
+228;26/03/2020;Bogot·;11 - Suba;51;M;En estudio;Casa;Leve
+229;26/03/2020;Bogot·;11 - Suba;29;M;Desconocido;Casa;Leve
+230;26/03/2020;Bogot·;01 - UsaquÈn;40;M;Relacionado;Casa;Leve
+231;26/03/2020;Bogot·;01 - UsaquÈn;33;M;Importado;Casa;Leve
+232;26/03/2020;Fuera de Bogot·;02 - Chapinero;42;M;Desconocido;Casa;Leve
+233;26/03/2020;Bogot·;16 - Puente Aranda;39;M;Importado;Casa;Leve
+234;26/03/2020;Bogot·;16 - Puente Aranda;43;M;Importado;Casa;Leve
+235;26/03/2020;Bogot·;07 - Bosa;82;F;Desconocido;Casa;Leve
+236;26/03/2020;Bogot·;11 - Suba;41;M;Importado;Casa;Leve
+237;26/03/2020;Bogot·;02 - Chapinero;53;M;Relacionado;Casa;Leve
+238;26/03/2020;Bogot·;18 - Rafael Uribe Uribe;55;F;En estudio;Hospital UCI;Grave
+239;26/03/2020;Bogot·;10 - Engativ·;49;M;Desconocido;Hospital UCI;Grave
+240;26/03/2020;Bogot·;10 - Engativ·;58;F;Relacionado;Casa;Leve
+241;26/03/2020;Bogot·;05 - Usme;38;F;En estudio;Casa;Leve
+242;26/03/2020;Bogot·;07 - Bosa;31;F;En estudio;Casa;Leve
+243;26/03/2020;Bogot·;12 - Barrios Unidos;64;F;En estudio;Casa;Leve
+244;26/03/2020;Bogot·;09 - FontibÛn;33;F;Relacionado;Casa;Leve
+245;26/03/2020;Bogot·;07 - Bosa;35;M;Relacionado;Casa;Leve
+246;26/03/2020;Bogot·;03 - Santa Fe;43;M;En estudio;Casa;Leve
+247;26/03/2020;Bogot·;11 - Suba;30;M;Relacionado;Casa;Leve
+248;26/03/2020;Bogot·;07 - Bosa;54;M;Desconocido;Casa;Leve
+249;26/03/2020;Bogot·;11 - Suba;53;F;En estudio;Casa;Leve
+250;26/03/2020;Bogot·;10 - Engativ·;38;F;Importado;Casa;Leve
+251;26/03/2020;Bogot·;08 - Kennedy;30;M;Relacionado;Hospital;Moderado
+252;26/03/2020;Bogot·;13 - Teusaquillo;38;M;Importado;Casa;Leve
+253;26/03/2020;Bogot·;01 - UsaquÈn;33;F;Relacionado;Casa;Leve
+254;26/03/2020;Bogot·;11 - Suba;67;F;Importado;Hospital UCI;Grave
+255;26/03/2020;Fuera de Bogot·;03 - Santa Fe;39;M;Relacionado;Casa;Leve
+256;26/03/2020;Bogot·;06 - Tunjuelito;25;M;En estudio;Casa;Leve
+257;26/03/2020;Bogot·;11 - Suba;42;F;Importado;Casa;Leve
+258;26/03/2020;Bogot·;09 - FontibÛn;62;F;Importado;Casa;Leve
+259;26/03/2020;Bogot·;08 - Kennedy;38;M;En estudio;Casa;Leve
+260;26/03/2020;Bogot·;01 - UsaquÈn;45;F;En estudio;Casa;Leve
+261;26/03/2020;Bogot·;11 - Suba;50;M;Desconocido;Hospital;Moderado
+262;26/03/2020;Fuera de Bogot·;21 - Fuera de Bogot·;48;M;Desconocido;Casa;Leve
+263;26/03/2020;Bogot·;03 - Santa Fe;32;M;En estudio;Hospital;Moderado
+264;26/03/2020;Bogot·;01 - UsaquÈn;26;M;Importado;Casa;Leve
+265;26/03/2020;Bogot·;01 - UsaquÈn;47;F;Desconocido;Casa;Leve
+266;26/03/2020;Bogot·;02 - Chapinero;38;M;Importado;Casa;Leve
+267;26/03/2020;Bogot·;01 - UsaquÈn;39;F;En estudio;Casa;Leve
+268;26/03/2020;Bogot·;10 - Engativ·;24;M;Importado;Casa;Leve
+269;27/03/2020;Bogot·;11 - Suba;48;F;Desconocido;Fallecido;Fallecido
+270;27/03/2020;Bogot·;18 - Rafael Uribe Uribe;57;F;Desconocido;Fallecido;Fallecido
+271;27/03/2020;Bogot·;10 - Engativ·;31;F;Importado;Casa;Leve
+272;27/03/2020;Bogot·;10 - Engativ·;38;M;Relacionado;Casa;Leve
+273;27/03/2020;Bogot·;01 - UsaquÈn;37;M;Importado;Casa;Leve
+274;27/03/2020;Bogot·;11 - Suba;68;F;Importado;Hospital;Moderado
+275;27/03/2020;Fuera de Bogot·;12 - Barrios Unidos;26;M;En estudio;Casa;Leve
+276;27/03/2020;Bogot·;10 - Engativ·;62;M;Relacionado;Casa;Leve
+277;27/03/2020;Bogot·;01 - UsaquÈn;30;M;Desconocido;Casa;Leve
+278;27/03/2020;Bogot·;01 - UsaquÈn;37;M;Importado;Casa;Leve
+279;27/03/2020;Bogot·;13 - Teusaquillo;50;F;Importado;Casa;Leve
+280;27/03/2020;Bogot·;01 - UsaquÈn;45;M;Importado;Casa;Leve
+281;27/03/2020;Bogot·;01 - UsaquÈn;42;F;En estudio;Casa;Leve
+282;27/03/2020;Bogot·;01 - UsaquÈn;42;F;En estudio;Casa;Leve
+283;27/03/2020;Bogot·;10 - Engativ·;62;M;Importado;Hospital UCI;Grave
+284;27/03/2020;Bogot·;11 - Suba;50;F;Importado;Casa;Leve
+285;27/03/2020;Bogot·;02 - Chapinero;29;M;En estudio;Casa;Leve
+286;27/03/2020;Bogot·;02 - Chapinero;69;F;Importado;Casa;Leve
+287;27/03/2020;Bogot·;10 - Engativ·;52;M;En estudio;Casa;Leve
+288;27/03/2020;Bogot·;08 - Kennedy;58;F;Importado;Hospital UCI;Grave
+289;27/03/2020;Bogot·;11 - Suba;46;M;En estudio;Casa;Leve
+290;27/03/2020;Bogot·;10 - Engativ·;26;F;En estudio;Casa;Leve
+291;27/03/2020;Bogot·;01 - UsaquÈn;38;M;En estudio;Casa;Leve
+292;27/03/2020;Bogot·;01 - UsaquÈn;22;F;Importado;Casa;Leve
+293;27/03/2020;Bogot·;10 - Engativ·;33;M;Importado;Casa;Leve
+294;27/03/2020;Bogot·;10 - Engativ·;34;F;Importado;Casa;Leve
+295;27/03/2020;Bogot·;02 - Chapinero;28;F;Importado;Casa;Leve
+296;27/03/2020;Bogot·;01 - UsaquÈn;31;M;Desconocido;Casa;Leve
+297;27/03/2020;Bogot·;08 - Kennedy;49;M;En estudio;Hospital UCI;Grave
+298;27/03/2020;Bogot·;06 - Tunjuelito;32;M;En estudio;Casa;Leve
+299;27/03/2020;Bogot·;10 - Engativ·;23;F;Importado;Casa;Leve
+300;27/03/2020;Bogot·;17 - La Candelaria;30;F;En estudio;Casa;Leve
+301;27/03/2020;Bogot·;08 - Kennedy;54;M;En estudio;Casa;Leve
+302;28/03/2020;Bogot·;08 - Kennedy;57;M;En estudio;Hospital;Moderado
+303;28/03/2020;Bogot·;01 - UsaquÈn;68;F;Importado;Casa;Leve
+304;28/03/2020;Bogot·;16 - Puente Aranda;45;F;En estudio;Casa;Leve
+305;28/03/2020;Bogot·;10 - Engativ·;29;M;En estudio;Casa;Leve
+306;28/03/2020;Bogot·;11 - Suba;70;M;En estudio;Casa;Leve
+307;28/03/2020;Bogot·;11 - Suba;60;F;En estudio;Casa;Leve
+308;28/03/2020;Bogot·;08 - Kennedy;68;M;Desconocido;Hospital;Moderado
+309;28/03/2020;Bogot·;01 - UsaquÈn;25;F;Importado;Casa;Leve
+310;28/03/2020;Bogot·;11 - Suba;42;F;En estudio;Casa;Leve
+311;28/03/2020;Bogot·;05 - Usme;51;M;Importado;Casa;Leve
+312;28/03/2020;Bogot·;11 - Suba;65;M;En estudio;Casa;Leve
+313;28/03/2020;Bogot·;01 - UsaquÈn;23;M;Importado;Hospital;Moderado
+314;28/03/2020;Bogot·;11 - Suba;50;M;Importado;Casa;Leve
+315;28/03/2020;Bogot·;01 - UsaquÈn;61;M;Importado;Casa;Leve
+316;28/03/2020;Bogot·;01 - UsaquÈn;61;F;Importado;Casa;Leve
+317;28/03/2020;Bogot·;08 - Kennedy;73;M;Relacionado;Casa;Leve
+318;28/03/2020;Bogot·;08 - Kennedy;51;F;Relacionado;Casa;Leve
+319;28/03/2020;Bogot·;10 - Engativ·;28;M;Desconocido;Casa;Leve
+320;28/03/2020;Bogot·;11 - Suba;74;M;Importado;Casa;Leve
+321;28/03/2020;Bogot·;09 - FontibÛn;29;M;Importado;Casa;Leve
+322;28/03/2020;Bogot·;11 - Suba;51;F;Desconocido;Hospital;Moderado
+323;28/03/2020;Bogot·;19 - Ciudad BolÌvar;21;F;Relacionado;Casa;Leve
+324;28/03/2020;Bogot·;11 - Suba;57;M;Importado;Casa;Leve
+325;28/03/2020;Bogot·;01 - UsaquÈn;61;F;Desconocido;Hospital UCI;Grave
+326;28/03/2020;Bogot·;09 - FontibÛn;35;M;Importado;Casa;Leve
+327;28/03/2020;Bogot·;13 - Teusaquillo;30;M;En estudio;Casa;Leve
+328;28/03/2020;Bogot·;08 - Kennedy;31;F;Importado;Casa;Leve
+329;28/03/2020;Bogot·;08 - Kennedy;46;M;Desconocido;Casa;Leve
+330;28/03/2020;Bogot·;13 - Teusaquillo;84;M;Importado;Casa;Leve
+331;28/03/2020;Bogot·;01 - UsaquÈn;47;F;Desconocido;Hospital;Moderado
+332;28/03/2020;Bogot·;09 - FontibÛn;65;M;Importado;Casa;Leve
+333;28/03/2020;Bogot·;11 - Suba;33;F;Importado;Casa;Leve
+334;28/03/2020;Bogot·;07 - Bosa;44;M;Desconocido;Hospital UCI;Grave
+335;28/03/2020;Bogot·;08 - Kennedy;30;F;Relacionado;Casa;Leve
+336;28/03/2020;Bogot·;10 - Engativ·;27;F;Desconocido;Casa;Leve
+337;28/03/2020;Bogot·;11 - Suba;35;M;Importado;Casa;Leve
+338;28/03/2020;Bogot·;02 - Chapinero;36;M;Desconocido;Casa;Leve
+339;28/03/2020;Bogot·;04 - San CristÛbal;28;M;Importado;Casa;Leve
+340;28/03/2020;Bogot·;10 - Engativ·;25;F;Relacionado;Casa;Leve
+341;28/03/2020;Bogot·;10 - Engativ·;47;F;Relacionado;Casa;Leve
+342;28/03/2020;Bogot·;10 - Engativ·;2;F;Relacionado;Casa;Leve
+343;28/03/2020;Bogot·;11 - Suba;64;F;Desconocido;Hospital UCI;Grave
+344;28/03/2020;Bogot·;02 - Chapinero;51;M;Importado;Casa;Leve
+345;28/03/2020;Bogot·;10 - Engativ·;2;F;En estudio;Casa;Leve
+346;28/03/2020;Bogot·;01 - UsaquÈn;50;M;Importado;Casa;Leve
+347;28/03/2020;Bogot·;11 - Suba;15;F;Importado;Casa;Leve
+348;28/03/2020;Bogot·;11 - Suba;32;M;En estudio;Hospital UCI;Grave
+349;28/03/2020;Bogot·;01 - UsaquÈn;58;F;Importado;Casa;Leve
+350;28/03/2020;Bogot·;08 - Kennedy;56;F;En estudio;Casa;Leve
+351;28/03/2020;Bogot·;01 - UsaquÈn;29;M;Importado;Casa;Leve
+352;28/03/2020;Bogot·;13 - Teusaquillo;56;M;En estudio;Casa;Leve
+353;28/03/2020;Bogot·;13 - Teusaquillo;41;M;En estudio;Casa;Leve
+354;28/03/2020;Bogot·;13 - Teusaquillo;55;M;Importado;Hospital UCI;Grave
+355;29/03/2020;Bogot·;02 - Chapinero;36;F;Importado;Casa;Leve
+356;29/03/2020;Bogot·;18 - Rafael Uribe Uribe;29;F;En estudio;Casa;Leve
+357;29/03/2020;Bogot·;13 - Teusaquillo;34;M;En estudio;Casa;Leve
+358;29/03/2020;Bogot·;13 - Teusaquillo;30;M;En estudio;Casa;Leve
+359;29/03/2020;Bogot·;18 - Rafael Uribe Uribe;38;M;Desconocido;Casa;Leve
+360;29/03/2020;Bogot·;01 - UsaquÈn;75;F;Desconocido;Hospital UCI;Grave
+361;29/03/2020;Bogot·;11 - Suba;27;M;Desconocido;Casa;Leve
+362;29/03/2020;Bogot·;07 - Bosa;51;F;Importado;Casa;Leve
+363;29/03/2020;Bogot·;09 - FontibÛn;54;F;Relacionado;Casa;Leve
+364;29/03/2020;Bogot·;16 - Puente Aranda;52;M;Desconocido;Casa;Leve
+365;29/03/2020;Bogot·;01 - UsaquÈn;33;F;Importado;Casa;Leve
+366;29/03/2020;Bogot·;11 - Suba;38;M;Importado;Casa;Leve
+367;29/03/2020;Bogot·;11 - Suba;38;F;Importado;Casa;Leve
+368;29/03/2020;Bogot·;11 - Suba;31;M;Importado;Casa;Leve
+369;29/03/2020;Bogot·;09 - FontibÛn;72;F;Importado;Fallecido;Fallecido
+370;29/03/2020;Bogot·;12 - Barrios Unidos;51;M;Relacionado;Casa;Leve
+371;29/03/2020;Bogot·;12 - Barrios Unidos;2;M;Relacionado;Casa;Leve
+372;29/03/2020;Bogot·;12 - Barrios Unidos;47;F;Relacionado;Casa;Leve
+373;29/03/2020;Bogot·;08 - Kennedy;50;M;En estudio;Hospital;Moderado
+374;29/03/2020;Bogot·;02 - Chapinero;69;M;Relacionado;Casa;Leve
+375;29/03/2020;Bogot·;13 - Teusaquillo;30;M;Importado;Casa;Leve
+376;29/03/2020;Bogot·;01 - UsaquÈn;27;M;En estudio;Casa;Leve
+377;29/03/2020;Bogot·;08 - Kennedy;66;F;En estudio;Hospital UCI;Grave
+378;29/03/2020;Bogot·;11 - Suba;45;M;En estudio;Casa;Leve
+379;29/03/2020;Bogot·;11 - Suba;40;F;Importado;Casa;Leve
+380;29/03/2020;Bogot·;11 - Suba;55;F;En estudio;Hospital;Moderado
+381;29/03/2020;Bogot·;11 - Suba;20;F;Importado;Casa;Leve
+382;29/03/2020;Bogot·;10 - Engativ·;2;M;Relacionado;Casa;Leve
+383;29/03/2020;Bogot·;11 - Suba;37;M;Importado;Casa;Leve
+384;29/03/2020;Bogot·;10 - Engativ·;29;F;Desconocido;Casa;Leve
+385;29/03/2020;Bogot·;10 - Engativ·;38;M;Importado;Casa;Leve
+386;29/03/2020;Bogot·;08 - Kennedy;54;F;Importado;Casa;Leve
+387;29/03/2020;Bogot·;06 - Tunjuelito;30;F;Desconocido;Casa;Leve
+388;29/03/2020;Bogot·;11 - Suba;44;F;Desconocido;Casa;Leve
+389;29/03/2020;Bogot·;11 - Suba;63;M;Desconocido;Casa;Leve
+390;29/03/2020;Bogot·;11 - Suba;15;F;En estudio;Casa;Leve
+391;29/03/2020;Bogot·;10 - Engativ·;39;F;Desconocido;Casa;Leve
+392;29/03/2020;Bogot·;15 - Antonio NariÒo;49;F;En estudio;Casa;Leve
+393;29/03/2020;Bogot·;01 - UsaquÈn;73;M;Desconocido;Fallecido;Fallecido
+394;29/03/2020;Bogot·;01 - UsaquÈn;72;M;Desconocido;Fallecido;Fallecido
+395;29/03/2020;Bogot·;11 - Suba;35;M;Desconocido;Casa;Leve
+396;29/03/2020;Bogot·;08 - Kennedy;50;M;En estudio;Fallecido;Fallecido
+397;29/03/2020;Bogot·;05 - Usme;26;F;En estudio;Casa;Leve
+398;29/03/2020;Bogot·;14 - Los M·rtires;47;F;En estudio;Hospital;Moderado
+399;30/03/2020;Bogot·;01 - UsaquÈn;47;M;En estudio;Casa;Leve
+400;30/03/2020;Bogot·;01 - UsaquÈn;49;M;Relacionado;Casa;Leve
+401;30/03/2020;Bogot·;19 - Ciudad BolÌvar;28;M;En estudio;Casa;Leve
+402;30/03/2020;Bogot·;07 - Bosa;33;M;Relacionado;Hospital;Moderado
+403;30/03/2020;Bogot·;02 - Chapinero;13;M;En estudio;Casa;Leve
+404;30/03/2020;Bogot·;01 - UsaquÈn;18;M;Importado;Casa;Leve
+405;30/03/2020;Bogot·;10 - Engativ·;56;M;En estudio;Casa;Leve
+406;30/03/2020;Bogot·;02 - Chapinero;65;F;Desconocido;Hospital UCI;Grave
+407;30/03/2020;Bogot·;01 - UsaquÈn;36;M;En estudio;Casa;Leve
+408;30/03/2020;Bogot·;16 - Puente Aranda;43;F;Relacionado;Casa;Leve
+409;30/03/2020;Bogot·;13 - Teusaquillo;28;F;Desconocido;Casa;Leve
+410;30/03/2020;Bogot·;13 - Teusaquillo;32;M;Importado;Casa;Leve
+411;30/03/2020;Bogot·;13 - Teusaquillo;41;M;Importado;Casa;Leve
+412;30/03/2020;Bogot·;10 - Engativ·;38;F;Relacionado;Casa;Leve
+413;30/03/2020;Bogot·;07 - Bosa;18;M;Desconocido;Casa;Leve
+414;30/03/2020;Bogot·;16 - Puente Aranda;35;M;Desconocido;Hospital;Moderado
+415;30/03/2020;Bogot·;10 - Engativ·;31;F;Desconocido;Casa;Leve
+416;30/03/2020;Bogot·;11 - Suba;31;F;En estudio;Casa;Leve
+417;30/03/2020;Bogot·;11 - Suba;31;M;En estudio;Casa;Leve
+418;30/03/2020;Bogot·;07 - Bosa;40;F;En estudio;Casa;Leve
+419;30/03/2020;Bogot·;01 - UsaquÈn;27;F;En estudio;Casa;Leve
+420;30/03/2020;Bogot·;11 - Suba;39;F;En estudio;Casa;Leve
+421;30/03/2020;Bogot·;15 - Antonio NariÒo;26;M;En estudio;Casa;Leve
+422;30/03/2020;Bogot·;08 - Kennedy;39;M;Importado;Hospital;Moderado
+423;30/03/2020;Bogot·;05 - Usme;59;F;En estudio;Casa;Leve
+424;30/03/2020;Bogot·;13 - Teusaquillo;71;F;Desconocido;Hospital;Moderado
+425;30/03/2020;Bogot·;02 - Chapinero;20;M;En estudio;Casa;Leve
+426;30/03/2020;Bogot·;10 - Engativ·;31;M;Importado;Casa;Leve
+427;30/03/2020;Bogot·;01 - UsaquÈn;40;M;Importado;Casa;Leve
+428;30/03/2020;Bogot·;10 - Engativ·;34;F;Importado;Casa;Leve
+429;30/03/2020;Bogot·;11 - Suba;70;M;Importado;Hospital;Moderado
+430;30/03/2020;Bogot·;19 - Ciudad BolÌvar;74;F;Relacionado;Fallecido;Fallecido
+431;30/03/2020;Bogot·;19 - Ciudad BolÌvar;30;M;Importado;Casa;Leve
+432;30/03/2020;Bogot·;02 - Chapinero;23;M;En estudio;Casa;Leve
+433;30/03/2020;Bogot·;08 - Kennedy;31;F;En estudio;Casa;Leve
+434;30/03/2020;Bogot·;01 - UsaquÈn;26;F;Desconocido;Casa;Leve
+435;30/03/2020;Bogot·;11 - Suba;38;M;En estudio;Casa;Leve
+436;30/03/2020;Bogot·;11 - Suba;49;M;Importado;Casa;Leve
+437;30/03/2020;Bogot·;11 - Suba;36;F;Importado;Casa;Leve
+438;30/03/2020;Bogot·;09 - FontibÛn;27;F;En estudio;Casa;Leve
+439;30/03/2020;Bogot·;09 - FontibÛn;26;M;Importado;Casa;Leve
+440;30/03/2020;Bogot·;11 - Suba;79;F;En estudio;Hospital UCI;Grave
+441;30/03/2020;Bogot·;10 - Engativ·;33;F;En estudio;Casa;Leve
+442;30/03/2020;Bogot·;11 - Suba;39;F;Relacionado;Casa;Leve
+443;30/03/2020;Bogot·;02 - Chapinero;61;F;Importado;Casa;Leve
+444;30/03/2020;Bogot·;11 - Suba;25;F;Importado;Casa;Leve
+445;30/03/2020;Bogot·;16 - Puente Aranda;38;F;En estudio;Hospital;Moderado
+446;30/03/2020;Bogot·;10 - Engativ·;39;F;En estudio;Fallecido;Fallecido
+447;30/03/2020;Bogot·;01 - UsaquÈn;45;F;En estudio;Casa;Leve
+448;30/03/2020;Bogot·;08 - Kennedy;60;F;En estudio;Hospital UCI;Grave
+449;30/03/2020;Bogot·;11 - Suba;33;F;En estudio;Hospital;Moderado
+450;30/03/2020;Bogot·;06 - Tunjuelito;41;F;Desconocido;Casa;Leve
+451;30/03/2020;Bogot·;14 - Los M·rtires;60;M;En estudio;Hospital;Moderado
+452;31/03/2020;Bogot·;04 - San CristÛbal;32;F;Relacionado;Casa;Leve
+453;31/03/2020;Bogot·;11 - Suba;66;F;Desconocido;Hospital UCI;Grave
+454;31/03/2020;Bogot·;09 - FontibÛn;54;F;En estudio;Hospital;Moderado
+455;31/03/2020;Bogot·;01 - UsaquÈn;56;F;En estudio;Casa;Leve
+456;31/03/2020;Bogot·;08 - Kennedy;42;F;En estudio;Casa;Leve
+457;31/03/2020;Bogot·;08 - Kennedy;23;M;En estudio;Casa;Leve
+458;31/03/2020;Bogot·;07 - Bosa;24;M;En estudio;Casa;Leve
+459;31/03/2020;Bogot·;10 - Engativ·;12;M;Desconocido;Hospital;Moderado
+460;31/03/2020;Bogot·;12 - Barrios Unidos;64;F;En estudio;Casa;Leve
+461;31/03/2020;Bogot·;13 - Teusaquillo;29;F;Relacionado;Casa;Leve
+462;31/03/2020;Bogot·;14 - Los M·rtires;32;M;Relacionado;Casa;Leve
+463;31/03/2020;Bogot·;07 - Bosa;21;F;En estudio;Casa;Leve
+464;31/03/2020;Bogot·;09 - FontibÛn;22;F;En estudio;Casa;Leve
+465;31/03/2020;Bogot·;13 - Teusaquillo;58;F;Desconocido;Casa;Leve
+466;31/03/2020;Bogot·;08 - Kennedy;53;F;En estudio;Hospital;Moderado
+467;31/03/2020;Bogot·;01 - UsaquÈn;56;F;En estudio;Casa;Leve
+468;31/03/2020;Bogot·;14 - Los M·rtires;44;F;En estudio;Hospital;Moderado
+469;31/03/2020;Bogot·;02 - Chapinero;24;F;En estudio;Casa;Leve
+470;31/03/2020;Bogot·;11 - Suba;75;M;En estudio;Hospital;Moderado
+471;31/03/2020;Bogot·;10 - Engativ·;23;M;Desconocido;Casa;Leve
+472;31/03/2020;Bogot·;01 - UsaquÈn;36;M;En estudio;Casa;Leve
+473;31/03/2020;Bogot·;01 - UsaquÈn;66;F;Desconocido;Casa;Leve
+474;1/04/2020;Bogot·;11 - Suba;60;F;En estudio;Casa;Leve
+475;1/04/2020;Bogot·;22 - Sin Dato;33;M;En estudio;Fallecido;Fallecido
+476;1/04/2020;Bogot·;01 - UsaquÈn;44;M;Desconocido;Hospital;Moderado
+477;1/04/2020;Bogot·;01 - UsaquÈn;28;F;Desconocido;Casa;Leve
+478;1/04/2020;Bogot·;08 - Kennedy;67;F;En estudio;Fallecido;Fallecido
+479;1/04/2020;Bogot·;02 - Chapinero;29;F;Desconocido;Casa;Leve
+480;1/04/2020;Bogot·;02 - Chapinero;25;F;Desconocido;Casa;Leve
+481;1/04/2020;Fuera de Bogot·;01 - UsaquÈn;22;F;Desconocido;Casa;Leve
+482;1/04/2020;Bogot·;10 - Engativ·;50;M;Desconocido;Hospital UCI;Grave
+483;1/04/2020;Bogot·;13 - Teusaquillo;34;M;Desconocido;Casa;Leve
+484;1/04/2020;Bogot·;08 - Kennedy;71;F;En estudio;Fallecido;Fallecido
+485;1/04/2020;Bogot·;11 - Suba;41;M;Desconocido;Casa;Leve
+486;1/04/2020;Bogot·;08 - Kennedy;36;M;En estudio;Fallecido;Fallecido
+487;1/04/2020;Bogot·;10 - Engativ·;33;M;Desconocido;Casa;Leve
+488;1/04/2020;Bogot·;01 - UsaquÈn;26;M;Relacionado;Casa;Leve
+489;1/04/2020;Bogot·;11 - Suba;66;F;Desconocido;Hospital UCI;Grave
+490;1/04/2020;Bogot·;01 - UsaquÈn;83;F;Importado;Hospital;Moderado
+491;1/04/2020;Bogot·;01 - UsaquÈn;34;F;En estudio;Casa;Leve
+492;1/04/2020;Bogot·;10 - Engativ·;62;F;En estudio;Casa;Leve
+493;1/04/2020;Bogot·;01 - UsaquÈn;64;M;En estudio;Hospital;Moderado
+494;1/04/2020;Bogot·;08 - Kennedy;82;M;Desconocido;Fallecido;Fallecido
+495;1/04/2020;Bogot·;01 - UsaquÈn;45;F;Relacionado;Casa;Leve
+496;1/04/2020;Bogot·;07 - Bosa;26;M;Desconocido;Fallecido;Fallecido
+497;2/04/2020;Fuera de Bogot·;11 - Suba;56;F;Desconocido;Casa;Leve
+498;2/04/2020;Bogot·;16 - Puente Aranda;54;F;Importado;Casa;Leve
+499;2/04/2020;Bogot·;09 - FontibÛn;71;M;En estudio;Hospital UCI;Grave
+500;2/04/2020;Bogot·;02 - Chapinero;45;M;Desconocido;Casa;Leve
+501;2/04/2020;Bogot·;09 - FontibÛn;35;M;En estudio;Casa;Leve
+502;2/04/2020;Bogot·;01 - UsaquÈn;70;M;Desconocido;Hospital;Moderado
+503;2/04/2020;Bogot·;01 - UsaquÈn;88;F;Desconocido;Hospital;Moderado
+504;2/04/2020;Bogot·;09 - FontibÛn;52;F;En estudio;Casa;Leve
+505;2/04/2020;Bogot·;01 - UsaquÈn;27;M;Importado;Casa;Leve
+506;2/04/2020;Bogot·;08 - Kennedy;76;M;En estudio;Casa;Leve
+507;2/04/2020;Bogot·;01 - UsaquÈn;34;F;En estudio;Casa;Leve
+508;2/04/2020;Bogot·;11 - Suba;75;M;Relacionado;Casa;Leve
+509;2/04/2020;Bogot·;08 - Kennedy;48;M;En estudio;Hospital;Moderado
+510;2/04/2020;Bogot·;13 - Teusaquillo;47;M;Relacionado;Casa;Leve
+511;2/04/2020;Bogot·;10 - Engativ·;11;M;En estudio;Casa;Leve
+512;2/04/2020;Bogot·;22 - Sin Dato;46;M;En estudio;Casa;Leve
+513;2/04/2020;Bogot·;01 - UsaquÈn;64;F;Relacionado;Casa;Leve
+514;2/04/2020;Bogot·;22 - Sin Dato;66;M;Importado;Hospital;Moderado
+515;2/04/2020;Bogot·;09 - FontibÛn;54;M;Importado;Casa;Leve
+516;2/04/2020;Bogot·;13 - Teusaquillo;42;M;En estudio;Casa;Leve
+517;2/04/2020;Bogot·;11 - Suba;28;M;En estudio;Casa;Leve
+518;2/04/2020;Bogot·;01 - UsaquÈn;60;F;Desconocido;Casa;Leve
+519;2/04/2020;Bogot·;01 - UsaquÈn;42;F;Desconocido;Casa;Leve
+520;2/04/2020;Fuera de Bogot·;11 - Suba;93;F;Desconocido;Hospital;Moderado
+521;2/04/2020;Bogot·;08 - Kennedy;57;F;Desconocido;Casa;Leve
+522;2/04/2020;Bogot·;03 - Santa Fe;37;F;En estudio;Casa;Leve
+523;2/04/2020;Bogot·;11 - Suba;21;F;Desconocido;Casa;Leve
+524;2/04/2020;Bogot·;13 - Teusaquillo;26;F;Importado;Casa;Leve
+525;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;36;F;En estudio;Casa;Leve
+526;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;57;M;En estudio;Fallecido;Fallecido
+527;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;54;F;Desconocido;Casa;Leve
+528;2/04/2020;Fuera de Bogot·;08 - Kennedy;32;F;Desconocido;Casa;Leve
+529;2/04/2020;Bogot·;10 - Engativ·;27;M;Importado;Casa;Leve
+530;2/04/2020;Bogot·;10 - Engativ·;25;F;Importado;Casa;Leve
+531;2/04/2020;Bogot·;08 - Kennedy;48;M;En estudio;Casa;Leve
+532;2/04/2020;Bogot·;07 - Bosa;76;F;Desconocido;Casa;Leve
+533;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;28;M;Importado;Casa;Leve
+534;2/04/2020;Bogot·;10 - Engativ·;12;F;Desconocido;Casa;Leve
+535;2/04/2020;Bogot·;10 - Engativ·;23;M;Importado;Casa;Leve
+536;2/04/2020;Bogot·;13 - Teusaquillo;41;F;Desconocido;Casa;Leve
+537;2/04/2020;Bogot·;01 - UsaquÈn;73;M;Desconocido;Hospital;Moderado
+538;2/04/2020;Bogot·;08 - Kennedy;58;F;En estudio;Hospital;Moderado
+539;2/04/2020;Bogot·;13 - Teusaquillo;32;M;Importado;Casa;Leve
+540;2/04/2020;Bogot·;08 - Kennedy;26;F;Desconocido;Casa;Leve
+541;2/04/2020;Bogot·;13 - Teusaquillo;26;F;Importado;Casa;Leve
+542;2/04/2020;Bogot·;16 - Puente Aranda;66;F;Desconocido;Casa;Leve
+543;2/04/2020;Bogot·;16 - Puente Aranda;55;M;Importado;Casa;Leve
+544;2/04/2020;Bogot·;11 - Suba;30;M;Desconocido;Casa;Leve
+545;2/04/2020;Bogot·;08 - Kennedy;12;M;En estudio;Casa;Leve
+546;2/04/2020;Bogot·;12 - Barrios Unidos;36;F;En estudio;Casa;Leve
+547;2/04/2020;Bogot·;06 - Tunjuelito;67;F;En estudio;Casa;Leve
+548;2/04/2020;Bogot·;01 - UsaquÈn;29;M;Importado;Casa;Leve
+549;2/04/2020;Bogot·;02 - Chapinero;35;M;En estudio;Casa;Leve
+550;2/04/2020;Bogot·;08 - Kennedy;52;F;En estudio;Casa;Leve
+551;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;55;M;En estudio;Hospital;Moderado
+552;2/04/2020;Bogot·;07 - Bosa;27;F;En estudio;Casa;Leve
+553;2/04/2020;Bogot·;08 - Kennedy;63;F;En estudio;Fallecido;Fallecido
+554;2/04/2020;Bogot·;10 - Engativ·;43;M;En estudio;Hospital;Moderado
+555;2/04/2020;Bogot·;11 - Suba;46;M;Desconocido;Hospital UCI;GRAVE
+556;2/04/2020;Bogot·;08 - Kennedy;90;M;Desconocido;Fallecido;Fallecido
+557;2/04/2020;Bogot·;10 - Engativ·;78;M;Relacionado;Hospital;Moderado
+558;2/04/2020;Bogot·;01 - UsaquÈn;73;F;Importado;Casa;Leve
+559;2/04/2020;Bogot·;10 - Engativ·;36;M;En estudio;Casa;Leve
+560;2/04/2020;Bogot·;13 - Teusaquillo;20;M;Desconocido;Casa;Leve
+561;2/04/2020;Bogot·;12 - Barrios Unidos;34;F;Desconocido;Casa;Leve
+562;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;33;F;En estudio;Casa;Leve
+563;2/04/2020;Bogot·;16 - Puente Aranda;29;F;Importado;Casa;Leve
+564;2/04/2020;Bogot·;07 - Bosa;34;M;Importado;Casa;Leve
+565;2/04/2020;Bogot·;13 - Teusaquillo;59;F;Relacionado;Casa;Leve
+566;2/04/2020;Bogot·;13 - Teusaquillo;57;M;Relacionado;Fallecido;Fallecido
+567;2/04/2020;Bogot·;18 - Rafael Uribe Uribe;37;M;Importado;Casa;Leve
+568;2/04/2020;Bogot·;08 - Kennedy;34;F;Importado;Casa;Leve
+569;2/04/2020;Bogot·;08 - Kennedy;45;F;Importado;Casa;Leve
+570;2/04/2020;Bogot·;10 - Engativ·;49;F;Relacionado;Casa;Leve
+571;2/04/2020;Bogot·;01 - UsaquÈn;31;M;En estudio;Hospital;Moderado
+572;2/04/2020;Bogot·;14 - Los M·rtires;66;M;Desconocido;Hospital;Moderado
+573;2/04/2020;Bogot·;04 - San CristÛbal;62;M;En estudio;Hospital;Moderado
+574;2/04/2020;Bogot·;11 - Suba;22;F;Desconocido;Casa;Leve
+575;2/04/2020;Bogot·;13 - Teusaquillo;33;F;En estudio;Casa;Leve
+576;2/04/2020;Bogot·;08 - Kennedy;50;M;En estudio;Hospital UCI;Grave
+577;2/04/2020;Bogot·;08 - Kennedy;36;M;En estudio;Casa;Leve
+578;2/04/2020;Bogot·;02 - Chapinero;28;M;En estudio;Casa;Leve
+579;2/04/2020;Bogot·;11 - Suba;31;M;Importado;Casa;Leve
+580;2/04/2020;Bogot·;01 - UsaquÈn;48;M;Importado;Hospital;Moderado
+581;2/04/2020;Bogot·;10 - Engativ·;70;F;Importado;Casa;Leve
+582;2/04/2020;Bogot·;13 - Teusaquillo;33;F;En estudio;Casa;Leve
+583;2/04/2020;Bogot·;03 - Santa Fe;61;M;En estudio;Casa;Leve
+584;2/04/2020;Bogot·;01 - UsaquÈn;76;M;En estudio;Hospital UCI;Grave
+585;2/04/2020;Bogot·;01 - UsaquÈn;19;M;Importado;Casa;Leve
+586;3/04/2020;Bogot·;09 - FontibÛn;33;M;En estudio;Hospital UCI;Grave
+587;3/04/2020;Bogot·;11 - Suba;59;M;Relacionado;Hospital UCI;Grave
+588;3/04/2020;Bogot·;10 - Engativ·;60;F;Importado;Casa;Leve
+589;3/04/2020;Bogot·;11 - Suba;35;M;Importado;Casa;Leve
+590;3/04/2020;Bogot·;01 - UsaquÈn;59;F;Importado;Casa;Leve
+591;3/04/2020;Bogot·;13 - Teusaquillo;39;M;Importado;Casa;Leve
+592;3/04/2020;Bogot·;11 - Suba;62;M;Importado;Casa;Leve
+593;3/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;30;F;En estudio;Casa;Leve
+594;3/04/2020;Bogot·;01 - UsaquÈn;71;M;Importado;Casa;Leve
+595;3/04/2020;Bogot·;01 - UsaquÈn;66;F;Importado;Casa;Leve
+596;3/04/2020;Bogot·;10 - Engativ·;57;M;Importado;Casa;Leve
+597;3/04/2020;Bogot·;16 - Puente Aranda;21;F;En estudio;Casa;Leve
+598;3/04/2020;Bogot·;22 - Sin Dato;24;M;En estudio;Casa;Leve
+599;3/04/2020;Bogot·;10 - Engativ·;29;M;Importado;Casa;Leve
+600;3/04/2020;Bogot·;09 - FontibÛn;50;F;En estudio;Casa;Leve
+601;3/04/2020;Bogot·;09 - FontibÛn;38;F;Importado;Casa;Leve
+602;3/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;39;F;En estudio;Casa;Leve
+603;3/04/2020;Bogot·;08 - Kennedy;52;F;En estudio;Casa;Leve
+604;3/04/2020;Bogot·;08 - Kennedy;74;F;En estudio;Casa;Leve
+605;3/04/2020;Bogot·;11 - Suba;50;M;Importado;Casa;Leve
+606;3/04/2020;Bogot·;18 - Rafael Uribe Uribe;62;M;En estudio;Casa;Leve
+607;3/04/2020;Bogot·;13 - Teusaquillo;39;F;Importado;Casa;Leve
+608;3/04/2020;Bogot·;13 - Teusaquillo;84;F;En estudio;Hospital;Moderado
+609;3/04/2020;Bogot·;14 - Los M·rtires;55;F;Importado;Casa;Leve
+610;3/04/2020;Bogot·;14 - Los M·rtires;59;F;Importado;Casa;Leve
+611;3/04/2020;Bogot·;13 - Teusaquillo;5;F;Relacionado;Casa;Leve
+612;3/04/2020;Bogot·;01 - UsaquÈn;25;M;Importado;Casa;Leve
+613;3/04/2020;Bogot·;04 - San CristÛbal;47;F;Importado;Casa;Leve
+614;3/04/2020;Bogot·;09 - FontibÛn;60;M;En estudio;Casa;Leve
+615;3/04/2020;Bogot·;18 - Rafael Uribe Uribe;37;F;En estudio;Casa;Leve
+616;3/04/2020;Bogot·;19 - Ciudad BolÌvar;69;M;En estudio;Casa;Leve
+617;3/04/2020;Bogot·;10 - Engativ·;59;M;En estudio;Casa;Leve
+618;3/04/2020;Bogot·;07 - Bosa;28;F;En estudio;Casa;Leve
+619;3/04/2020;Bogot·;02 - Chapinero;67;F;Importado;Casa;Leve
+620;3/04/2020;Bogot·;07 - Bosa;32;F;En estudio;Casa;Leve
+621;3/04/2020;Bogot·;11 - Suba;40;M;Importado;Hospital UCI;Grave
+622;3/04/2020;Bogot·;08 - Kennedy;69;M;En estudio;Casa;Leve
+623;3/04/2020;Bogot·;02 - Chapinero;10;M;En estudio;Casa;Leve
+624;3/04/2020;Bogot·;05 - Usme;47;F;En estudio;Casa;Leve
+625;3/04/2020;Bogot·;08 - Kennedy;60;M;En estudio;Casa;Leve
+626;3/04/2020;Bogot·;15 - Antonio NariÒo;29;F;En estudio;Casa;Leve
+627;3/04/2020;Bogot·;07 - Bosa;10;M;En estudio;Casa;Leve
+628;3/04/2020;Bogot·;07 - Bosa;27;F;En estudio;Casa;Leve
+629;3/04/2020;Fuera de Bogot·;07 - Bosa;52;M;En estudio;Casa;Leve
+630;3/04/2020;Bogot·;07 - Bosa;49;F;En estudio;Casa;Leve
+631;3/04/2020;Bogot·;09 - FontibÛn;47;F;En estudio;Casa;Leve
+632;3/04/2020;Bogot·;07 - Bosa;34;F;En estudio;Casa;Leve
+633;3/04/2020;Bogot·;10 - Engativ·;20;M;Importado;Casa;Leve
+634;3/04/2020;Bogot·;10 - Engativ·;42;F;En estudio;Casa;Leve
+635;3/04/2020;Bogot·;01 - UsaquÈn;32;M;Importado;Casa;Leve
+636;3/04/2020;Bogot·;01 - UsaquÈn;28;M;Importado;Casa;Leve
+637;3/04/2020;Bogot·;02 - Chapinero;38;F;Relacionado;Casa;Leve
+638;3/04/2020;Bogot·;02 - Chapinero;3;M;Relacionado;Casa;Leve
+639;3/04/2020;Bogot·;02 - Chapinero;48;M;Relacionado;Casa;Leve
+640;3/04/2020;Bogot·;02 - Chapinero;22;M;Importado;Casa;Leve
+641;3/04/2020;Bogot·;11 - Suba;21;F;En estudio;Casa;Leve
+642;3/04/2020;Bogot·;02 - Chapinero;29;M;En estudio;Casa;Leve
+643;3/04/2020;Bogot·;02 - Chapinero;46;M;En estudio;Hospital;Moderado
+644;3/04/2020;Bogot·;11 - Suba;70;F;En estudio;Casa;Leve
+645;3/04/2020;Bogot·;11 - Suba;44;F;Importado;Casa;Leve
+646;3/04/2020;Bogot·;11 - Suba;53;M;En estudio;Hospital;Moderado
+647;3/04/2020;Bogot·;12 - Barrios Unidos;26;F;En estudio;Casa;Leve
+648;3/04/2020;Bogot·;13 - Teusaquillo;7;F;En estudio;Casa;Leve
+649;3/04/2020;Bogot·;08 - Kennedy;41;F;En estudio;Casa;Leve
+650;3/04/2020;Bogot·;13 - Teusaquillo;51;F;En estudio;Casa;Leve
+651;3/04/2020;Bogot·;01 - UsaquÈn;58;M;Importado;Hospital;Moderado
+652;3/04/2020;Bogot·;07 - Bosa;95;F;En estudio;Casa;Leve
+653;3/04/2020;Bogot·;01 - UsaquÈn;19;M;En estudio;Hospital;Moderado
+654;3/04/2020;Bogot·;02 - Chapinero;48;M;Importado;Casa;Leve
+655;3/04/2020;Bogot·;11 - Suba;71;F;Desconocido;Casa;Leve
+656;3/04/2020;Bogot·;10 - Engativ·;30;F;Importado;Casa;Leve
+657;3/04/2020;Bogot·;07 - Bosa;45;F;En estudio;Casa;Leve
+658;3/04/2020;Bogot·;02 - Chapinero;60;M;Desconocido;Casa;Leve
+659;3/04/2020;Bogot·;10 - Engativ·;67;F;Importado;Casa;Leve
+660;3/04/2020;Bogot·;02 - Chapinero;39;F;En estudio;Casa;Leve
+661;3/04/2020;Bogot·;13 - Teusaquillo;92;M;En estudio;Casa;Leve
+662;3/04/2020;Bogot·;02 - Chapinero;52;M;En estudio;Casa;Leve
+663;3/04/2020;Bogot·;10 - Engativ·;5;M;Relacionado;Casa;Leve
+664;3/04/2020;Bogot·;10 - Engativ·;38;F;Relacionado;Casa;Leve
+665;3/04/2020;Bogot·;08 - Kennedy;32;F;En estudio;Casa;Leve
+666;3/04/2020;Bogot·;10 - Engativ·;48;F;Importado;Casa;Leve
+667;3/04/2020;Bogot·;10 - Engativ·;34;M;Importado;Casa;Leve
+668;3/04/2020;Bogot·;01 - UsaquÈn;32;F;En estudio;Casa;Leve
+669;3/04/2020;Bogot·;01 - UsaquÈn;35;M;Importado;Casa;Leve
+670;3/04/2020;Bogot·;10 - Engativ·;28;F;Desconocido;Casa;Leve
+671;3/04/2020;Bogot·;02 - Chapinero;18;M;Relacionado;Casa;Leve
+672;3/04/2020;Bogot·;03 - Santa Fe;46;M;Importado;Hospital;Moderado
+673;3/04/2020;Bogot·;12 - Barrios Unidos;41;M;En estudio;Casa;Leve
+674;3/04/2020;Bogot·;01 - UsaquÈn;67;F;Relacionado;Casa;Leve
+675;3/04/2020;Bogot·;01 - UsaquÈn;85;M;Desconocido;Fallecido;Fallecido
+676;3/04/2020;Bogot·;10 - Engativ·;26;M;En estudio;Casa;Leve
+677;3/04/2020;Bogot·;17 - La Candelaria;58;M;En estudio;Casa;Leve
+678;3/04/2020;Bogot·;02 - Chapinero;32;F;Importado;Casa;Leve
+679;3/04/2020;Bogot·;08 - Kennedy;61;M;Importado;Casa;Leve
+680;3/04/2020;Bogot·;11 - Suba;32;M;Desconocido;Casa;Leve
+681;3/04/2020;Bogot·;01 - UsaquÈn;64;F;Desconocido;Casa;Leve
+682;3/04/2020;Bogot·;14 - Los M·rtires;28;M;Importado;Casa;Leve
+683;3/04/2020;Bogot·;11 - Suba;30;M;En estudio;Casa;Leve
+684;3/04/2020;Bogot·;08 - Kennedy;29;F;En estudio;Casa;Leve
+685;3/04/2020;Bogot·;19 - Ciudad BolÌvar;37;F;En estudio;Casa;Leve
+686;3/04/2020;Bogot·;02 - Chapinero;41;F;Relacionado;Casa;Leve
+687;3/04/2020;Bogot·;02 - Chapinero;62;M;Relacionado;Casa;Leve
+688;3/04/2020;Bogot·;10 - Engativ·;42;F;En estudio;Casa;Leve
+689;3/04/2020;Bogot·;12 - Barrios Unidos;66;M;Importado;Hospital;Moderado
+690;3/04/2020;Bogot·;10 - Engativ·;57;M;Desconocido;Casa;Leve
+691;3/04/2020;Bogot·;08 - Kennedy;22;F;En estudio;Casa;Leve
+692;3/04/2020;Bogot·;22 - Sin Dato;51;M;En estudio;Casa;Leve
+693;3/04/2020;Bogot·;03 - Santa Fe;54;M;En estudio;Casa;Leve
+694;3/04/2020;Bogot·;01 - UsaquÈn;63;M;Relacionado;Hospital UCI;Grave
+695;3/04/2020;Bogot·;01 - UsaquÈn;29;F;Relacionado;Casa;Leve
+696;3/04/2020;Bogot·;08 - Kennedy;59;M;En estudio;Casa;Leve
+697;3/04/2020;Bogot·;02 - Chapinero;75;M;Importado;Casa;Leve
+698;3/04/2020;Bogot·;10 - Engativ·;33;M;Desconocido;Casa;Leve
+699;3/04/2020;Bogot·;08 - Kennedy;24;M;Desconocido;Casa;Leve
+700;3/04/2020;Bogot·;01 - UsaquÈn;31;M;En estudio;Casa;Leve
+701;3/04/2020;Bogot·;02 - Chapinero;25;F;En estudio;Casa;Leve
+702;3/04/2020;Bogot·;04 - San CristÛbal;72;M;Desconocido;Fallecido;Fallecido
+703;3/04/2020;Bogot·;13 - Teusaquillo;18;M;En estudio;Casa;Leve
+704;3/04/2020;Bogot·;13 - Teusaquillo;61;F;En estudio;Casa;Leve
+705;3/04/2020;Bogot·;13 - Teusaquillo;32;M;Importado;Casa;Leve
+706;3/04/2020;Bogot·;05 - Usme;36;M;En estudio;Casa;Leve
+707;3/04/2020;Bogot·;09 - FontibÛn;65;M;En estudio;Casa;Leve
+708;3/04/2020;Bogot·;01 - UsaquÈn;29;F;En estudio;Casa;Leve
+709;3/04/2020;Bogot·;08 - Kennedy;35;F;En estudio;Casa;Leve
+710;3/04/2020;Bogot·;13 - Teusaquillo;33;F;En estudio;Casa;Leve
+711;3/04/2020;Bogot·;13 - Teusaquillo;59;M;Importado;Hospital;Moderado
+712;3/04/2020;Bogot·;08 - Kennedy;29;F;En estudio;Casa;Leve
+713;3/04/2020;Bogot·;11 - Suba;27;F;Relacionado;Casa;Leve
+714;3/04/2020;Bogot·;11 - Suba;23;F;Desconocido;Casa;Leve
+715;3/04/2020;Bogot·;04 - San CristÛbal;48;M;Importado;Casa;Leve
+716;3/04/2020;Bogot·;11 - Suba;32;F;En estudio;Casa;Leve
+717;3/04/2020;Bogot·;01 - UsaquÈn;47;M;En estudio;Casa;Leve
+718;3/04/2020;Bogot·;09 - FontibÛn;37;F;Importado;Casa;Leve
+719;4/04/2020;Bogot·;11 - Suba;51;F;Desconocido;Casa;Leve
+720;4/04/2020;Bogot·;10 - Engativ·;48;M;En estudio;Hospital;Moderado
+721;4/04/2020;Bogot·;17 - La Candelaria;50;F;En estudio;Casa;Leve
+722;4/04/2020;Bogot·;11 - Suba;84;F;En estudio;Casa;Leve
+723;4/04/2020;Bogot·;11 - Suba;45;F;En estudio;Casa;Leve
+724;4/04/2020;Bogot·;11 - Suba;48;M;En estudio;Casa;Leve
+725;4/04/2020;Bogot·;09 - FontibÛn;37;M;En estudio;Casa;Leve
+726;4/04/2020;Bogot·;18 - Rafael Uribe Uribe;42;M;En estudio;Casa;Leve
+727;4/04/2020;Bogot·;11 - Suba;44;M;En estudio;Casa;Leve
+728;4/04/2020;Bogot·;07 - Bosa;38;M;En estudio;Hospital;Moderado
+729;4/04/2020;Bogot·;11 - Suba;71;M;En estudio;Hospital;Moderado
+730;4/04/2020;Bogot·;11 - Suba;49;F;En estudio;Casa;Leve
+731;4/04/2020;Bogot·;01 - UsaquÈn;19;M;En estudio;Casa;Leve
+732;4/04/2020;Bogot·;08 - Kennedy;97;F;En estudio;Hospital;Moderado
+733;4/04/2020;Bogot·;08 - Kennedy;55;M;En estudio;Casa;Leve
+734;4/04/2020;Bogot·;06 - Tunjuelito;31;M;En estudio;Hospital;Moderado
+735;4/04/2020;Bogot·;02 - Chapinero;27;F;En estudio;Casa;Leve
+736;4/04/2020;Bogot·;16 - Puente Aranda;27;F;En estudio;Casa;Leve
+737;4/04/2020;Bogot·;07 - Bosa;21;F;En estudio;Casa;Leve
+738;4/04/2020;Bogot·;01 - UsaquÈn;35;F;En estudio;Casa;Leve
+739;4/04/2020;Bogot·;09 - FontibÛn;31;F;En estudio;Casa;Leve
+740;4/04/2020;Bogot·;11 - Suba;87;F;En estudio;Casa;Leve
+741;4/04/2020;Bogot·;09 - FontibÛn;44;F;En estudio;Casa;Leve
+742;4/04/2020;Bogot·;02 - Chapinero;30;M;En estudio;Casa;Leve
+743;4/04/2020;Bogot·;15 - Antonio NariÒo;50;M;En estudio;Hospital;Moderado
+744;4/04/2020;Bogot·;10 - Engativ·;15;F;En estudio;Hospital;Moderado
+745;4/04/2020;Bogot·;10 - Engativ·;86;M;En estudio;Fallecido;Fallecido
+746;4/04/2020;Bogot·;06 - Tunjuelito;30;F;En estudio;Casa;Leve
+747;4/04/2020;Bogot·;16 - Puente Aranda;42;M;En estudio;Casa;Leve
+748;4/04/2020;Bogot·;11 - Suba;37;M;Importado;Casa;Leve
+749;4/04/2020;Bogot·;11 - Suba;45;F;En estudio;Casa;Leve
+750;4/04/2020;Bogot·;11 - Suba;34;F;Importado;Casa;Leve
+751;4/04/2020;Bogot·;11 - Suba;52;F;En estudio;Casa;Leve
+752;4/04/2020;Bogot·;09 - FontibÛn;59;F;En estudio;Casa;Leve
+753;4/04/2020;Bogot·;08 - Kennedy;50;F;En estudio;Hospital;Moderado
+754;4/04/2020;Bogot·;08 - Kennedy;63;M;En estudio;Hospital;Moderado
+755;4/04/2020;Bogot·;10 - Engativ·;74;F;En estudio;Hospital UCI;Grave
+756;4/04/2020;Bogot·;01 - UsaquÈn;8;F;En estudio;Casa;Leve
+757;4/04/2020;Bogot·;19 - Ciudad BolÌvar;66;F;En estudio;Hospital;Moderado
+758;4/04/2020;Bogot·;11 - Suba;85;F;Importado;Casa;Leve
+759;4/04/2020;Bogot·;11 - Suba;55;M;En estudio;Casa;Leve
+760;4/04/2020;Bogot·;19 - Ciudad BolÌvar;26;F;En estudio;Casa;Leve
+761;4/04/2020;Bogot·;11 - Suba;29;F;En estudio;Casa;Leve
+762;4/04/2020;Bogot·;05 - Usme;31;F;En estudio;Casa;Leve
+763;4/04/2020;Bogot·;16 - Puente Aranda;32;F;En estudio;Casa;Leve
+764;4/04/2020;Bogot·;07 - Bosa;35;M;En estudio;Casa;Leve
+765;4/04/2020;Bogot·;07 - Bosa;15;M;En estudio;Casa;Leve
+766;4/04/2020;Bogot·;06 - Tunjuelito;16;F;En estudio;Casa;Leve
+767;4/04/2020;Bogot·;06 - Tunjuelito;1;F;En estudio;Casa;Leve
+768;4/04/2020;Bogot·;06 - Tunjuelito;31;F;En estudio;Casa;Leve
+769;4/04/2020;Bogot·;07 - Bosa;34;M;En estudio;Casa;Leve
+770;4/04/2020;Bogot·;02 - Chapinero;67;F;Importado;Casa;Leve
+771;4/04/2020;Bogot·;16 - Puente Aranda;53;F;En estudio;Casa;Leve
+772;4/04/2020;Bogot·;08 - Kennedy;82;M;En estudio;Casa;Leve
+773;4/04/2020;Bogot·;08 - Kennedy;50;M;En estudio;Casa;Leve
+774;4/04/2020;Bogot·;08 - Kennedy;45;M;En estudio;Casa;Leve
+775;4/04/2020;Bogot·;08 - Kennedy;45;F;En estudio;Casa;Leve
+776;4/04/2020;Bogot·;09 - FontibÛn;66;F;En estudio;Hospital;Moderado
+777;4/04/2020;Bogot·;08 - Kennedy;73;F;En estudio;Fallecido;Fallecido
+778;4/04/2020;Bogot·;07 - Bosa;48;F;En estudio;Hospital;Moderado
+779;4/04/2020;Bogot·;07 - Bosa;69;F;En estudio;Hospital;Moderado
+780;4/04/2020;Bogot·;10 - Engativ·;38;F;En estudio;Casa;Leve
+781;4/04/2020;Bogot·;09 - FontibÛn;43;F;Relacionado;Casa;Leve
+782;4/04/2020;Bogot·;02 - Chapinero;46;F;Relacionado;Casa;Leve
+783;4/04/2020;Bogot·;02 - Chapinero;36;M;Relacionado;Casa;Leve
+784;4/04/2020;Bogot·;12 - Barrios Unidos;34;M;Relacionado;Casa;Leve
+785;4/04/2020;Bogot·;10 - Engativ·;31;F;En estudio;Casa;Leve
+786;4/04/2020;Bogot·;11 - Suba;22;F;Importado;Casa;Leve
+787;4/04/2020;Bogot·;08 - Kennedy;48;F;En estudio;Hospital;Moderado
+788;4/04/2020;Bogot·;08 - Kennedy;62;M;En estudio;Hospital;Moderado
+789;4/04/2020;Bogot·;19 - Ciudad BolÌvar;54;F;En estudio;Casa;Leve
+790;4/04/2020;Bogot·;19 - Ciudad BolÌvar;53;F;En estudio;Casa;Leve
+791;4/04/2020;Bogot·;18 - Rafael Uribe Uribe;44;M;En estudio;Casa;Leve
+792;4/04/2020;Bogot·;01 - UsaquÈn;61;F;En estudio;Casa;Leve
+793;4/04/2020;Bogot·;01 - UsaquÈn;24;M;Importado;Casa;Leve
+794;4/04/2020;Bogot·;10 - Engativ·;7;M;En estudio;Casa;Leve
+795;4/04/2020;Bogot·;11 - Suba;54;M;Importado;Casa;Leve
+796;4/04/2020;Bogot·;11 - Suba;75;F;En estudio;Hospital;Moderado
+797;4/04/2020;Bogot·;07 - Bosa;32;F;En estudio;Casa;Leve
+798;4/04/2020;Bogot·;01 - UsaquÈn;55;M;En estudio;Casa;Leve
+799;4/04/2020;Bogot·;01 - UsaquÈn;48;F;En estudio;Casa;Leve
+800;4/04/2020;Bogot·;09 - FontibÛn;43;F;Importado;Casa;Leve
+801;4/04/2020;Bogot·;01 - UsaquÈn;71;F;Relacionado;Casa;Leve
+802;5/04/2020;Bogot·;11 - Suba;70;M;En estudio;Casa;Leve
+803;5/04/2020;Bogot·;11 - Suba;64;M;En estudio;Casa;Leve
+804;5/04/2020;Bogot·;11 - Suba;31;F;En estudio;Casa;Leve
+805;5/04/2020;Bogot·;08 - Kennedy;53;F;En estudio;Casa;Leve
+806;5/04/2020;Bogot·;02 - Chapinero;73;M;En estudio;Hospital;Moderado
+807;5/04/2020;Bogot·;04 - San CristÛbal;23;F;En estudio;Casa;Leve
+808;5/04/2020;Bogot·;14 - Los M·rtires;67;F;En estudio;Hospital;Moderado
+809;5/04/2020;Bogot·;11 - Suba;36;M;En estudio;Casa;Leve
+810;5/04/2020;Bogot·;10 - Engativ·;46;M;En estudio;Hospital;Moderado
+811;5/04/2020;Bogot·;13 - Teusaquillo;78;F;En estudio;Hospital UCI;Grave
+812;5/04/2020;Bogot·;08 - Kennedy;64;M;En estudio;Fallecido;Fallecido
+813;6/04/2020;Bogot·;07 - Bosa;50;M;En estudio;Hospital;Moderado
+814;6/04/2020;Bogot·;11 - Suba;51;F;En estudio;Casa;Leve
+815;6/04/2020;Bogot·;08 - Kennedy;29;M;En estudio;Casa;Leve
+816;6/04/2020;Bogot·;13 - Teusaquillo;55;M;En estudio;Casa;Leve
+817;6/04/2020;Bogot·;01 - UsaquÈn;47;F;Importado;Casa;Leve
+818;6/04/2020;Bogot·;13 - Teusaquillo;57;F;Importado;Casa;Leve
+819;6/04/2020;Bogot·;10 - Engativ·;60;F;Importado;Casa;Leve
+820;6/04/2020;Bogot·;10 - Engativ·;40;M;En estudio;Casa;Leve
+821;6/04/2020;Bogot·;10 - Engativ·;42;F;En estudio;Casa;Leve
+822;6/04/2020;Bogot·;11 - Suba;53;F;En estudio;Casa;Leve
+823;6/04/2020;Bogot·;11 - Suba;21;F;En estudio;Casa;Leve
+824;6/04/2020;Bogot·;10 - Engativ·;28;M;En estudio;Casa;Leve
+825;6/04/2020;Bogot·;07 - Bosa;29;M;En estudio;Casa;Leve
+826;6/04/2020;Bogot·;07 - Bosa;23;F;En estudio;Casa;Leve
+827;6/04/2020;Bogot·;07 - Bosa;51;M;Importado;Casa;Leve
+828;6/04/2020;Bogot·;07 - Bosa;27;F;Desconocido;Casa;Leve
+829;6/04/2020;Bogot·;19 - Ciudad BolÌvar;29;M;En estudio;Casa;Leve
+830;6/04/2020;Bogot·;09 - FontibÛn;45;F;En estudio;Casa;Leve
+831;6/04/2020;Bogot·;13 - Teusaquillo;39;F;En estudio;Casa;Leve
+832;6/04/2020;Bogot·;16 - Puente Aranda;30;M;Importado;Casa;Leve
+833;6/04/2020;Bogot·;11 - Suba;77;M;En estudio;Hospital;Moderado
+834;6/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;73;F;En estudio;Hospital;Moderado
+835;6/04/2020;Bogot·;02 - Chapinero;52;F;Importado;Casa;Leve
+836;6/04/2020;Bogot·;11 - Suba;39;F;En estudio;Casa;Leve
+837;6/04/2020;Bogot·;11 - Suba;49;F;En estudio;Casa;Leve
+838;6/04/2020;Bogot·;02 - Chapinero;29;M;En estudio;Casa;Leve
+839;6/04/2020;Bogot·;19 - Ciudad BolÌvar;51;M;En estudio;Casa;Leve
+840;6/04/2020;Bogot·;01 - UsaquÈn;35;M;En estudio;Casa;Leve
+841;6/04/2020;Bogot·;10 - Engativ·;53;F;Importado;Casa;Leve
+842;6/04/2020;Bogot·;07 - Bosa;37;M;En estudio;Casa;Leve
+843;6/04/2020;Bogot·;19 - Ciudad BolÌvar;49;M;En estudio;Casa;Leve
+844;6/04/2020;Bogot·;01 - UsaquÈn;28;M;Importado;Casa;Leve
+845;6/04/2020;Bogot·;11 - Suba;44;M;En estudio;Casa;Leve
+846;6/04/2020;Bogot·;10 - Engativ·;28;F;En estudio;Casa;Leve
+847;6/04/2020;Bogot·;10 - Engativ·;50;M;En estudio;Casa;Leve
+848;6/04/2020;Bogot·;11 - Suba;24;F;En estudio;Casa;Leve
+849;6/04/2020;Bogot·;01 - UsaquÈn;37;F;En estudio;Casa;Leve
+850;6/04/2020;Fuera de Bogot·;10 - Engativ·;31;F;En estudio;Casa;Leve
+851;6/04/2020;Bogot·;09 - FontibÛn;58;M;En estudio;Casa;Leve
+852;6/04/2020;Bogot·;01 - UsaquÈn;29;F;En estudio;Casa;Leve
+853;6/04/2020;Bogot·;13 - Teusaquillo;79;F;En estudio;Hospital;Moderado
+854;6/04/2020;Bogot·;11 - Suba;38;M;En estudio;Casa;Leve
+855;6/04/2020;Bogot·;01 - UsaquÈn;34;F;Relacionado;Casa;Leve
+856;6/04/2020;Bogot·;11 - Suba;60;F;Importado;Casa;Leve
+857;6/04/2020;Bogot·;11 - Suba;30;M;En estudio;Casa;Leve
+858;6/04/2020;Bogot·;01 - UsaquÈn;35;M;En estudio;Casa;Leve
+859;6/04/2020;Bogot·;01 - UsaquÈn;62;F;En estudio;Casa;Leve
+860;6/04/2020;Bogot·;02 - Chapinero;56;F;En estudio;Casa;Leve
+861;6/04/2020;Bogot·;16 - Puente Aranda;42;M;En estudio;Hospital;Moderado
+862;6/04/2020;Bogot·;01 - UsaquÈn;59;M;En estudio;Casa;Leve
+863;6/04/2020;Bogot·;18 - Rafael Uribe Uribe;61;M;En estudio;Casa;Leve
+864;6/04/2020;Bogot·;13 - Teusaquillo;24;M;En estudio;Casa;Leve
+865;6/04/2020;Bogot·;10 - Engativ·;54;F;En estudio;Casa;Leve
+866;6/04/2020;Fuera de Bogot·;08 - Kennedy;48;F;En estudio;Hospital;Moderado
+867;6/04/2020;Bogot·;02 - Chapinero;28;F;Importado;Casa;Leve
+868;6/04/2020;Bogot·;01 - UsaquÈn;61;M;Importado;Casa;Leve
+869;6/04/2020;Bogot·;10 - Engativ·;30;F;En estudio;Casa;Leve
+870;6/04/2020;Bogot·;12 - Barrios Unidos;31;M;En estudio;Casa;Leve
+871;6/04/2020;Bogot·;08 - Kennedy;31;F;Desconocido;Casa;Leve
+872;6/04/2020;Bogot·;12 - Barrios Unidos;32;F;Desconocido;Casa;Leve
+873;6/04/2020;Bogot·;16 - Puente Aranda;53;M;En estudio;Hospital;Moderado
+874;6/04/2020;Bogot·;07 - Bosa;74;M;En estudio;Hospital;Moderado
+875;6/04/2020;Bogot·;19 - Ciudad BolÌvar;28;M;Desconocido;Hospital;Moderado
+876;6/04/2020;Bogot·;16 - Puente Aranda;43;M;En estudio;Hospital;Moderado
+877;6/04/2020;Bogot·;10 - Engativ·;58;M;En estudio;Casa;Leve
+878;6/04/2020;Bogot·;09 - FontibÛn;38;F;Importado;Casa;Leve
+879;6/04/2020;Bogot·;02 - Chapinero;61;F;En estudio;Casa;Leve
+880;6/04/2020;Bogot·;02 - Chapinero;62;M;Desconocido;Hospital UCI;Grave
+881;6/04/2020;Bogot·;02 - Chapinero;34;F;Importado;Casa;Leve
+882;6/04/2020;Bogot·;11 - Suba;62;F;Importado;Casa;Leve
+883;6/04/2020;Bogot·;08 - Kennedy;34;M;En estudio;Casa;Leve
+884;6/04/2020;Bogot·;11 - Suba;45;M;Importado;Casa;Leve
+885;6/04/2020;Bogot·;01 - UsaquÈn;52;F;Desconocido;Casa;Leve
+886;6/04/2020;Bogot·;02 - Chapinero;27;M;En estudio;Casa;Leve
+887;6/04/2020;Bogot·;10 - Engativ·;83;M;En estudio;Hospital UCI;Grave
+888;6/04/2020;Bogot·;01 - UsaquÈn;14;M;En estudio;Casa;Leve
+889;6/04/2020;Bogot·;10 - Engativ·;64;M;En estudio;Casa;Leve
+890;6/04/2020;Bogot·;01 - UsaquÈn;48;F;Desconocido;Casa;Leve
+891;6/04/2020;Bogot·;10 - Engativ·;52;M;Desconocido;Hospital;Moderado
+892;6/04/2020;Bogot·;04 - San CristÛbal;28;F;Relacionado;Casa;Leve
+893;6/04/2020;Bogot·;08 - Kennedy;30;F;Desconocido;Casa;Leve
+894;6/04/2020;Bogot·;18 - Rafael Uribe Uribe;41;M;Relacionado;Casa;Leve
+895;6/04/2020;Bogot·;02 - Chapinero;27;F;Relacionado;Casa;Leve
+896;6/04/2020;Bogot·;09 - FontibÛn;45;M;Importado;Casa;Leve
+897;6/04/2020;Bogot·;11 - Suba;29;F;En estudio;Casa;Leve
+898;6/04/2020;Bogot·;08 - Kennedy;39;F;Desconocido;Hospital;Moderado
+899;6/04/2020;Bogot·;01 - UsaquÈn;38;M;En estudio;Casa;Leve
+900;6/04/2020;Bogot·;09 - FontibÛn;69;F;Importado;Hospital UCI;Grave
+901;6/04/2020;Bogot·;15 - Antonio NariÒo;32;M;En estudio;Casa;Leve
+902;6/04/2020;Bogot·;13 - Teusaquillo;61;M;Importado;Casa;Leve
+903;6/04/2020;Bogot·;10 - Engativ·;34;M;En estudio;Casa;Leve
+904;6/04/2020;Bogot·;09 - FontibÛn;26;M;En estudio;Casa;Leve
+905;6/04/2020;Bogot·;08 - Kennedy;37;F;En estudio;Casa;Leve
+906;6/04/2020;Bogot·;11 - Suba;34;M;En estudio;Casa;Leve
+907;6/04/2020;Bogot·;19 - Ciudad BolÌvar;50;M;En estudio;Hospital;Moderado
+908;6/04/2020;Bogot·;16 - Puente Aranda;64;M;En estudio;Casa;Leve
+909;6/04/2020;Bogot·;01 - UsaquÈn;37;F;En estudio;Fallecido;Fallecido
+910;6/04/2020;Bogot·;01 - UsaquÈn;5;M;Importado;Casa;Leve
+911;6/04/2020;Bogot·;01 - UsaquÈn;14;M;Importado;Casa;Leve
+912;6/04/2020;Bogot·;01 - UsaquÈn;33;F;En estudio;Casa;Leve
+913;6/04/2020;Bogot·;22 - Sin Dato;66;M;En estudio;Hospital;Moderado
+914;6/04/2020;Bogot·;22 - Sin Dato;48;M;En estudio;Hospital UCI;Grave
+915;6/04/2020;Bogot·;06 - Tunjuelito;74;F;En estudio;Hospital UCI;Grave
+916;6/04/2020;Bogot·;10 - Engativ·;56;M;En estudio;Hospital;Moderado
+917;6/04/2020;Bogot·;08 - Kennedy;67;M;En estudio;Hospital;Moderado
+918;6/04/2020;Bogot·;08 - Kennedy;13;M;En estudio;Casa;Leve
+919;6/04/2020;Bogot·;19 - Ciudad BolÌvar;12;M;En estudio;Casa;Leve
+920;6/04/2020;Bogot·;19 - Ciudad BolÌvar;19;F;En estudio;Casa;Leve
+921;6/04/2020;Bogot·;19 - Ciudad BolÌvar;49;M;En estudio;Casa;Leve
+922;6/04/2020;Bogot·;19 - Ciudad BolÌvar;27;M;En estudio;Casa;Leve
+923;6/04/2020;Bogot·;01 - UsaquÈn;30;M;Importado;Casa;Leve
+924;6/04/2020;Bogot·;11 - Suba;33;M;En estudio;Casa;Leve
+925;6/04/2020;Bogot·;09 - FontibÛn;48;F;En estudio;Casa;Leve
+926;6/04/2020;Bogot·;11 - Suba;45;M;Importado;Casa;Leve
+927;6/04/2020;Bogot·;10 - Engativ·;47;F;En estudio;Casa;Leve
+928;6/04/2020;Bogot·;10 - Engativ·;45;F;En estudio;Casa;Leve
+929;6/04/2020;Bogot·;10 - Engativ·;22;M;En estudio;Casa;Leve
+930;6/04/2020;Bogot·;12 - Barrios Unidos;72;M;En estudio;Casa;Leve
+931;6/04/2020;Bogot·;06 - Tunjuelito;64;M;En estudio;Hospital;Moderado
+932;6/04/2020;Bogot·;11 - Suba;67;M;Importado;Casa;Leve
+933;6/04/2020;Bogot·;01 - UsaquÈn;44;F;En estudio;Casa;Leve
+934;6/04/2020;Bogot·;04 - San CristÛbal;24;F;En estudio;Casa;Leve
+935;6/04/2020;Bogot·;02 - Chapinero;58;M;Importado;Casa;Leve
+936;6/04/2020;Bogot·;11 - Suba;71;M;En estudio;Casa;Leve
+937;6/04/2020;Bogot·;08 - Kennedy;30;M;En estudio;Casa;Leve
+938;6/04/2020;Bogot·;19 - Ciudad BolÌvar;34;F;En estudio;Casa;Leve
+939;6/04/2020;Bogot·;08 - Kennedy;48;F;En estudio;Casa;Leve
+940;6/04/2020;Bogot·;08 - Kennedy;48;M;En estudio;Casa;Leve
+941;6/04/2020;Bogot·;02 - Chapinero;10;M;En estudio;Casa;Leve
+942;6/04/2020;Bogot·;09 - FontibÛn;36;F;Importado;Casa;Leve
+943;6/04/2020;Bogot·;07 - Bosa;2;F;En estudio;Hospital;Moderado
+944;6/04/2020;Bogot·;08 - Kennedy;38;F;En estudio;Hospital;Moderado
+945;6/04/2020;Bogot·;11 - Suba;76;F;En estudio;Casa;Leve
+946;6/04/2020;Bogot·;01 - UsaquÈn;47;F;Importado;Casa;Leve
+947;6/04/2020;Bogot·;11 - Suba;28;M;Importado;Casa;Leve
+948;7/04/2020;Bogot·;07 - Bosa;72;M;Desconocido;Hospital;Moderado
+949;7/04/2020;Bogot·;08 - Kennedy;49;M;Desconocido;Casa;Leve
+950;7/04/2020;Bogot·;10 - Engativ·;49;M;Desconocido;Hospital;Moderado
+951;7/04/2020;Bogot·;04 - San CristÛbal;51;M;Desconocido;Hospital;Moderado
+952;7/04/2020;Bogot·;08 - Kennedy;26;M;Desconocido;Casa;Leve
+953;7/04/2020;Bogot·;01 - UsaquÈn;52;F;En estudio;Casa;Leve
+954;7/04/2020;Bogot·;11 - Suba;72;M;En estudio;Hospital UCI;Grave
+955;7/04/2020;Bogot·;08 - Kennedy;60;M;En estudio;Hospital;Moderado
+956;7/04/2020;Bogot·;15 - Antonio NariÒo;65;F;En estudio;Hospital;Moderado
+957;7/04/2020;Bogot·;18 - Rafael Uribe Uribe;2;F;Desconocido;Casa;Leve
+958;7/04/2020;Bogot·;18 - Rafael Uribe Uribe;35;F;Desconocido;Casa;Leve
+959;7/04/2020;Bogot·;18 - Rafael Uribe Uribe;36;M;Desconocido;Casa;Leve
+960;7/04/2020;Bogot·;04 - San CristÛbal;52;F;En estudio;Hospital;Moderado
+961;7/04/2020;Bogot·;09 - FontibÛn;19;M;En estudio;Casa;Leve
+962;7/04/2020;Bogot·;09 - FontibÛn;49;F;Importado;Casa;Leve
+963;7/04/2020;Bogot·;11 - Suba;57;M;En estudio;Hospital;Moderado
+964;7/04/2020;Bogot·;08 - Kennedy;59;M;Desconocido;Casa;Leve
+965;7/04/2020;Bogot·;11 - Suba;82;M;En estudio;Hospital;Moderado
+966;7/04/2020;Bogot·;10 - Engativ·;62;M;Desconocido;Hospital;Moderado
+967;7/04/2020;Bogot·;12 - Barrios Unidos;70;M;Importado;Casa;Leve
+968;7/04/2020;Bogot·;10 - Engativ·;40;F;Desconocido;Casa;Leve
+969;7/04/2020;Bogot·;10 - Engativ·;30;F;Importado;Casa;Leve
+970;7/04/2020;Bogot·;08 - Kennedy;43;F;En estudio;Casa;Leve
+971;7/04/2020;Bogot·;08 - Kennedy;64;F;En estudio;Casa;Leve
+972;7/04/2020;Bogot·;11 - Suba;61;M;Importado;Casa;Leve
+973;7/04/2020;Bogot·;01 - UsaquÈn;59;F;Importado;Casa;Leve
+974;7/04/2020;Bogot·;07 - Bosa;52;F;En estudio;Casa;Leve
+975;7/04/2020;Bogot·;10 - Engativ·;77;F;En estudio;Casa;Leve
+976;7/04/2020;Bogot·;09 - FontibÛn;54;F;En estudio;Casa;Leve
+977;7/04/2020;Bogot·;08 - Kennedy;22;F;En estudio;Casa;Leve
+978;7/04/2020;Bogot·;01 - UsaquÈn;45;F;En estudio;Casa;Leve
+979;7/04/2020;Bogot·;10 - Engativ·;73;F;En estudio;Casa;Leve
+980;7/04/2020;Bogot·;16 - Puente Aranda;8;F;En estudio;Casa;Leve
+981;7/04/2020;Bogot·;16 - Puente Aranda;55;M;En estudio;Casa;Leve
+982;7/04/2020;Bogot·;19 - Ciudad BolÌvar;34;M;En estudio;Casa;Leve
+983;7/04/2020;Bogot·;16 - Puente Aranda;26;F;En estudio;Casa;Leve
+984;7/04/2020;Bogot·;10 - Engativ·;49;F;En estudio;Casa;Leve
+985;7/04/2020;Bogot·;01 - UsaquÈn;62;M;Importado;Hospital;Moderado
+986;7/04/2020;Bogot·;08 - Kennedy;37;F;En estudio;Casa;Leve
+987;7/04/2020;Bogot·;01 - UsaquÈn;32;F;En estudio;Casa;Leve
+988;7/04/2020;Bogot·;10 - Engativ·;26;F;Importado;Casa;Leve
+989;7/04/2020;Bogot·;10 - Engativ·;27;M;Importado;Casa;Leve
+990;7/04/2020;Bogot·;08 - Kennedy;62;F;En estudio;Casa;Leve
+991;7/04/2020;Bogot·;11 - Suba;48;M;En estudio;Casa;Leve
+992;7/04/2020;Bogot·;08 - Kennedy;44;F;En estudio;Casa;Leve
+993;7/04/2020;Bogot·;07 - Bosa;28;M;En estudio;Hospital;Moderado
+994;7/04/2020;Bogot·;11 - Suba;54;F;Desconocido;Casa;Leve
+995;7/04/2020;Bogot·;18 - Rafael Uribe Uribe;26;F;En estudio;Casa;Leve
+996;7/04/2020;Bogot·;18 - Rafael Uribe Uribe;61;F;En estudio;Hospital;Moderado
+997;7/04/2020;Bogot·;01 - UsaquÈn;58;F;En estudio;Casa;Leve
+998;7/04/2020;Bogot·;01 - UsaquÈn;32;M;En estudio;Casa;Leve
+999;7/04/2020;Bogot·;01 - UsaquÈn;28;M;En estudio;Casa;Leve
+1000;7/04/2020;Bogot·;01 - UsaquÈn;23;F;En estudio;Casa;Leve
+1001;7/04/2020;Bogot·;01 - UsaquÈn;60;M;En estudio;Casa;Leve
+1002;7/04/2020;Bogot·;10 - Engativ·;34;F;En estudio;Casa;Leve
+1003;7/04/2020;Bogot·;11 - Suba;24;F;Relacionado;Casa;Leve
+1004;7/04/2020;Bogot·;07 - Bosa;46;F;Relacionado;Casa;Leve
+1005;7/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;37;F;En estudio;Casa;Leve
+1006;7/04/2020;Fuera de Bogot·;11 - Suba;36;M;En estudio;Casa;Leve
+1007;7/04/2020;Bogot·;01 - UsaquÈn;8;F;Relacionado;Casa;Leve
+1008;7/04/2020;Bogot·;09 - FontibÛn;20;M;Relacionado;Casa;Leve
+1009;7/04/2020;Bogot·;09 - FontibÛn;17;M;Relacionado;Casa;Leve
+1010;7/04/2020;Bogot·;01 - UsaquÈn;72;M;En estudio;Casa;Leve
+1011;7/04/2020;Bogot·;11 - Suba;40;M;Relacionado;Casa;Leve
+1012;7/04/2020;Bogot·;08 - Kennedy;36;F;En estudio;Casa;Leve
+1013;7/04/2020;Bogot·;08 - Kennedy;18;F;En estudio;Casa;Leve
+1014;7/04/2020;Bogot·;10 - Engativ·;30;M;En estudio;Casa;Leve
+1015;7/04/2020;Bogot·;10 - Engativ·;48;F;Relacionado;Hospital;Moderado
+1016;7/04/2020;Bogot·;01 - UsaquÈn;2;M;Relacionado;Casa;Leve
+1017;7/04/2020;Bogot·;09 - FontibÛn;38;M;Importado;Casa;Leve
+1018;7/04/2020;Bogot·;01 - UsaquÈn;83;F;En estudio;Hospital;Moderado
+1019;7/04/2020;Bogot·;11 - Suba;41;F;En estudio;Hospital;Moderado
+1020;7/04/2020;Bogot·;10 - Engativ·;65;M;En estudio;Hospital;Moderado
+1021;7/04/2020;Bogot·;16 - Puente Aranda;33;F;Relacionado;Casa;Leve
+1022;7/04/2020;Bogot·;08 - Kennedy;15;M;Relacionado;Casa;Leve
+1023;7/04/2020;Bogot·;09 - FontibÛn;30;F;Relacionado;Casa;Leve
+1024;7/04/2020;Bogot·;19 - Ciudad BolÌvar;79;F;En estudio;Casa;Leve
+1025;7/04/2020;Bogot·;10 - Engativ·;83;M;En estudio;Hospital;Moderado
+1026;8/04/2020;Bogot·;10 - Engativ·;45;M;En estudio;Casa;Leve
+1027;8/04/2020;Bogot·;16 - Puente Aranda;31;M;En estudio;Casa;Leve
+1028;9/04/2020;Bogot·;22 - Sin Dato;56;M;Relacionado;Casa;Leve
+1029;9/04/2020;Bogot·;07 - Bosa;17;F;En estudio;Casa;Leve
+1030;9/04/2020;Bogot·;08 - Kennedy;17;F;En estudio;Casa;Leve
+1031;9/04/2020;Bogot·;10 - Engativ·;20;F;En estudio;Casa;Leve
+1032;9/04/2020;Bogot·;10 - Engativ·;18;F;En estudio;Casa;Leve
+1033;9/04/2020;Bogot·;12 - Barrios Unidos;29;F;En estudio;Hospital;Moderado
+1034;9/04/2020;Bogot·;01 - UsaquÈn;29;M;En estudio;Casa;Leve
+1035;9/04/2020;Bogot·;08 - Kennedy;21;F;En estudio;Casa;Leve
+1036;9/04/2020;Bogot·;08 - Kennedy;29;M;En estudio;Casa;Leve
+1037;9/04/2020;Bogot·;06 - Tunjuelito;26;M;En estudio;Casa;Leve
+1038;9/04/2020;Bogot·;12 - Barrios Unidos;33;F;En estudio;Casa;Leve
+1039;9/04/2020;Bogot·;16 - Puente Aranda;56;M;En estudio;Casa;Leve
+1040;9/04/2020;Bogot·;02 - Chapinero;26;F;En estudio;Casa;Leve
+1041;9/04/2020;Bogot·;07 - Bosa;9;F;En estudio;Casa;Leve
+1042;9/04/2020;Bogot·;07 - Bosa;8;M;En estudio;Casa;Leve
+1043;9/04/2020;Bogot·;07 - Bosa;25;M;En estudio;Casa;Leve
+1044;9/04/2020;Bogot·;19 - Ciudad BolÌvar;24;M;En estudio;Casa;Leve
+1045;9/04/2020;Bogot·;15 - Antonio NariÒo;26;F;En estudio;Casa;Leve
+1046;9/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;31;F;En estudio;Casa;Leve
+1047;9/04/2020;Bogot·;07 - Bosa;63;F;En estudio;Hospital;Moderado
+1048;9/04/2020;Bogot·;10 - Engativ·;39;M;En estudio;Casa;Leve
+1049;9/04/2020;Bogot·;11 - Suba;73;M;En estudio;Fallecido;Fallecido
+1050;9/04/2020;Bogot·;18 - Rafael Uribe Uribe;59;M;En estudio;Hospital;Moderado
+1051;9/04/2020;Bogot·;11 - Suba;82;F;En estudio;Casa;Leve
+1052;9/04/2020;Bogot·;10 - Engativ·;93;F;En estudio;Casa;Leve
+1053;9/04/2020;Bogot·;08 - Kennedy;55;F;En estudio;Casa;Leve
+1054;9/04/2020;Bogot·;01 - UsaquÈn;63;F;Importado;Casa;Leve
+1055;9/04/2020;Bogot·;11 - Suba;73;F;En estudio;Casa;Leve
+1056;9/04/2020;Bogot·;04 - San CristÛbal;60;F;En estudio;Hospital UCI;Grave
+1057;9/04/2020;Bogot·;13 - Teusaquillo;60;F;Importado;Casa;Leve
+1058;9/04/2020;Bogot·;11 - Suba;66;M;En estudio;Casa;Leve
+1059;9/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;60;F;En estudio;Hospital;Moderado
+1060;9/04/2020;Bogot·;10 - Engativ·;35;F;Importado;Casa;Leve
+1061;9/04/2020;Bogot·;08 - Kennedy;69;F;En estudio;Casa;Leve
+1062;9/04/2020;Bogot·;01 - UsaquÈn;65;F;Importado;Hospital;Moderado
+1063;9/04/2020;Bogot·;08 - Kennedy;52;F;En estudio;Casa;Leve
+1064;9/04/2020;Bogot·;08 - Kennedy;57;F;En estudio;Casa;Leve
+1065;9/04/2020;Bogot·;06 - Tunjuelito;49;F;En estudio;Casa;Leve
+1066;9/04/2020;Bogot·;08 - Kennedy;44;F;En estudio;Casa;Leve
+1067;9/04/2020;Bogot·;11 - Suba;44;F;En estudio;Hospital;Moderado
+1068;9/04/2020;Bogot·;01 - UsaquÈn;39;F;En estudio;Hospital;Moderado
+1069;9/04/2020;Bogot·;04 - San CristÛbal;38;F;Importado;Casa;Leve
+1070;9/04/2020;Bogot·;16 - Puente Aranda;34;F;En estudio;Casa;Leve
+1071;9/04/2020;Bogot·;18 - Rafael Uribe Uribe;59;M;En estudio;Casa;Leve
+1072;9/04/2020;Bogot·;15 - Antonio NariÒo;39;M;En estudio;Casa;Leve
+1073;9/04/2020;Bogot·;10 - Engativ·;59;M;En estudio;Hospital;Moderado
+1074;9/04/2020;Bogot·;08 - Kennedy;55;M;En estudio;Hospital;Moderado
+1075;9/04/2020;Bogot·;18 - Rafael Uribe Uribe;51;M;Importado;Casa;Leve
+1076;9/04/2020;Bogot·;13 - Teusaquillo;44;M;En estudio;Casa;Leve
+1077;9/04/2020;Bogot·;04 - San CristÛbal;43;M;En estudio;Hospital;Moderado
+1078;9/04/2020;Bogot·;08 - Kennedy;39;M;En estudio;Casa;Leve
+1079;9/04/2020;Bogot·;08 - Kennedy;36;M;En estudio;Casa;Leve
+1080;9/04/2020;Bogot·;01 - UsaquÈn;46;M;Importado;Casa;Leve
+1081;9/04/2020;Bogot·;08 - Kennedy;24;F;En estudio;Casa;Leve
+1082;9/04/2020;Bogot·;11 - Suba;53;M;Importado;Casa;Leve
+1083;9/04/2020;Bogot·;09 - FontibÛn;32;F;En estudio;Casa;Leve
+1084;9/04/2020;Bogot·;10 - Engativ·;39;F;En estudio;Casa;Leve
+1085;9/04/2020;Bogot·;09 - FontibÛn;25;M;En estudio;Casa;Leve
+1086;9/04/2020;Bogot·;01 - UsaquÈn;60;M;En estudio;Casa;Leve
+1087;9/04/2020;Bogot·;03 - Santa Fe;36;M;En estudio;Casa;Leve
+1088;9/04/2020;Bogot·;06 - Tunjuelito;25;M;En estudio;Casa;Leve
+1089;9/04/2020;Bogot·;01 - UsaquÈn;39;M;En estudio;Casa;Leve
+1090;9/04/2020;Bogot·;07 - Bosa;53;M;En estudio;Casa;Leve
+1091;9/04/2020;Bogot·;11 - Suba;24;M;En estudio;Casa;Leve
+1092;9/04/2020;Bogot·;01 - UsaquÈn;55;F;En estudio;Casa;Leve
+1093;9/04/2020;Bogot·;01 - UsaquÈn;23;F;En estudio;Casa;Leve
+1094;9/04/2020;Bogot·;13 - Teusaquillo;38;F;Importado;Casa;Leve
+1095;9/04/2020;Bogot·;01 - UsaquÈn;33;M;En estudio;Casa;Leve
+1096;9/04/2020;Bogot·;04 - San CristÛbal;27;F;En estudio;Casa;Leve
+1097;9/04/2020;Bogot·;11 - Suba;44;F;En estudio;Hospital;Moderado
+1098;9/04/2020;Bogot·;13 - Teusaquillo;2;M;En estudio;Casa;Leve
+1099;9/04/2020;Bogot·;19 - Ciudad BolÌvar;24;F;Relacionado;Casa;Leve
+1100;9/04/2020;Bogot·;19 - Ciudad BolÌvar;36;F;Relacionado;Casa;Leve
+1101;9/04/2020;Bogot·;19 - Ciudad BolÌvar;18;F;Relacionado;Casa;Leve
+1102;9/04/2020;Bogot·;19 - Ciudad BolÌvar;48;M;En estudio;Casa;Leve
+1103;9/04/2020;Bogot·;19 - Ciudad BolÌvar;42;M;En estudio;Casa;Leve
+1104;9/04/2020;Bogot·;19 - Ciudad BolÌvar;42;F;En estudio;Casa;Leve
+1105;9/04/2020;Bogot·;19 - Ciudad BolÌvar;39;F;Relacionado;Casa;Leve
+1106;9/04/2020;Bogot·;19 - Ciudad BolÌvar;19;F;Relacionado;Casa;Leve
+1107;9/04/2020;Bogot·;19 - Ciudad BolÌvar;18;F;Relacionado;Casa;Leve
+1108;9/04/2020;Bogot·;19 - Ciudad BolÌvar;10;M;En estudio;Casa;Leve
+1109;9/04/2020;Bogot·;19 - Ciudad BolÌvar;25;M;Relacionado;Casa;Leve
+1110;9/04/2020;Bogot·;19 - Ciudad BolÌvar;10;M;Relacionado;Casa;Leve
+1111;9/04/2020;Bogot·;19 - Ciudad BolÌvar;65;F;Relacionado;Casa;Leve
+1112;9/04/2020;Bogot·;19 - Ciudad BolÌvar;13;F;Relacionado;Casa;Leve
+1113;9/04/2020;Bogot·;19 - Ciudad BolÌvar;14;F;Relacionado;Casa;Leve
+1114;9/04/2020;Bogot·;18 - Rafael Uribe Uribe;23;M;Relacionado;Casa;Leve
+1115;9/04/2020;Bogot·;06 - Tunjuelito;22;F;Relacionado;Casa;Leve
+1116;9/04/2020;Bogot·;19 - Ciudad BolÌvar;17;F;Relacionado;Casa;Leve
+1117;9/04/2020;Bogot·;19 - Ciudad BolÌvar;25;M;En estudio;Casa;Leve
+1118;9/04/2020;Bogot·;11 - Suba;29;M;Importado;Casa;Leve
+1119;9/04/2020;Bogot·;06 - Tunjuelito;86;F;En estudio;Casa;Leve
+1120;9/04/2020;Bogot·;08 - Kennedy;38;F;Importado;Casa;Leve
+1121;9/04/2020;Bogot·;09 - FontibÛn;67;M;En estudio;Casa;Leve
+1122;9/04/2020;Bogot·;10 - Engativ·;47;F;En estudio;Casa;Leve
+1123;9/04/2020;Bogot·;04 - San CristÛbal;38;M;Desconocido;Casa;Leve
+1124;9/04/2020;Bogot·;06 - Tunjuelito;64;M;En estudio;Hospital;Moderado
+1125;9/04/2020;Bogot·;16 - Puente Aranda;32;F;Desconocido;Casa;Leve
+1126;9/04/2020;Bogot·;16 - Puente Aranda;89;F;En estudio;Hospital;Moderado
+1127;9/04/2020;Bogot·;09 - FontibÛn;68;F;En estudio;Casa;Leve
+1128;9/04/2020;Bogot·;11 - Suba;70;M;En estudio;Hospital;Moderado
+1129;9/04/2020;Bogot·;10 - Engativ·;37;F;En estudio;Casa;Leve
+1130;9/04/2020;Bogot·;09 - FontibÛn;60;F;Desconocido;Casa;Leve
+1131;9/04/2020;Bogot·;13 - Teusaquillo;33;F;En estudio;Casa;Leve
+1132;9/04/2020;Bogot·;05 - Usme;37;M;Relacionado;Casa;Leve
+1133;9/04/2020;Bogot·;09 - FontibÛn;19;M;Relacionado;Casa;Leve
+1134;9/04/2020;Bogot·;11 - Suba;49;M;En estudio;Casa;Leve
+1135;9/04/2020;Bogot·;10 - Engativ·;91;M;Desconocido;Hospital;Moderado
+1136;9/04/2020;Bogot·;07 - Bosa;51;F;En estudio;Hospital;Moderado
+1137;9/04/2020;Bogot·;07 - Bosa;36;F;En estudio;Casa;Leve
+1138;9/04/2020;Bogot·;05 - Usme;61;F;En estudio;Casa;Leve
+1139;9/04/2020;Bogot·;11 - Suba;47;M;Desconocido;Hospital;Moderado
+1140;9/04/2020;Bogot·;08 - Kennedy;52;M;En estudio;Hospital;Moderado
+1141;9/04/2020;Bogot·;15 - Antonio NariÒo;27;M;En estudio;Hospital;Moderado
+1142;9/04/2020;Bogot·;07 - Bosa;49;F;En estudio;Casa;Leve
+1143;9/04/2020;Bogot·;08 - Kennedy;78;F;En estudio;Casa;Leve
+1144;9/04/2020;Bogot·;08 - Kennedy;57;F;En estudio;Casa;Leve
+1145;9/04/2020;Bogot·;08 - Kennedy;27;F;En estudio;Casa;Leve
+1146;9/04/2020;Bogot·;08 - Kennedy;53;F;En estudio;Casa;Leve
+1147;9/04/2020;Bogot·;12 - Barrios Unidos;18;M;Relacionado;Casa;Leve
+1148;9/04/2020;Bogot·;12 - Barrios Unidos;40;F;En estudio;Casa;Leve
+1149;9/04/2020;Bogot·;19 - Ciudad BolÌvar;87;M;En estudio;Hospital;Moderado
+1150;9/04/2020;Bogot·;08 - Kennedy;26;F;En estudio;Casa;Leve
+1151;9/04/2020;Bogot·;11 - Suba;40;F;Desconocido;Hospital;Moderado
+1152;9/04/2020;Bogot·;17 - La Candelaria;28;M;En estudio;Hospital UCI;Grave
+1153;9/04/2020;Bogot·;08 - Kennedy;37;M;En estudio;Casa;Leve
+1154;9/04/2020;Bogot·;16 - Puente Aranda;34;F;En estudio;Casa;Leve
+1155;9/04/2020;Bogot·;08 - Kennedy;77;M;En estudio;Casa;Leve
+1156;9/04/2020;Bogot·;11 - Suba;67;F;En estudio;Hospital;Moderado
+1157;9/04/2020;Bogot·;10 - Engativ·;54;M;Desconocido;Hospital;Moderado
+1158;9/04/2020;Bogot·;04 - San CristÛbal;31;M;En estudio;Hospital;Moderado
+1159;8/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;67;F;En estudio;Hospital;Moderado
+1160;10/04/2020;Fuera de Bogot·;21 - Fuera de Bogot·;8;M;En estudio;Hospital;Moderado
+1161;10/04/2020;Bogot·;19 - Ciudad BolÌvar;90;F;En estudio;Hospital;Moderado
+1162;10/04/2020;Bogot·;02 - Chapinero;31;M;Relacionado;Casa;Leve
+1163;10/04/2020;Bogot·;12 - Barrios Unidos;62;M;En estudio;Hospital;Moderado
+;;;;;;;;
+;;;;;;;;
+Fuente: Base de datos de casos confirmados COVID-19. SubsecretarÌa de Salud P˙blica. SecretarÌa Distrital de Salud. 2020. Corte: abril 11 de 2020.;;;;;;;;
