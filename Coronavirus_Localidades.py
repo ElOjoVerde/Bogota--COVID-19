@@ -10,6 +10,11 @@ import urllib.request
 from io import StringIO
 import numpy as np
 
+#--------------------------------------------------------------------------------------------------------------------------
+
+ruta = 'J:\Documents\GIT\Bogot----COVID-19' ##Ruta donde este guardado el GIT
+
+#--------------------------------------------------------------------------------------------------------------------------
 #LECTURA DE DATOS DESDE EL LINK
 with urllib.request.urlopen("http://saludata.saludcapital.gov.co/osb/datos_abiertos_osb/enf-transmisibles/OSB_EnfTransm-COVID-19.csv") as url:
         data = url.read().decode('ANSI') #SE LLAMA EL CSV DESDE LA PAGINA WEB, ESTE ES LEIDO COMO FORMATO TEXTO PARA PODER ELIMINAR LAS 4 PRIMERAS LINEAS
@@ -17,7 +22,7 @@ with urllib.request.urlopen("http://saludata.saludcapital.gov.co/osb/datos_abier
 #--------------------------------------------------------------------------------------------------------------------------     
 #SE ELIMINAN LAS 4 PRIMERAS LINEAS Y LAS ULTIMAS 3 LINEAS QUE CONTIENEN INFORMACIÓN IRRELEVANTE
 Datos = data.split('\n',4)[-1] #ELIMINA LAS 4 PRIMERAS LINEAS
-Datos = StringIO(Datos) 
+Datos = StringIO(Datos)
 #--------------------------------------------------------------------------------------------------------------------------
 #SE TRANSFORMA EL ARCHIVO DE TEXTO A UN DATAFRAME
 Casos_T = pd.read_csv(Datos, sep=";")
@@ -25,13 +30,18 @@ Casos_T = Casos_T[:-3] #ELIMINA LAS 3 ULTIMAS LINEAS
 #--------------------------------------------------------------------------------------------------------------------------
 ##COMIENZA LA TRANSFORMACIÓN DE LOS DATOS ORIGINALES, PARA LA CREACIÓN DE NUEVAS TABLAS
 #--------------------------------------------------------------------------------------------------------------------------
+
 #SE DEFINEN EL TIPO DE DATOS DE LAS COLUMNAS
 Casos_T['ID de caso']=Casos_T['ID de caso'].astype('int')
 Casos_T['Edad']=Casos_T['Edad'].astype('int')
 Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(" ", "")
+Inciertos = Casos_T[Casos_T['Fecha de diagnóstico']=='INS']
+Casos_T = Casos_T.drop(Casos_T[Casos_T['Fecha de diagnóstico'] == 'INS'].index)
 Casos_T['Fecha de diagnóstico'] =  pd.to_datetime(Casos_T['Fecha de diagnóstico'],format='%d/%m/%Y')
 Casos_T['LocCodigo'], Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.split(' - ', 1).str
+
 #--------------------------------------------------------------------------------------------------------------------------
+
 #SE GENERALIZA EL NOMBRE DE LAS LOCALIDADES PARA QUE COINCIDAN CON EL SHAPEFILE
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.upper()
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Á", "A")
@@ -39,15 +49,19 @@ Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.repl
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Í", "I")
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Ó", "O")
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Ú", "U")
+
 #--------------------------------------------------------------------------------------------------------------------------
+
 #SE ORGANIZA LA TABLA POR FECHA DE DIAGNOSTICO Y SE EXPORTA A FORMATO CSV
 Casos_T=Casos_T.sort_values(by=['Fecha de diagnóstico', 'Localidad de residencia'])
 
-filename = (r'J:\Documents\GIT\Bogot----COVID-19\Casos Cronoavirus\Casos_Coronavirus-Bogotá.csv')
+filename = (str(ruta) + '/Casos Coronavirus/Casos_Coronavirus-Bogotá.csv')
 Casos_T.to_csv(filename, index= False)
+
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE ORGANIZAN LOS DATOS DE MANERA TEMPORAL PARA CADA UNA DE LAS LOCALIDADES, PARA ASÍ PODER CONSTRUIR GRAFICAS EVOLUTIVAS
 #--------------------------------------------------------------------------------------------------------------------------
+
 Casos_Loc = pd.DataFrame(Casos_T['Localidad de residencia'])
 Casos_Loc['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico']
 Casos_Loc['Sexo'] = Casos_T['Sexo']
@@ -86,6 +100,7 @@ Temporal = Temporal.drop('Fecha de diagnóstico', axis = 1)
 Temporal = Temporal.fillna(method='ffill')
 Temporal = Temporal.T
 
-filename_2 = (r'J:\Documents\GIT\Bogot----COVID-19\Histórico por Localidad\Localidad_Coronavirus.csv')
+filename_2 = (str(ruta) + '\Histórico por Localidad\Localidad_Coronavirus.csv')
 Temporal.to_csv(filename_2)
+
 #--------------------------------------------------------------------------------------------------------------------------
