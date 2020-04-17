@@ -1,0 +1,1334 @@
+ID de caso,Fecha de diagnóstico,Ciudad de residencia,Localidad de residencia,Edad,Sexo,Tipo de caso,Ubicación,Estado,LocCodigo
+1,2020-03-06,Bogotá,USAQUEN,19,F,Importado,Casa,Moderado,01
+2,2020-03-10,Bogotá,ENGATIVA,22,F,Importado,Casa,Moderado,10
+3,2020-03-10,Bogotá,ENGATIVA,28,F,Importado,Casa,Moderado,10
+4,2020-03-12,Bogotá,FONTIBON,36,F,Importado,Casa,Moderado,09
+5,2020-03-12,Bogotá,KENNEDY,42,F,Importado,Casa,Moderado,08
+7,2020-03-13,Bogotá,ENGATIVA,73,F,Importado,Casa,Moderado,10
+9,2020-03-13,Bogotá,ENGATIVA,54,F,En estudio,Casa,Moderado,10
+14,2020-03-13,Bogotá,ENGATIVA,54,M,Importado,Casa,Moderado,10
+31,2020-03-13,Bogotá,ENGATIVA,37,M,Relacionado,Casa,Moderado,10
+1247,2020-03-13,Fuera de Bogotá,FUERA DE BOGOTA,38,F,En estudio,Hospital,Severo,21
+6,2020-03-13,Bogotá,SUBA,61,F,Importado,Casa,Moderado,11
+8,2020-03-13,Bogotá,SUBA,54,M,Importado,Casa,Moderado,11
+11,2020-03-14,Bogotá,CHAPINERO,18,F,Importado,Casa,Moderado,02
+12,2020-03-14,Bogotá,ENGATIVA,59,M,Importado,Casa,Moderado,10
+10,2020-03-14,Bogotá,FONTIBON,23,M,Relacionado,Casa,Moderado,09
+13,2020-03-14,Bogotá,SUBA,23,F,Importado,Casa,Moderado,11
+24,2020-03-15,Bogotá,BARRIOS UNIDOS,67,F,Importado,Casa,Moderado,12
+17,2020-03-15,Bogotá,CHAPINERO,29,M,Importado,Casa,Moderado,02
+18,2020-03-15,Bogotá,CHAPINERO,21,M,Importado,Casa,Moderado,02
+19,2020-03-15,Bogotá,CHAPINERO,23,F,Importado,Casa,Moderado,02
+23,2020-03-15,Bogotá,CHAPINERO,41,F,Importado,Casa,Moderado,02
+26,2020-03-15,Bogotá,CHAPINERO,29,M,Importado,Casa,Moderado,02
+27,2020-03-15,Bogotá,CHAPINERO,62,M,Importado,Casa,Moderado,02
+16,2020-03-15,Bogotá,CIUDAD BOLIVAR,45,F,Relacionado,Casa,Moderado,19
+30,2020-03-15,Bogotá,ENGATIVA,34,M,Importado,Casa,Moderado,10
+20,2020-03-15,Bogotá,KENNEDY,44,F,Relacionado,Casa,Moderado,08
+21,2020-03-15,Bogotá,KENNEDY,38,M,Relacionado,Casa,Moderado,08
+28,2020-03-15,Bogotá,SUBA,42,F,Importado,Casa,Moderado,11
+15,2020-03-15,Bogotá,USAQUEN,72,M,Importado,Casa,Moderado,01
+22,2020-03-15,Bogotá,USAQUEN,31,M,Relacionado,Casa,Moderado,01
+29,2020-03-15,Bogotá,USAQUEN,58,F,Relacionado,Casa,Moderado,01
+32,2020-03-16,Bogotá,USAQUEN,31,M,Importado,Hospital,Severo,01
+33,2020-03-16,Bogotá,USAQUEN,64,M,Relacionado,Casa,Moderado,01
+34,2020-03-17,Bogotá,CHAPINERO,40,F,Importado,Casa,Moderado,02
+35,2020-03-17,Bogotá,CHAPINERO,22,F,Importado,Casa,Moderado,02
+36,2020-03-17,Bogotá,CHAPINERO,21,M,Importado,Casa,Moderado,02
+37,2020-03-17,Bogotá,CHAPINERO,72,M,Importado,Casa,Moderado,02
+42,2020-03-17,Bogotá,CHAPINERO,26,F,Importado,Casa,Moderado,02
+39,2020-03-17,Bogotá,LA CANDELARIA,49,F,Relacionado,Casa,Moderado,17
+40,2020-03-17,Bogotá,RAFAEL URIBE URIBE,18,M,Relacionado,Casa,Moderado,18
+41,2020-03-17,Bogotá,SUBA,50,M,Relacionado,Casa,Moderado,11
+38,2020-03-17,Bogotá,USAQUEN,37,F,Importado,Casa,Moderado,01
+45,2020-03-18,Bogotá,FONTIBON,37,F,Importado,Casa,Moderado,09
+43,2020-03-18,Bogotá,PUENTE ARANDA,53,M,Importado,Casa,Moderado,16
+44,2020-03-18,Bogotá,USAQUEN,69,M,Importado,Hospital UCI,Crítico,01
+50,2020-03-19,Bogotá,CHAPINERO,33,M,Importado,Casa,Moderado,02
+55,2020-03-19,Bogotá,CHAPINERO,30,M,Importado,Casa,Moderado,02
+56,2020-03-19,Bogotá,CHAPINERO,34,M,Importado,Casa,Moderado,02
+61,2020-03-19,Bogotá,CHAPINERO,29,F,Importado,Casa,Moderado,02
+54,2020-03-19,Bogotá,ENGATIVA,54,M,Importado,Casa,Moderado,10
+74,2020-03-19,Bogotá,ENGATIVA,46,F,Relacionado,Casa,Moderado,10
+47,2020-03-19,Bogotá,FONTIBON,62,F,Importado,Casa,Moderado,09
+52,2020-03-19,Bogotá,FONTIBON,29,M,Importado,Casa,Moderado,09
+72,2020-03-19,Bogotá,FONTIBON,32,F,Relacionado,Casa,Moderado,09
+46,2020-03-19,Bogotá,PUENTE ARANDA,54,M,Importado,Casa,Moderado,16
+51,2020-03-19,Bogotá,SUBA,49,M,Importado,Casa,Moderado,11
+53,2020-03-19,Bogotá,SUBA,40,F,Relacionado,Casa,Moderado,11
+48,2020-03-19,Bogotá,USAQUEN,60,M,Relacionado,Casa,Moderado,01
+49,2020-03-19,Bogotá,USAQUEN,30,M,Importado,Casa,Moderado,01
+66,2020-03-20,Bogotá,CHAPINERO,34,M,Importado,Casa,Moderado,02
+67,2020-03-20,Bogotá,ENGATIVA,42,F,Importado,Casa,Moderado,10
+76,2020-03-20,Bogotá,ENGATIVA,42,F,Relacionado,Casa,Moderado,10
+78,2020-03-20,Bogotá,ENGATIVA,21,F,Relacionado,Casa,Moderado,10
+79,2020-03-20,Bogotá,ENGATIVA,27,M,En estudio,Casa,Moderado,10
+57,2020-03-20,Bogotá,FONTIBON,37,M,Importado,Casa,Moderado,09
+82,2020-03-20,Bogotá,FONTIBON,23,F,Importado,Casa,Moderado,09
+98,2020-03-20,Bogotá,FONTIBON,26,M,Relacionado,Casa,Moderado,09
+111,2020-03-20,Bogotá,FONTIBON,41,M,Importado,Casa,Moderado,09
+58,2020-03-20,Fuera de Bogotá,FUERA DE BOGOTA,31,F,Relacionado,Casa,Moderado,21
+60,2020-03-20,Fuera de Bogotá,FUERA DE BOGOTA,25,F,Relacionado,Casa,Moderado,21
+64,2020-03-20,Bogotá,PUENTE ARANDA,53,F,En estudio,Fallecido,Fallecido,16
+59,2020-03-20,Bogotá,SUBA,32,M,Relacionado,Casa,Moderado,11
+68,2020-03-20,Bogotá,SUBA,22,F,Importado,Casa,Moderado,11
+69,2020-03-20,Bogotá,SUBA,25,M,Importado,Casa,Moderado,11
+70,2020-03-20,Bogotá,SUBA,28,M,Relacionado,Hospital,Severo,11
+73,2020-03-20,Bogotá,SUBA,45,F,En estudio,Casa,Moderado,11
+93,2020-03-20,Bogotá,SUBA,58,F,Relacionado,Casa,Moderado,11
+62,2020-03-20,Bogotá,TEUSAQUILLO,47,M,Importado,Casa,Moderado,13
+80,2020-03-20,Bogotá,TEUSAQUILLO,65,F,Importado,Casa,Moderado,13
+81,2020-03-20,Bogotá,TEUSAQUILLO,70,M,Importado,Casa,Moderado,13
+102,2020-03-20,Bogotá,TEUSAQUILLO,45,F,Importado,Casa,Moderado,13
+75,2020-03-20,Bogotá,TUNJUELITO,25,F,Importado,Casa,Moderado,06
+63,2020-03-20,Bogotá,USAQUEN,65,M,Importado,Fallecido,Fallecido,01
+65,2020-03-20,Bogotá,USAQUEN,40,M,Importado,Casa,Moderado,01
+71,2020-03-20,Bogotá,USAQUEN,67,F,Importado,Casa,Moderado,01
+77,2020-03-20,Bogotá,USAQUEN,45,F,Importado,Casa,Moderado,01
+83,2020-03-20,Bogotá,USAQUEN,28,M,Relacionado,Casa,Moderado,01
+84,2020-03-20,Bogotá,USAQUEN,60,F,Importado,Casa,Moderado,01
+85,2020-03-20,Bogotá,USAQUEN,41,M,Importado,Hospital,Severo,01
+91,2020-03-21,Bogotá,BOSA,41,M,En estudio,Casa,Moderado,07
+92,2020-03-21,Fuera de Bogotá,FUERA DE BOGOTA,47,M,Importado,Casa,Moderado,21
+90,2020-03-21,Fuera de Bogotá,SUBA,64,M,En estudio,Casa,Moderado,11
+87,2020-03-21,Bogotá,TEUSAQUILLO,68,F,Importado,Casa,Moderado,13
+106,2020-03-21,Bogotá,TUNJUELITO,32,F,En estudio,Casa,Moderado,06
+86,2020-03-21,Bogotá,USAQUEN,62,M,Importado,Casa,Moderado,01
+130,2020-03-21,Bogotá,USAQUEN,43,F,Relacionado,Hospital,Severo,01
+105,2020-03-22,Bogotá,CHAPINERO,55,M,Importado,Casa,Moderado,02
+109,2020-03-22,Bogotá,CHAPINERO,80,M,Relacionado,Casa,Moderado,02
+96,2020-03-22,Bogotá,FONTIBON,49,M,Importado,Casa,Moderado,09
+100,2020-03-22,Bogotá,FONTIBON,72,F,Importado,Casa,Moderado,09
+115,2020-03-22,Bogotá,FONTIBON,31,M,Importado,Casa,Moderado,09
+99,2020-03-22,Bogotá,KENNEDY,30,F,Importado,Casa,Moderado,08
+104,2020-03-22,Bogotá,KENNEDY,34,F,En estudio,Casa,Moderado,08
+114,2020-03-22,Bogotá,SANTAFE,39,M,Importado,Casa,Moderado,03
+89,2020-03-22,Bogotá,SUBA,59,F,Importado,Fallecido,Fallecido,11
+95,2020-03-22,Bogotá,SUBA,52,M,Importado,Casa,Moderado,11
+97,2020-03-22,Bogotá,SUBA,28,M,Relacionado,Casa,Moderado,11
+113,2020-03-22,Bogotá,SUBA,35,M,Importado,Casa,Moderado,11
+119,2020-03-22,Bogotá,SUBA,40,F,Desconocido,Casa,Moderado,11
+120,2020-03-22,Bogotá,SUBA,18,F,Desconocido,Casa,Moderado,11
+103,2020-03-22,Bogotá,USAQUEN,38,F,Importado,Casa,Moderado,01
+107,2020-03-22,Bogotá,USAQUEN,57,F,Importado,Casa,Moderado,01
+108,2020-03-22,Bogotá,USAQUEN,26,M,Importado,Casa,Moderado,01
+110,2020-03-22,Bogotá,USAQUEN,19,F,Importado,Casa,Moderado,01
+94,2020-03-22,Bogotá,USME,40,M,Importado,Casa,Moderado,05
+116,2020-03-23,Bogotá,BARRIOS UNIDOS,21,F,Desconocido,Casa,Moderado,12
+117,2020-03-23,Bogotá,CHAPINERO,59,M,Importado,Casa,Moderado,02
+101,2020-03-23,Bogotá,KENNEDY,76,M,En estudio,Fallecido,Fallecido,08
+118,2020-03-23,Bogotá,SUBA,28,F,Importado,Casa,Moderado,11
+180,2020-03-23,Bogotá,SUBA,50,M,Importado,Casa,Moderado,11
+162,2020-03-23,Bogotá,TEUSAQUILLO,48,F,En estudio,Casa,Moderado,13
+112,2020-03-23,Bogotá,USAQUEN,61,M,Relacionado,Fallecido,Fallecido,01
+407,2020-03-24,Bogotá,ANTONIO NARIÑO,17,F,Desconocido,Casa,Moderado,15
+123,2020-03-24,Bogotá,CHAPINERO,48,F,Importado,Casa,Moderado,02
+124,2020-03-24,Bogotá,CHAPINERO,61,M,Importado,Casa,Moderado,02
+125,2020-03-24,Bogotá,CHAPINERO,58,F,Importado,Casa,Moderado,02
+126,2020-03-24,Bogotá,CHAPINERO,63,M,Relacionado,Casa,Moderado,02
+141,2020-03-24,Bogotá,CHAPINERO,21,M,Importado,Casa,Moderado,02
+142,2020-03-24,Bogotá,CHAPINERO,60,F,Importado,Casa,Moderado,02
+147,2020-03-24,Bogotá,CHAPINERO,25,M,Importado,Casa,Moderado,02
+148,2020-03-24,Bogotá,CHAPINERO,25,F,Importado,Casa,Moderado,02
+402,2020-03-24,Bogotá,CHAPINERO,31,F,Importado,Casa,Moderado,02
+121,2020-03-24,Bogotá,ENGATIVA,23,F,Relacionado,Casa,Moderado,10
+122,2020-03-24,Bogotá,ENGATIVA,34,F,Relacionado,Casa,Moderado,10
+139,2020-03-24,Bogotá,ENGATIVA,51,F,En estudio,Casa,Moderado,10
+140,2020-03-24,Bogotá,ENGATIVA,27,F,Relacionado,Casa,Moderado,10
+157,2020-03-24,Bogotá,ENGATIVA,35,M,Desconocido,Casa,Moderado,10
+176,2020-03-24,Bogotá,ENGATIVA,84,F,En estudio,Casa,Moderado,10
+177,2020-03-24,Bogotá,ENGATIVA,61,F,En estudio,Casa,Moderado,10
+179,2020-03-24,Bogotá,ENGATIVA,42,M,En estudio,Casa,Moderado,10
+373,2020-03-24,Bogotá,ENGATIVA,35,M,Importado,Casa,Moderado,10
+410,2020-03-24,Bogotá,ENGATIVA,56,M,Desconocido,Casa,Moderado,10
+128,2020-03-24,Bogotá,FONTIBON,51,M,Importado,Casa,Moderado,09
+146,2020-03-24,Bogotá,FONTIBON,58,M,Importado,Casa,Moderado,09
+159,2020-03-24,Bogotá,FONTIBON,52,F,Relacionado,Casa,Moderado,09
+409,2020-03-24,Bogotá,FONTIBON,30,F,En estudio,Casa,Moderado,09
+175,2020-03-24,Fuera de Bogotá,FUERA DE BOGOTA,30,F,Importado,Casa,Moderado,21
+158,2020-03-24,Bogotá,KENNEDY,69,F,Desconocido,Casa,Moderado,08
+171,2020-03-24,Bogotá,KENNEDY,40,F,En estudio,Casa,Moderado,08
+151,2020-03-24,Bogotá,LA CANDELARIA,43,F,Relacionado,Casa,Moderado,17
+152,2020-03-24,Bogotá,LA CANDELARIA,63,M,Relacionado,Casa,Moderado,17
+143,2020-03-24,Bogotá,PUENTE ARANDA,70,F,Importado,Casa,Moderado,16
+127,2020-03-24,Bogotá,SUBA,59,M,Importado,Casa,Moderado,11
+131,2020-03-24,Bogotá,SUBA,73,M,Relacionado,Fallecido,Fallecido,11
+132,2020-03-24,Bogotá,SUBA,74,F,Relacionado,Casa,Moderado,11
+138,2020-03-24,Bogotá,SUBA,44,F,Importado,Casa,Moderado,11
+144,2020-03-24,Bogotá,SUBA,30,F,Importado,Casa,Moderado,11
+155,2020-03-24,Bogotá,SUBA,48,M,Importado,Casa,Moderado,11
+156,2020-03-24,Bogotá,SUBA,62,M,Desconocido,Hospital UCI,Crítico,11
+170,2020-03-24,Bogotá,SUBA,19,F,Importado,Casa,Moderado,11
+172,2020-03-24,Bogotá,SUBA,33,F,En estudio,Casa,Moderado,11
+217,2020-03-24,Bogotá,SUBA,32,M,Importado,Casa,Moderado,11
+133,2020-03-24,Bogotá,TEUSAQUILLO,45,F,Importado,Casa,Moderado,13
+160,2020-03-24,Bogotá,TEUSAQUILLO,35,M,Importado,Casa,Moderado,13
+173,2020-03-24,Bogotá,TEUSAQUILLO,37,F,Importado,Casa,Moderado,13
+174,2020-03-24,Bogotá,TEUSAQUILLO,41,M,Importado,Casa,Moderado,13
+254,2020-03-24,Bogotá,TEUSAQUILLO,39,M,En estudio,Casa,Moderado,13
+408,2020-03-24,Bogotá,TEUSAQUILLO,39,F,Importado,Casa,Moderado,13
+129,2020-03-24,Bogotá,USAQUEN,29,M,Importado,Casa,Moderado,01
+134,2020-03-24,Bogotá,USAQUEN,34,M,Importado,Casa,Moderado,01
+135,2020-03-24,Bogotá,USAQUEN,45,M,Relacionado,Casa,Moderado,01
+136,2020-03-24,Bogotá,USAQUEN,48,M,Relacionado,Casa,Moderado,01
+137,2020-03-24,Bogotá,USAQUEN,66,M,Importado,Casa,Moderado,01
+145,2020-03-24,Bogotá,USAQUEN,21,M,Importado,Casa,Moderado,01
+149,2020-03-24,Bogotá,USAQUEN,45,M,Importado,Casa,Moderado,01
+150,2020-03-24,Bogotá,USAQUEN,33,F,Importado,Casa,Moderado,01
+153,2020-03-24,Bogotá,USAQUEN,57,F,Relacionado,Hospital,Severo,01
+154,2020-03-24,Bogotá,USAQUEN,23,F,Importado,Casa,Moderado,01
+178,2020-03-24,Bogotá,USAQUEN,57,F,Importado,Casa,Moderado,01
+225,2020-03-24,Bogotá,USAQUEN,40,M,Relacionado,Hospital,Severo,01
+406,2020-03-24,Bogotá,USAQUEN,44,F,Importado,Casa,Moderado,01
+236,2020-03-24,Bogotá,USME,38,F,Relacionado,Casa,Moderado,05
+161,2020-03-25,Bogotá,FONTIBON,40,M,En estudio,Casa,Moderado,09
+167,2020-03-25,Fuera de Bogotá,FUERA DE BOGOTA,34,F,En estudio,Casa,Moderado,21
+248,2020-03-25,Bogotá,KENNEDY,30,M,Relacionado,Hospital,Severo,08
+181,2020-03-25,Bogotá,SUBA,51,M,Desconocido,Casa,Moderado,11
+223,2020-03-25,Bogotá,SUBA,43,M,En estudio,Casa,Moderado,11
+163,2020-03-25,Bogotá,TEUSAQUILLO,55,F,En estudio,Casa,Moderado,13
+165,2020-03-25,Bogotá,TEUSAQUILLO,50,F,Importado,Casa,Moderado,13
+166,2020-03-25,Fuera de Bogotá,TEUSAQUILLO,43,F,En estudio,Casa,Moderado,13
+182,2020-03-25,Bogotá,TEUSAQUILLO,39,M,En estudio,Casa,Moderado,13
+183,2020-03-25,Fuera de Bogotá,TEUSAQUILLO,30,M,En estudio,Casa,Moderado,13
+164,2020-03-25,Bogotá,TUNJUELITO,35,F,En estudio,Casa,Moderado,06
+252,2020-03-25,Bogotá,USAQUEN,37,M,Importado,Casa,Moderado,01
+270,2020-03-25,Bogotá,USAQUEN,45,F,Relacionado,Casa,Moderado,01
+220,2020-03-26,Bogotá,ANTONIO NARIÑO,56,F,En estudio,Casa,Moderado,15
+206,2020-03-26,Bogotá,BARRIOS UNIDOS,71,M,En estudio,Fallecido,Fallecido,12
+208,2020-03-26,Bogotá,BARRIOS UNIDOS,80,M,Importado,Casa,Moderado,12
+238,2020-03-26,Bogotá,BARRIOS UNIDOS,64,F,En estudio,Casa,Moderado,12
+191,2020-03-26,Fuera de Bogotá,BOSA,42,F,Importado,Casa,Moderado,07
+194,2020-03-26,Bogotá,BOSA,31,M,En estudio,Casa,Moderado,07
+221,2020-03-26,Fuera de Bogotá,BOSA,33,F,Relacionado,Casa,Moderado,07
+230,2020-03-26,Bogotá,BOSA,82,F,Desconocido,Casa,Moderado,07
+237,2020-03-26,Bogotá,BOSA,31,F,Relacionado,Casa,Moderado,07
+241,2020-03-26,Bogotá,BOSA,35,M,Relacionado,Casa,Moderado,07
+245,2020-03-26,Bogotá,BOSA,54,M,Desconocido,Casa,Moderado,07
+184,2020-03-26,Fuera de Bogotá,CHAPINERO,85,M,Importado,Hospital UCI,Crítico,02
+185,2020-03-26,Bogotá,CHAPINERO,65,M,En estudio,Casa,Moderado,02
+200,2020-03-26,Bogotá,CHAPINERO,35,M,Importado,Casa,Moderado,02
+227,2020-03-26,Fuera de Bogotá,CHAPINERO,42,M,Desconocido,Casa,Moderado,02
+232,2020-03-26,Fuera de Bogotá,CHAPINERO,53,M,Relacionado,Hospital,Severo,02
+303,2020-03-26,Bogotá,CHAPINERO,38,M,Importado,Casa,Moderado,02
+196,2020-03-26,Bogotá,CIUDAD BOLIVAR,27,M,Importado,Casa,Moderado,19
+209,2020-03-26,Bogotá,ENGATIVA,30,F,En estudio,Casa,Moderado,10
+210,2020-03-26,Bogotá,ENGATIVA,24,F,Relacionado,Casa,Moderado,10
+211,2020-03-26,Bogotá,ENGATIVA,20,M,Relacionado,Casa,Moderado,10
+212,2020-03-26,Bogotá,ENGATIVA,47,M,Relacionado,Casa,Moderado,10
+213,2020-03-26,Bogotá,ENGATIVA,26,M,Relacionado,Casa,Moderado,10
+214,2020-03-26,Bogotá,ENGATIVA,24,F,Relacionado,Casa,Moderado,10
+234,2020-03-26,Bogotá,ENGATIVA,49,M,Desconocido,Fallecido,Fallecido,10
+235,2020-03-26,Bogotá,ENGATIVA,58,F,Relacionado,Casa,Moderado,10
+247,2020-03-26,Bogotá,ENGATIVA,38,F,Importado,Casa,Moderado,10
+411,2020-03-26,Bogotá,ENGATIVA,24,M,Importado,Casa,Moderado,10
+187,2020-03-26,Fuera de Bogotá,FONTIBON,35,M,Importado,Casa,Moderado,09
+188,2020-03-26,Bogotá,FONTIBON,32,F,Importado,Casa,Moderado,09
+195,2020-03-26,Bogotá,FONTIBON,50,M,Importado,Casa,Moderado,09
+197,2020-03-26,Bogotá,FONTIBON,52,M,Importado,Casa,Moderado,09
+201,2020-03-26,Bogotá,FONTIBON,37,M,Desconocido,Casa,Moderado,09
+240,2020-03-26,Bogotá,FONTIBON,33,F,Relacionado,Casa,Moderado,09
+268,2020-03-26,Bogotá,FONTIBON,62,F,Importado,Casa,Moderado,09
+215,2020-03-26,Fuera de Bogotá,FUERA DE BOGOTA,62,F,Importado,Casa,Moderado,21
+299,2020-03-26,Fuera de Bogotá,FUERA DE BOGOTA,48,M,Desconocido,Casa,Moderado,21
+189,2020-03-26,Bogotá,KENNEDY,34,M,Importado,Casa,Moderado,08
+192,2020-03-26,Bogotá,KENNEDY,28,F,Importado,Casa,Moderado,08
+202,2020-03-26,Bogotá,KENNEDY,72,M,Desconocido,Fallecido,Fallecido,08
+203,2020-03-26,Bogotá,KENNEDY,74,F,Desconocido,Hospital,Severo,08
+204,2020-03-26,Bogotá,KENNEDY,35,M,Importado,Casa,Moderado,08
+269,2020-03-26,Bogotá,KENNEDY,38,M,En estudio,Casa,Moderado,08
+193,2020-03-26,Bogotá,PUENTE ARANDA,28,M,En estudio,Casa,Moderado,16
+228,2020-03-26,Bogotá,PUENTE ARANDA,39,M,Importado,Casa,Moderado,16
+229,2020-03-26,Bogotá,PUENTE ARANDA,43,M,Importado,Casa,Moderado,16
+233,2020-03-26,Bogotá,RAFAEL URIBE URIBE,55,F,En estudio,Hospital UCI,Crítico,18
+242,2020-03-26,Bogotá,SANTAFE,43,M,En estudio,Casa,Moderado,03
+262,2020-03-26,Fuera de Bogotá,SANTAFE,39,M,Relacionado,Casa,Moderado,03
+300,2020-03-26,Bogotá,SANTAFE,32,M,En estudio,Hospital,Severo,03
+190,2020-03-26,Bogotá,SUBA,48,M,Importado,Casa,Moderado,11
+199,2020-03-26,Bogotá,SUBA,47,F,Importado,Casa,Moderado,11
+207,2020-03-26,Bogotá,SUBA,50,M,Importado,Casa,Moderado,11
+219,2020-03-26,Bogotá,SUBA,84,M,Desconocido,Fallecido,Fallecido,11
+222,2020-03-26,Bogotá,SUBA,51,M,En estudio,Casa,Moderado,11
+224,2020-03-26,Bogotá,SUBA,29,M,Desconocido,Casa,Moderado,11
+231,2020-03-26,Bogotá,SUBA,41,M,Importado,Casa,Moderado,11
+244,2020-03-26,Bogotá,SUBA,30,M,Relacionado,Casa,Moderado,11
+246,2020-03-26,Bogotá,SUBA,53,F,Relacionado,Casa,Moderado,11
+260,2020-03-26,Bogotá,SUBA,67,F,Importado,Hospital UCI,Crítico,11
+267,2020-03-26,Bogotá,SUBA,42,F,Importado,Casa,Moderado,11
+298,2020-03-26,Bogotá,SUBA,50,M,Desconocido,Casa,Moderado,11
+168,2020-03-26,Bogotá,TEUSAQUILLO,22,M,Importado,Casa,Moderado,13
+169,2020-03-26,Bogotá,TEUSAQUILLO,37,F,Importado,Casa,Moderado,13
+205,2020-03-26,Bogotá,TEUSAQUILLO,71,F,Desconocido,Casa,Moderado,13
+218,2020-03-26,Bogotá,TEUSAQUILLO,36,F,Relacionado,Casa,Moderado,13
+249,2020-03-26,Bogotá,TEUSAQUILLO,38,M,Importado,Casa,Moderado,13
+266,2020-03-26,Bogotá,TUNJUELITO,25,M,En estudio,Casa,Moderado,06
+186,2020-03-26,Bogotá,USAQUEN,23,F,Desconocido,Casa,Moderado,01
+216,2020-03-26,Bogotá,USAQUEN,37,M,Importado,Casa,Moderado,01
+226,2020-03-26,Bogotá,USAQUEN,33,M,Importado,Casa,Moderado,01
+259,2020-03-26,Bogotá,USAQUEN,33,F,Relacionado,Casa,Moderado,01
+301,2020-03-26,Bogotá,USAQUEN,26,M,Importado,Casa,Moderado,01
+302,2020-03-26,Bogotá,USAQUEN,47,F,Relacionado,Casa,Moderado,01
+356,2020-03-26,Bogotá,USAQUEN,39,F,En estudio,Casa,Moderado,01
+255,2020-03-27,Fuera de Bogotá,BARRIOS UNIDOS,26,M,En estudio,Casa,Moderado,12
+280,2020-03-27,Bogotá,CHAPINERO,29,M,Relacionado,Casa,Moderado,02
+281,2020-03-27,Bogotá,CHAPINERO,69,F,Importado,Casa,Moderado,02
+292,2020-03-27,Bogotá,CHAPINERO,28,F,Importado,Casa,Moderado,02
+250,2020-03-27,Bogotá,ENGATIVA,31,F,Importado,Casa,Moderado,10
+251,2020-03-27,Bogotá,ENGATIVA,38,M,Relacionado,Casa,Moderado,10
+256,2020-03-27,Bogotá,ENGATIVA,62,M,Relacionado,Casa,Moderado,10
+275,2020-03-27,Fuera de Bogotá,ENGATIVA,62,M,Importado,Hospital UCI,Crítico,10
+282,2020-03-27,Bogotá,ENGATIVA,52,M,En estudio,Casa,Moderado,10
+286,2020-03-27,Bogotá,ENGATIVA,26,F,En estudio,Casa,Moderado,10
+290,2020-03-27,Bogotá,ENGATIVA,33,M,Importado,Casa,Moderado,10
+291,2020-03-27,Bogotá,ENGATIVA,34,F,Importado,Casa,Moderado,10
+404,2020-03-27,Bogotá,ENGATIVA,23,F,Importado,Casa,Moderado,10
+283,2020-03-27,Bogotá,KENNEDY,58,F,Importado,Hospital UCI,Crítico,08
+375,2020-03-27,Bogotá,KENNEDY,49,M,En estudio,Fallecido,Fallecido,08
+412,2020-03-27,Bogotá,KENNEDY,54,M,En estudio,Casa,Moderado,08
+405,2020-03-27,Bogotá,LA CANDELARIA,30,F,En estudio,Casa,Moderado,17
+243,2020-03-27,Bogotá,RAFAEL URIBE URIBE,57,F,Desconocido,Fallecido,Fallecido,18
+239,2020-03-27,Bogotá,SUBA,48,F,Desconocido,Fallecido,Fallecido,11
+253,2020-03-27,Bogotá,SUBA,68,F,Importado,Hospital,Severo,11
+279,2020-03-27,Bogotá,SUBA,50,F,Importado,Casa,Moderado,11
+284,2020-03-27,Bogotá,SUBA,46,M,En estudio,Casa,Moderado,11
+264,2020-03-27,Bogotá,TEUSAQUILLO,50,F,Importado,Casa,Moderado,13
+403,2020-03-27,Bogotá,TUNJUELITO,32,M,Importado,Casa,Moderado,06
+257,2020-03-27,Bogotá,USAQUEN,30,M,Desconocido,Casa,Moderado,01
+258,2020-03-27,Bogotá,USAQUEN,37,M,Importado,Casa,Moderado,01
+272,2020-03-27,Bogotá,USAQUEN,45,M,Importado,Casa,Moderado,01
+273,2020-03-27,Bogotá,USAQUEN,42,F,En estudio,Casa,Moderado,01
+274,2020-03-27,Bogotá,USAQUEN,42,F,En estudio,Casa,Moderado,01
+287,2020-03-27,Bogotá,USAQUEN,38,M,En estudio,Casa,Moderado,01
+289,2020-03-27,Bogotá,USAQUEN,22,F,Importado,Casa,Moderado,01
+374,2020-03-27,Bogotá,USAQUEN,31,M,Desconocido,Casa,Moderado,01
+339,2020-03-28,Bogotá,BOSA,44,M,Desconocido,Hospital,Severo,07
+350,2020-03-28,Bogotá,CHAPINERO,51,M,Importado,Casa,Moderado,02
+324,2020-03-28,Bogotá,CIUDAD BOLIVAR,21,F,Relacionado,Casa,Moderado,19
+276,2020-03-28,Bogotá,ENGATIVA,29,M,En estudio,Casa,Moderado,10
+316,2020-03-28,Bogotá,ENGATIVA,28,M,Desconocido,Casa,Moderado,10
+342,2020-03-28,Bogotá,ENGATIVA,27,F,Desconocido,Casa,Moderado,10
+346,2020-03-28,Bogotá,ENGATIVA,25,F,Relacionado,Casa,Moderado,10
+347,2020-03-28,Bogotá,ENGATIVA,47,F,Relacionado,Casa,Moderado,10
+348,2020-03-28,Bogotá,ENGATIVA,2,F,Relacionado,Casa,Moderado,10
+355,2020-03-28,Bogotá,ENGATIVA,2,F,En estudio,Casa,Moderado,10
+322,2020-03-28,Bogotá,FONTIBON,29,M,Importado,Casa,Moderado,09
+327,2020-03-28,Bogotá,FONTIBON,35,M,Importado,Casa,Moderado,09
+334,2020-03-28,Bogotá,FONTIBON,65,M,Importado,Casa,Moderado,09
+25,2020-03-28,Bogotá,KENNEDY,57,M,En estudio,Casa,Moderado,08
+285,2020-03-28,Bogotá,KENNEDY,68,M,Desconocido,Hospital,Severo,08
+314,2020-03-28,Bogotá,KENNEDY,73,M,Relacionado,Casa,Moderado,08
+315,2020-03-28,Bogotá,KENNEDY,51,F,Relacionado,Casa,Moderado,08
+329,2020-03-28,Bogotá,KENNEDY,31,F,Importado,Casa,Moderado,08
+330,2020-03-28,Bogotá,KENNEDY,46,M,Desconocido,Casa,Moderado,08
+341,2020-03-28,Bogotá,KENNEDY,30,F,Relacionado,Casa,Moderado,08
+363,2020-03-28,Bogotá,KENNEDY,56,F,En estudio,Casa,Moderado,08
+271,2020-03-28,Bogotá,PUENTE ARANDA,45,F,En estudio,Casa,Moderado,16
+345,2020-03-28,Bogotá,SAN CRISTOBAL,28,M,Importado,Casa,Moderado,04
+277,2020-03-28,Bogotá,SUBA,70,M,En estudio,Casa,Moderado,11
+278,2020-03-28,Bogotá,SUBA,60,F,En estudio,Casa,Moderado,11
+293,2020-03-28,Bogotá,SUBA,42,F,Relacionado,Casa,Moderado,11
+295,2020-03-28,Bogotá,SUBA,65,M,Relacionado,Casa,Moderado,11
+311,2020-03-28,Bogotá,SUBA,50,M,Importado,Casa,Moderado,11
+321,2020-03-28,Bogotá,SUBA,74,M,Importado,Casa,Moderado,11
+323,2020-03-28,Bogotá,SUBA,51,F,Relacionado,Hospital,Severo,11
+325,2020-03-28,Bogotá,SUBA,57,M,Importado,Casa,Moderado,11
+335,2020-03-28,Bogotá,SUBA,33,F,Importado,Casa,Moderado,11
+343,2020-03-28,Bogotá,SUBA,35,M,Importado,Casa,Moderado,11
+349,2020-03-28,Bogotá,SUBA,64,F,Desconocido,Hospital,Severo,11
+358,2020-03-28,Bogotá,SUBA,15,F,Relacionado,Casa,Moderado,11
+361,2020-03-28,Bogotá,SUBA,32,M,En estudio,Hospital,Severo,11
+328,2020-03-28,Bogotá,TEUSAQUILLO,30,M,Relacionado,Casa,Moderado,13
+331,2020-03-28,Bogotá,TEUSAQUILLO,84,M,Importado,Casa,Moderado,13
+431,2020-03-28,Bogotá,TEUSAQUILLO,56,M,En estudio,Casa,Moderado,13
+432,2020-03-28,Bogotá,TEUSAQUILLO,41,M,En estudio,Casa,Moderado,13
+473,2020-03-28,Bogotá,TEUSAQUILLO,55,M,Importado,Casa,Moderado,13
+261,2020-03-28,Bogotá,USAQUEN,68,F,Importado,Casa,Moderado,01
+288,2020-03-28,Bogotá,USAQUEN,25,F,Importado,Casa,Moderado,01
+310,2020-03-28,Bogotá,USAQUEN,23,M,Importado,Casa,Moderado,01
+312,2020-03-28,Bogotá,USAQUEN,61,M,Importado,Casa,Moderado,01
+313,2020-03-28,Bogotá,USAQUEN,61,F,Importado,Casa,Moderado,01
+326,2020-03-28,Bogotá,USAQUEN,61,F,Desconocido,Casa,Moderado,01
+332,2020-03-28,Bogotá,USAQUEN,47,F,Relacionado,Hospital,Severo,01
+357,2020-03-28,Bogotá,USAQUEN,50,M,Relacionado,Casa,Moderado,01
+362,2020-03-28,Bogotá,USAQUEN,58,F,Relacionado,Casa,Moderado,01
+413,2020-03-28,Bogotá,USAQUEN,29,M,Importado,Casa,Moderado,01
+294,2020-03-28,Bogotá,USME,51,M,Importado,Casa,Moderado,05
+395,2020-03-29,Bogotá,ANTONIO NARIÑO,49,F,En estudio,Casa,Moderado,15
+336,2020-03-29,Bogotá,BARRIOS UNIDOS,51,M,Relacionado,Casa,Moderado,12
+337,2020-03-29,Bogotá,BARRIOS UNIDOS,2,M,Relacionado,Casa,Moderado,12
+338,2020-03-29,Bogotá,BARRIOS UNIDOS,47,F,Relacionado,Casa,Moderado,12
+307,2020-03-29,Bogotá,BOSA,51,F,Importado,Casa,Moderado,07
+198,2020-03-29,Fuera de Bogotá,CHAPINERO,36,F,Importado,Casa,Moderado,02
+344,2020-03-29,Bogotá,CHAPINERO,36,M,Relacionado,Casa,Moderado,02
+354,2020-03-29,Bogotá,CHAPINERO,69,M,Relacionado,Casa,Moderado,02
+385,2020-03-29,Bogotá,ENGATIVA,2,M,Relacionado,Casa,Moderado,10
+387,2020-03-29,Bogotá,ENGATIVA,29,F,Desconocido,Casa,Moderado,10
+388,2020-03-29,Bogotá,ENGATIVA,38,M,Relacionado,Casa,Moderado,10
+394,2020-03-29,Bogotá,ENGATIVA,39,F,Desconocido,Casa,Moderado,10
+308,2020-03-29,Bogotá,FONTIBON,54,F,Relacionado,Casa,Moderado,09
+333,2020-03-29,Bogotá,FONTIBON,72,F,Importado,Fallecido,Fallecido,09
+340,2020-03-29,Bogotá,KENNEDY,50,M,En estudio,Fallecido,Fallecido,08
+365,2020-03-29,Bogotá,KENNEDY,66,F,En estudio,Hospital UCI,Crítico,08
+389,2020-03-29,Bogotá,KENNEDY,54,F,Importado,Casa,Moderado,08
+399,2020-03-29,Bogotá,KENNEDY,50,M,En estudio,Fallecido,Fallecido,08
+469,2020-03-29,Bogotá,LOS MARTIRES,47,F,En estudio,Hospital,Severo,14
+309,2020-03-29,Bogotá,PUENTE ARANDA,52,M,Desconocido,Casa,Moderado,16
+263,2020-03-29,Bogotá,RAFAEL URIBE URIBE,29,F,En estudio,Casa,Moderado,18
+304,2020-03-29,Bogotá,RAFAEL URIBE URIBE,38,M,Desconocido,Casa,Moderado,18
+306,2020-03-29,Bogotá,SUBA,27,M,Desconocido,Casa,Moderado,11
+318,2020-03-29,Bogotá,SUBA,38,M,Importado,Casa,Moderado,11
+319,2020-03-29,Bogotá,SUBA,38,F,Importado,Casa,Moderado,11
+320,2020-03-29,Bogotá,SUBA,31,M,Importado,Casa,Moderado,11
+366,2020-03-29,Bogotá,SUBA,45,M,En estudio,Casa,Moderado,11
+367,2020-03-29,Bogotá,SUBA,40,F,Importado,Casa,Moderado,11
+368,2020-03-29,Bogotá,SUBA,55,F,Relacionado,Hospital,Severo,11
+384,2020-03-29,Bogotá,SUBA,20,F,Importado,Casa,Moderado,11
+386,2020-03-29,Bogotá,SUBA,37,M,Importado,Casa,Moderado,11
+391,2020-03-29,Bogotá,SUBA,44,F,Desconocido,Casa,Moderado,11
+392,2020-03-29,Bogotá,SUBA,63,M,Desconocido,Casa,Moderado,11
+393,2020-03-29,Bogotá,SUBA,15,F,En estudio,Casa,Moderado,11
+398,2020-03-29,Bogotá,SUBA,35,M,Desconocido,Casa,Moderado,11
+296,2020-03-29,Bogotá,TEUSAQUILLO,34,M,En estudio,Casa,Moderado,13
+297,2020-03-29,Bogotá,TEUSAQUILLO,30,M,En estudio,Casa,Moderado,13
+359,2020-03-29,Bogotá,TEUSAQUILLO,30,M,Importado,Casa,Moderado,13
+390,2020-03-29,Bogotá,TUNJUELITO,30,F,Desconocido,Casa,Moderado,06
+305,2020-03-29,Bogotá,USAQUEN,75,F,Desconocido,Hospital UCI,Crítico,01
+317,2020-03-29,Bogotá,USAQUEN,33,F,Importado,Casa,Moderado,01
+360,2020-03-29,Bogotá,USAQUEN,27,M,En estudio,Casa,Moderado,01
+396,2020-03-29,Bogotá,USAQUEN,73,M,Desconocido,Fallecido,Fallecido,01
+397,2020-03-29,Bogotá,USAQUEN,72,M,Desconocido,Fallecido,Fallecido,01
+414,2020-03-29,Bogotá,USME,26,F,En estudio,Casa,Moderado,05
+438,2020-03-30,Bogotá,ANTONIO NARIÑO,26,M,En estudio,Casa,Moderado,15
+353,2020-03-30,Bogotá,BOSA,33,M,Relacionado,Casa,Moderado,07
+381,2020-03-30,Bogotá,BOSA,18,M,Desconocido,Casa,Moderado,07
+435,2020-03-30,Bogotá,BOSA,40,F,En estudio,Casa,Moderado,07
+364,2020-03-30,Bogotá,CHAPINERO,13,M,En estudio,Casa,Moderado,02
+371,2020-03-30,Bogotá,CHAPINERO,65,F,Desconocido,Hospital UCI,Crítico,02
+445,2020-03-30,Bogotá,CHAPINERO,20,M,En estudio,Casa,Moderado,02
+452,2020-03-30,Bogotá,CHAPINERO,23,M,En estudio,Casa,Moderado,02
+464,2020-03-30,Bogotá,CHAPINERO,61,F,Importado,Casa,Moderado,02
+352,2020-03-30,Bogotá,CIUDAD BOLIVAR,28,M,En estudio,Casa,Moderado,19
+450,2020-03-30,Bogotá,CIUDAD BOLIVAR,74,F,Relacionado,Fallecido,Fallecido,19
+451,2020-03-30,Bogotá,CIUDAD BOLIVAR,30,M,Importado,Casa,Moderado,19
+370,2020-03-30,Bogotá,ENGATIVA,56,M,En estudio,Casa,Moderado,10
+380,2020-03-30,Bogotá,ENGATIVA,38,F,Relacionado,Casa,Moderado,10
+383,2020-03-30,Bogotá,ENGATIVA,31,F,Relacionado,Casa,Moderado,10
+446,2020-03-30,Bogotá,ENGATIVA,31,M,Importado,Casa,Moderado,10
+448,2020-03-30,Bogotá,ENGATIVA,34,F,Importado,Casa,Moderado,10
+462,2020-03-30,Bogotá,ENGATIVA,33,F,En estudio,Casa,Moderado,10
+467,2020-03-30,Bogotá,ENGATIVA,39,F,En estudio,Fallecido,Fallecido,10
+458,2020-03-30,Bogotá,FONTIBON,27,F,En estudio,Casa,Moderado,09
+459,2020-03-30,Bogotá,FONTIBON,26,M,Importado,Casa,Moderado,09
+439,2020-03-30,Bogotá,KENNEDY,39,M,Importado,Casa,Moderado,08
+453,2020-03-30,Bogotá,KENNEDY,31,F,En estudio,Casa,Moderado,08
+470,2020-03-30,Bogotá,KENNEDY,60,F,En estudio,Hospital UCI,Crítico,08
+475,2020-03-30,Bogotá,LOS MARTIRES,60,M,En estudio,Hospital,Severo,14
+376,2020-03-30,Bogotá,PUENTE ARANDA,43,F,Relacionado,Casa,Moderado,16
+382,2020-03-30,Bogotá,PUENTE ARANDA,35,M,Desconocido,Hospital UCI,Crítico,16
+466,2020-03-30,Bogotá,PUENTE ARANDA,38,F,En estudio,Hospital,Severo,16
+433,2020-03-30,Bogotá,SUBA,31,F,Relacionado,Casa,Moderado,11
+434,2020-03-30,Bogotá,SUBA,31,M,Relacionado,Casa,Moderado,11
+437,2020-03-30,Bogotá,SUBA,39,F,Relacionado,Casa,Moderado,11
+449,2020-03-30,Bogotá,SUBA,70,M,Importado,Hospital UCI,Crítico,11
+455,2020-03-30,Bogotá,SUBA,38,M,Relacionado,Casa,Moderado,11
+456,2020-03-30,Bogotá,SUBA,49,M,Importado,Casa,Moderado,11
+457,2020-03-30,Bogotá,SUBA,36,F,Importado,Casa,Moderado,11
+461,2020-03-30,Bogotá,SUBA,79,F,En estudio,Hospital UCI,Crítico,11
+463,2020-03-30,Bogotá,SUBA,39,F,Relacionado,Casa,Moderado,11
+465,2020-03-30,Bogotá,SUBA,25,F,Importado,Casa,Moderado,11
+471,2020-03-30,Bogotá,SUBA,33,F,En estudio,Casa,Moderado,11
+377,2020-03-30,Bogotá,TEUSAQUILLO,28,F,Desconocido,Casa,Moderado,13
+378,2020-03-30,Bogotá,TEUSAQUILLO,32,M,Importado,Casa,Moderado,13
+379,2020-03-30,Bogotá,TEUSAQUILLO,41,M,Importado,Casa,Moderado,13
+441,2020-03-30,Bogotá,TEUSAQUILLO,71,F,Desconocido,Fallecido,Fallecido,13
+474,2020-03-30,Bogotá,TUNJUELITO,41,F,Desconocido,Casa,Moderado,06
+265,2020-03-30,Bogotá,USAQUEN,47,M,En estudio,Casa,Moderado,01
+351,2020-03-30,Bogotá,USAQUEN,49,M,Relacionado,Casa,Moderado,01
+369,2020-03-30,Bogotá,USAQUEN,18,M,Importado,Casa,Moderado,01
+372,2020-03-30,Bogotá,USAQUEN,36,M,En estudio,Casa,Moderado,01
+436,2020-03-30,Bogotá,USAQUEN,27,F,En estudio,Casa,Moderado,01
+447,2020-03-30,Bogotá,USAQUEN,40,M,Importado,Casa,Moderado,01
+454,2020-03-30,Bogotá,USAQUEN,26,F,Desconocido,Casa,Moderado,01
+468,2020-03-30,Bogotá,USAQUEN,45,F,En estudio,Casa,Moderado,01
+440,2020-03-30,Bogotá,USME,59,F,En estudio,Casa,Moderado,05
+423,2020-03-31,Bogotá,BARRIOS UNIDOS,64,F,En estudio,Casa,Moderado,12
+421,2020-03-31,Bogotá,BOSA,24,F,En estudio,Casa,Moderado,07
+426,2020-03-31,Bogotá,BOSA,21,F,En estudio,Casa,Moderado,07
+443,2020-03-31,Bogotá,CHAPINERO,24,F,Relacionado,Casa,Moderado,02
+422,2020-03-31,Bogotá,ENGATIVA,12,M,Desconocido,Hospital,Severo,10
+478,2020-03-31,Bogotá,ENGATIVA,23,M,Desconocido,Casa,Moderado,10
+417,2020-03-31,Bogotá,FONTIBON,54,F,En estudio,Hospital,Severo,09
+427,2020-03-31,Bogotá,FONTIBON,22,F,En estudio,Casa,Moderado,09
+419,2020-03-31,Bogotá,KENNEDY,42,F,En estudio,Casa,Moderado,08
+420,2020-03-31,Bogotá,KENNEDY,23,M,En estudio,Casa,Moderado,08
+429,2020-03-31,Bogotá,KENNEDY,53,F,En estudio,Hospital,Severo,08
+425,2020-03-31,Bogotá,LOS MARTIRES,32,M,Relacionado,Casa,Moderado,14
+442,2020-03-31,Bogotá,LOS MARTIRES,44,F,En estudio,Hospital,Severo,14
+415,2020-03-31,Bogotá,SAN CRISTOBAL,32,F,Relacionado,Casa,Moderado,04
+416,2020-03-31,Bogotá,SUBA,66,F,Desconocido,Casa,Moderado,11
+460,2020-03-31,Bogotá,SUBA,75,M,En estudio,Hospital,Severo,11
+424,2020-03-31,Bogotá,TEUSAQUILLO,29,F,Relacionado,Hospital,Severo,13
+428,2020-03-31,Bogotá,TEUSAQUILLO,58,F,Desconocido,Casa,Moderado,13
+418,2020-03-31,Bogotá,USAQUEN,56,F,En estudio,Casa,Moderado,01
+430,2020-03-31,Bogotá,USAQUEN,56,F,En estudio,Casa,Moderado,01
+481,2020-03-31,Fuera de Bogotá,USAQUEN,36,M,En estudio,Casa,Moderado,01
+482,2020-03-31,Bogotá,USAQUEN,66,F,Desconocido,Casa,Moderado,01
+573,2020-04-01,Bogotá,BOSA,26,M,Desconocido,Fallecido,Fallecido,07
+517,2020-04-01,Bogotá,CHAPINERO,29,F,Relacionado,Casa,Moderado,02
+520,2020-04-01,Fuera de Bogotá,CHAPINERO,25,F,Relacionado,Casa,Moderado,02
+531,2020-04-01,Bogotá,ENGATIVA,50,M,Desconocido,Hospital UCI,Crítico,10
+557,2020-04-01,Bogotá,ENGATIVA,33,M,Desconocido,Casa,Moderado,10
+563,2020-04-01,Bogotá,ENGATIVA,62,F,En estudio,Casa,Moderado,10
+513,2020-04-01,Bogotá,KENNEDY,67,F,En estudio,Fallecido,Fallecido,08
+550,2020-04-01,Bogotá,KENNEDY,71,F,En estudio,Fallecido,Fallecido,08
+556,2020-04-01,Bogotá,KENNEDY,36,M,En estudio,Fallecido,Fallecido,08
+566,2020-04-01,Bogotá,KENNEDY,82,M,Desconocido,Fallecido,Fallecido,08
+493,2020-04-01,Bogotá,SIN DATO,33,M,En estudio,Fallecido,Fallecido,22
+488,2020-04-01,Bogotá,SUBA,60,F,En estudio,Casa,Moderado,11
+552,2020-04-01,Bogotá,SUBA,41,M,Desconocido,Casa,Moderado,11
+559,2020-04-01,Bogotá,SUBA,66,F,Desconocido,Hospital UCI,Crítico,11
+534,2020-04-01,Bogotá,TEUSAQUILLO,34,M,Relacionado,Casa,Moderado,13
+494,2020-04-01,Bogotá,USAQUEN,44,M,Desconocido,Casa,Moderado,01
+495,2020-04-01,Bogotá,USAQUEN,28,F,Relacionado,Casa,Moderado,01
+521,2020-04-01,Bogotá,USAQUEN,22,F,Relacionado,Casa,Moderado,01
+558,2020-04-01,Bogotá,USAQUEN,26,M,Relacionado,Casa,Moderado,01
+560,2020-04-01,Bogotá,USAQUEN,83,F,Importado,Casa,Moderado,01
+562,2020-04-01,Bogotá,USAQUEN,34,F,En estudio,Casa,Moderado,01
+565,2020-04-01,Bogotá,USAQUEN,64,M,En estudio,Casa,Moderado,01
+572,2020-04-01,Bogotá,USAQUEN,45,F,Relacionado,Casa,Moderado,01
+624,2020-04-02,Bogotá,BARRIOS UNIDOS,36,F,Relacionado,Casa,Moderado,12
+693,2020-04-02,Bogotá,BARRIOS UNIDOS,34,F,Desconocido,Casa,Moderado,12
+607,2020-04-02,Bogotá,BOSA,76,F,Desconocido,Casa,Moderado,07
+680,2020-04-02,Bogotá,BOSA,27,F,En estudio,Casa,Moderado,07
+696,2020-04-02,Bogotá,BOSA,34,M,Importado,Casa,Moderado,07
+544,2020-04-02,Bogotá,CHAPINERO,45,M,Desconocido,Casa,Moderado,02
+676,2020-04-02,Bogotá,CHAPINERO,35,M,Relacionado,Casa,Moderado,02
+585,2020-04-02,Bogotá,ENGATIVA,11,M,En estudio,Casa,Moderado,10
+604,2020-04-02,Bogotá,ENGATIVA,27,M,Importado,Casa,Moderado,10
+605,2020-04-02,Bogotá,ENGATIVA,25,F,Importado,Casa,Moderado,10
+609,2020-04-02,Bogotá,ENGATIVA,12,F,Desconocido,Casa,Moderado,10
+610,2020-04-02,Bogotá,ENGATIVA,23,M,Importado,Casa,Moderado,10
+682,2020-04-02,Bogotá,ENGATIVA,43,M,En estudio,Casa,Moderado,10
+685,2020-04-02,Bogotá,ENGATIVA,78,M,Relacionado,Casa,Moderado,10
+691,2020-04-02,Bogotá,ENGATIVA,36,M,Relacionado,Casa,Moderado,10
+702,2020-04-02,Bogotá,ENGATIVA,49,F,Relacionado,Casa,Moderado,10
+727,2020-04-02,Bogotá,ENGATIVA,70,F,Importado,Casa,Moderado,10
+543,2020-04-02,Bogotá,FONTIBON,71,M,En estudio,Hospital UCI,Crítico,09
+545,2020-04-02,Bogotá,FONTIBON,35,M,Relacionado,Casa,Moderado,09
+548,2020-04-02,Bogotá,FONTIBON,52,F,En estudio,Casa,Moderado,09
+589,2020-04-02,Bogotá,FONTIBON,54,M,Importado,Casa,Moderado,09
+580,2020-04-02,Bogotá,KENNEDY,76,M,En estudio,Casa,Moderado,08
+583,2020-04-02,Bogotá,KENNEDY,48,M,En estudio,Hospital,Severo,08
+595,2020-04-02,Bogotá,KENNEDY,57,F,Desconocido,Casa,Moderado,08
+603,2020-04-02,Bogotá,KENNEDY,32,F,Desconocido,Casa,Moderado,08
+606,2020-04-02,Bogotá,KENNEDY,48,M,En estudio,Casa,Moderado,08
+613,2020-04-02,Bogotá,KENNEDY,58,F,En estudio,Hospital,Severo,08
+615,2020-04-02,Bogotá,KENNEDY,26,F,Desconocido,Casa,Moderado,08
+620,2020-04-02,Bogotá,KENNEDY,12,M,En estudio,Casa,Moderado,08
+677,2020-04-02,Bogotá,KENNEDY,52,F,Relacionado,Casa,Moderado,08
+681,2020-04-02,Bogotá,KENNEDY,63,F,En estudio,Fallecido,Fallecido,08
+684,2020-04-02,Bogotá,KENNEDY,90,M,Desconocido,Fallecido,Fallecido,08
+700,2020-04-02,Bogotá,KENNEDY,34,F,Importado,Casa,Moderado,08
+701,2020-04-02,Bogotá,KENNEDY,45,F,Importado,Casa,Moderado,08
+708,2020-04-02,Bogotá,KENNEDY,50,M,En estudio,Hospital UCI,Crítico,08
+709,2020-04-02,Bogotá,KENNEDY,36,M,En estudio,Casa,Moderado,08
+704,2020-04-02,Bogotá,LOS MARTIRES,66,M,Desconocido,Hospital,Severo,14
+401,2020-04-02,Bogotá,PUENTE ARANDA,54,F,Importado,Casa,Moderado,16
+617,2020-04-02,Bogotá,PUENTE ARANDA,66,F,Desconocido,Casa,Moderado,16
+618,2020-04-02,Bogotá,PUENTE ARANDA,55,M,Importado,Casa,Moderado,16
+695,2020-04-02,Bogotá,PUENTE ARANDA,29,F,Importado,Casa,Moderado,16
+600,2020-04-02,Bogotá,RAFAEL URIBE URIBE,36,F,En estudio,Casa,Moderado,18
+601,2020-04-02,Bogotá,RAFAEL URIBE URIBE,57,M,En estudio,Fallecido,Fallecido,18
+602,2020-04-02,Fuera de Bogotá,RAFAEL URIBE URIBE,54,F,Desconocido,Casa,Moderado,18
+608,2020-04-02,Bogotá,RAFAEL URIBE URIBE,28,M,Importado,Casa,Moderado,18
+679,2020-04-02,Bogotá,RAFAEL URIBE URIBE,55,M,En estudio,Hospital,Severo,18
+694,2020-04-02,Bogotá,RAFAEL URIBE URIBE,33,F,En estudio,Casa,Moderado,18
+699,2020-04-02,Bogotá,RAFAEL URIBE URIBE,37,M,Importado,Casa,Moderado,18
+705,2020-04-02,Bogotá,SAN CRISTOBAL,62,M,En estudio,Fallecido,Fallecido,04
+736,2020-04-02,Bogotá,SANTAFE,61,M,En estudio,Casa,Moderado,03
+586,2020-04-02,Bogotá,SIN DATO,46,M,En estudio,Casa,Moderado,22
+588,2020-04-02,Bogotá,SIN DATO,66,M,Importado,Hospital UCI,Crítico,22
+88,2020-04-02,Fuera de Bogotá,SUBA,56,F,Desconocido,Casa,Moderado,11
+582,2020-04-02,Bogotá,SUBA,75,M,Relacionado,Casa,Moderado,11
+591,2020-04-02,Bogotá,SUBA,28,M,En estudio,Casa,Moderado,11
+594,2020-04-02,Bogotá,SUBA,93,F,Desconocido,Fallecido,Fallecido,11
+598,2020-04-02,Bogotá,SUBA,21,F,Desconocido,Casa,Moderado,11
+619,2020-04-02,Bogotá,SUBA,30,M,Relacionado,Casa,Moderado,11
+683,2020-04-02,Bogotá,SUBA,46,M,Desconocido,Casa,Moderado,11
+706,2020-04-02,Bogotá,SUBA,22,F,Desconocido,Casa,Moderado,11
+711,2020-04-02,Bogotá,SUBA,31,M,Importado,Casa,Moderado,11
+584,2020-04-02,Bogotá,TEUSAQUILLO,47,M,Relacionado,Casa,Moderado,13
+590,2020-04-02,Bogotá,TEUSAQUILLO,42,M,En estudio,Casa,Moderado,13
+599,2020-04-02,Bogotá,TEUSAQUILLO,26,F,Importado,Casa,Moderado,13
+611,2020-04-02,Bogotá,TEUSAQUILLO,41,F,Desconocido,Casa,Moderado,13
+614,2020-04-02,Bogotá,TEUSAQUILLO,32,M,Importado,Casa,Moderado,13
+616,2020-04-02,Bogotá,TEUSAQUILLO,26,F,Importado,Casa,Moderado,13
+692,2020-04-02,Bogotá,TEUSAQUILLO,20,M,Desconocido,Casa,Moderado,13
+697,2020-04-02,Bogotá,TEUSAQUILLO,59,F,Relacionado,Casa,Moderado,13
+698,2020-04-02,Bogotá,TEUSAQUILLO,57,M,Relacionado,Fallecido,Fallecido,13
+707,2020-04-02,Bogotá,TEUSAQUILLO,33,F,En estudio,Casa,Moderado,13
+735,2020-04-02,Bogotá,TEUSAQUILLO,33,F,En estudio,Casa,Moderado,13
+625,2020-04-02,Bogotá,TUNJUELITO,67,F,En estudio,Casa,Moderado,06
+546,2020-04-02,Bogotá,USAQUEN,70,M,Desconocido,Casa,Moderado,01
+547,2020-04-02,Bogotá,USAQUEN,88,F,Desconocido,Casa,Moderado,01
+549,2020-04-02,Bogotá,USAQUEN,27,M,Importado,Casa,Moderado,01
+581,2020-04-02,Bogotá,USAQUEN,34,F,Relacionado,Casa,Moderado,01
+587,2020-04-02,Bogotá,USAQUEN,64,F,Relacionado,Casa,Moderado,01
+592,2020-04-02,Bogotá,USAQUEN,60,F,Desconocido,Casa,Moderado,01
+593,2020-04-02,Fuera de Bogotá,USAQUEN,42,F,Desconocido,Hospital,Severo,01
+612,2020-04-02,Bogotá,USAQUEN,73,M,Relacionado,Hospital UCI,Crítico,01
+626,2020-04-02,Bogotá,USAQUEN,29,M,Importado,Casa,Moderado,01
+688,2020-04-02,Bogotá,USAQUEN,73,F,Importado,Casa,Moderado,01
+703,2020-04-02,Bogotá,USAQUEN,31,M,En estudio,Casa,Moderado,01
+712,2020-04-02,Bogotá,USAQUEN,48,M,Importado,Hospital,Severo,01
+737,2020-04-02,Bogotá,USAQUEN,76,M,En estudio,Fallecido,Fallecido,01
+967,2020-04-02,Bogotá,USAQUEN,19,M,Importado,Casa,Moderado,01
+526,2020-04-03,Bogotá,ANTONIO NARIÑO,29,F,En estudio,Casa,Moderado,15
+567,2020-04-03,Bogotá,BARRIOS UNIDOS,26,F,Relacionado,Casa,Moderado,12
+638,2020-04-03,Bogotá,BARRIOS UNIDOS,41,M,En estudio,Casa,Moderado,12
+654,2020-04-03,Bogotá,BARRIOS UNIDOS,66,M,Importado,Hospital,Severo,12
+515,2020-04-03,Bogotá,BOSA,28,F,En estudio,Casa,Moderado,07
+518,2020-04-03,Bogotá,BOSA,32,F,En estudio,Casa,Moderado,07
+527,2020-04-03,Bogotá,BOSA,10,M,En estudio,Casa,Moderado,07
+528,2020-04-03,Fuera de Bogotá,BOSA,27,F,En estudio,Casa,Moderado,07
+529,2020-04-03,Bogotá,BOSA,52,M,En estudio,Casa,Moderado,07
+530,2020-04-03,Bogotá,BOSA,49,F,En estudio,Casa,Moderado,07
+533,2020-04-03,Bogotá,BOSA,34,F,En estudio,Casa,Moderado,07
+574,2020-04-03,Bogotá,BOSA,95,F,En estudio,Casa,Moderado,07
+579,2020-04-03,Bogotá,BOSA,45,F,En estudio,Casa,Moderado,07
+516,2020-04-03,Bogotá,CHAPINERO,67,F,Importado,Casa,Moderado,02
+523,2020-04-03,Bogotá,CHAPINERO,10,M,En estudio,Casa,Moderado,02
+539,2020-04-03,Bogotá,CHAPINERO,38,F,Relacionado,Casa,Moderado,02
+540,2020-04-03,Bogotá,CHAPINERO,3,M,Relacionado,Casa,Moderado,02
+541,2020-04-03,Bogotá,CHAPINERO,48,M,Relacionado,Casa,Moderado,02
+542,2020-04-03,Bogotá,CHAPINERO,22,M,Importado,Casa,Moderado,02
+553,2020-04-03,Bogotá,CHAPINERO,29,M,En estudio,Casa,Moderado,02
+554,2020-04-03,Bogotá,CHAPINERO,46,M,En estudio,Hospital,Severo,02
+576,2020-04-03,Bogotá,CHAPINERO,48,M,Importado,Casa,Moderado,02
+596,2020-04-03,Bogotá,CHAPINERO,60,M,Desconocido,Casa,Moderado,02
+622,2020-04-03,Bogotá,CHAPINERO,39,F,En estudio,Casa,Moderado,02
+627,2020-04-03,Bogotá,CHAPINERO,52,M,En estudio,Casa,Moderado,02
+636,2020-04-03,Bogotá,CHAPINERO,18,M,Relacionado,Casa,Moderado,02
+643,2020-04-03,Bogotá,CHAPINERO,32,F,Importado,Casa,Moderado,02
+651,2020-04-03,Bogotá,CHAPINERO,41,F,Relacionado,Casa,Moderado,02
+652,2020-04-03,Bogotá,CHAPINERO,62,M,Relacionado,Casa,Moderado,02
+662,2020-04-03,Bogotá,CHAPINERO,75,M,Importado,Casa,Moderado,02
+666,2020-04-03,Bogotá,CHAPINERO,25,F,En estudio,Casa,Moderado,02
+512,2020-04-03,Bogotá,CIUDAD BOLIVAR,69,M,En estudio,Hospital UCI,Crítico,19
+650,2020-04-03,Bogotá,CIUDAD BOLIVAR,37,F,En estudio,Casa,Moderado,19
+477,2020-04-03,Bogotá,ENGATIVA,60,F,Importado,Casa,Moderado,10
+489,2020-04-03,Bogotá,ENGATIVA,57,M,Importado,Casa,Moderado,10
+492,2020-04-03,Bogotá,ENGATIVA,29,M,Importado,Casa,Moderado,10
+514,2020-04-03,Bogotá,ENGATIVA,59,M,En estudio,Hospital,Severo,10
+535,2020-04-03,Bogotá,ENGATIVA,20,M,Importado,Casa,Moderado,10
+536,2020-04-03,Bogotá,ENGATIVA,42,F,En estudio,Casa,Moderado,10
+578,2020-04-03,Bogotá,ENGATIVA,30,F,Importado,Casa,Moderado,10
+621,2020-04-03,Bogotá,ENGATIVA,67,F,Importado,Casa,Moderado,10
+628,2020-04-03,Bogotá,ENGATIVA,5,M,Relacionado,Casa,Moderado,10
+629,2020-04-03,Fuera de Bogotá,ENGATIVA,38,F,Relacionado,Casa,Moderado,10
+631,2020-04-03,Bogotá,ENGATIVA,48,F,Importado,Casa,Moderado,10
+632,2020-04-03,Bogotá,ENGATIVA,34,M,Importado,Casa,Moderado,10
+635,2020-04-03,Bogotá,ENGATIVA,28,F,Desconocido,Casa,Moderado,10
+641,2020-04-03,Bogotá,ENGATIVA,26,M,En estudio,Casa,Moderado,10
+653,2020-04-03,Bogotá,ENGATIVA,42,F,Relacionado,Casa,Moderado,10
+655,2020-04-03,Bogotá,ENGATIVA,57,M,Desconocido,Hospital,Severo,10
+663,2020-04-03,Bogotá,ENGATIVA,33,M,Desconocido,Casa,Moderado,10
+472,2020-04-03,Bogotá,FONTIBON,33,M,Relacionado,Fallecido,Fallecido,09
+496,2020-04-03,Bogotá,FONTIBON,50,F,En estudio,Casa,Moderado,09
+497,2020-04-03,Fuera de Bogotá,FONTIBON,38,F,Importado,Casa,Moderado,09
+510,2020-04-03,Bogotá,FONTIBON,60,M,En estudio,Casa,Moderado,09
+532,2020-04-03,Bogotá,FONTIBON,47,F,En estudio,Casa,Moderado,09
+672,2020-04-03,Bogotá,FONTIBON,65,M,En estudio,Casa,Moderado,09
+752,2020-04-03,Bogotá,FONTIBON,37,F,Importado,Casa,Moderado,09
+485,2020-04-03,Fuera de Bogotá,FUERA DE BOGOTA,30,F,En estudio,Casa,Moderado,21
+498,2020-04-03,Fuera de Bogotá,FUERA DE BOGOTA,39,F,En estudio,Casa,Moderado,21
+499,2020-04-03,Bogotá,KENNEDY,52,F,En estudio,Casa,Moderado,08
+500,2020-04-03,Bogotá,KENNEDY,74,F,En estudio,Casa,Moderado,08
+522,2020-04-03,Bogotá,KENNEDY,69,M,En estudio,Casa,Moderado,08
+525,2020-04-03,Bogotá,KENNEDY,60,M,En estudio,Casa,Moderado,08
+569,2020-04-03,Bogotá,KENNEDY,41,F,Relacionado,Casa,Moderado,08
+630,2020-04-03,Bogotá,KENNEDY,32,F,En estudio,Casa,Moderado,08
+644,2020-04-03,Bogotá,KENNEDY,61,M,Importado,Casa,Moderado,08
+649,2020-04-03,Bogotá,KENNEDY,29,F,En estudio,Casa,Moderado,08
+656,2020-04-03,Bogotá,KENNEDY,22,F,En estudio,Casa,Moderado,08
+661,2020-04-03,Bogotá,KENNEDY,59,M,En estudio,Casa,Moderado,08
+664,2020-04-03,Bogotá,KENNEDY,24,M,Desconocido,Casa,Moderado,08
+674,2020-04-03,Bogotá,KENNEDY,35,F,En estudio,Casa,Moderado,08
+686,2020-04-03,Bogotá,KENNEDY,29,F,En estudio,Casa,Moderado,08
+642,2020-04-03,Bogotá,LA CANDELARIA,58,M,En estudio,Casa,Moderado,17
+505,2020-04-03,Bogotá,LOS MARTIRES,55,F,Importado,Casa,Moderado,14
+506,2020-04-03,Bogotá,LOS MARTIRES,59,F,Importado,Casa,Moderado,14
+647,2020-04-03,Bogotá,LOS MARTIRES,28,M,Importado,Casa,Moderado,14
+490,2020-04-03,Bogotá,PUENTE ARANDA,21,F,En estudio,Casa,Moderado,16
+502,2020-04-03,Bogotá,RAFAEL URIBE URIBE,62,M,En estudio,Casa,Moderado,18
+511,2020-04-03,Bogotá,RAFAEL URIBE URIBE,37,F,En estudio,Casa,Moderado,18
+509,2020-04-03,Bogotá,SAN CRISTOBAL,47,F,Importado,Casa,Moderado,04
+667,2020-04-03,Bogotá,SAN CRISTOBAL,72,M,Desconocido,Fallecido,Fallecido,04
+690,2020-04-03,Bogotá,SAN CRISTOBAL,48,M,Importado,Casa,Moderado,04
+637,2020-04-03,Bogotá,SANTAFE,46,M,Importado,Hospital,Severo,03
+658,2020-04-03,Bogotá,SANTAFE,54,M,En estudio,Casa,Moderado,03
+491,2020-04-03,Bogotá,SIN DATO,24,M,En estudio,Casa,Moderado,22
+657,2020-04-03,Bogotá,SIN DATO,51,M,En estudio,Casa,Moderado,22
+476,2020-04-03,Bogotá,SUBA,59,M,Relacionado,Fallecido,Fallecido,11
+479,2020-04-03,Bogotá,SUBA,35,M,Importado,Casa,Moderado,11
+484,2020-04-03,Bogotá,SUBA,62,F,Importado,Casa,Moderado,11
+501,2020-04-03,Bogotá,SUBA,50,M,Importado,Casa,Moderado,11
+519,2020-04-03,Bogotá,SUBA,40,M,Importado,Hospital UCI,Crítico,11
+551,2020-04-03,Bogotá,SUBA,21,F,En estudio,Casa,Moderado,11
+555,2020-04-03,Bogotá,SUBA,70,F,En estudio,Casa,Moderado,11
+561,2020-04-03,Bogotá,SUBA,44,F,Importado,Casa,Moderado,11
+564,2020-04-03,Bogotá,SUBA,53,M,En estudio,Hospital,Severo,11
+577,2020-04-03,Bogotá,SUBA,71,F,Desconocido,Casa,Moderado,11
+645,2020-04-03,Bogotá,SUBA,32,M,Desconocido,Casa,Moderado,11
+648,2020-04-03,Bogotá,SUBA,30,M,Desconocido,Casa,Moderado,11
+687,2020-04-03,Bogotá,SUBA,27,F,Relacionado,Casa,Moderado,11
+689,2020-04-03,Bogotá,SUBA,23,F,Desconocido,Casa,Moderado,11
+721,2020-04-03,Bogotá,SUBA,32,F,Relacionado,Casa,Moderado,11
+483,2020-04-03,Bogotá,TEUSAQUILLO,39,M,Importado,Casa,Moderado,13
+503,2020-04-03,Bogotá,TEUSAQUILLO,39,F,Importado,Casa,Moderado,13
+504,2020-04-03,Bogotá,TEUSAQUILLO,84,F,En estudio,Hospital,Severo,13
+507,2020-04-03,Bogotá,TEUSAQUILLO,5,F,Relacionado,Casa,Moderado,13
+568,2020-04-03,Bogotá,TEUSAQUILLO,7,F,En estudio,Casa,Moderado,13
+570,2020-04-03,Bogotá,TEUSAQUILLO,51,F,Relacionado,Casa,Moderado,13
+623,2020-04-03,Bogotá,TEUSAQUILLO,92,M,En estudio,Casa,Moderado,13
+668,2020-04-03,Bogotá,TEUSAQUILLO,18,M,En estudio,Casa,Moderado,13
+669,2020-04-03,Bogotá,TEUSAQUILLO,61,F,En estudio,Casa,Moderado,13
+670,2020-04-03,Bogotá,TEUSAQUILLO,32,M,Importado,Casa,Moderado,13
+675,2020-04-03,Bogotá,TEUSAQUILLO,33,F,Relacionado,Casa,Moderado,13
+678,2020-04-03,Bogotá,TEUSAQUILLO,59,M,Importado,Hospital UCI,Crítico,13
+480,2020-04-03,Bogotá,USAQUEN,59,F,Importado,Casa,Moderado,01
+486,2020-04-03,Bogotá,USAQUEN,71,M,Importado,Casa,Moderado,01
+487,2020-04-03,Bogotá,USAQUEN,66,F,Importado,Casa,Moderado,01
+508,2020-04-03,Bogotá,USAQUEN,25,M,Importado,Casa,Moderado,01
+537,2020-04-03,Bogotá,USAQUEN,32,M,Importado,Casa,Moderado,01
+538,2020-04-03,Bogotá,USAQUEN,28,M,Relacionado,Casa,Moderado,01
+571,2020-04-03,Bogotá,USAQUEN,58,M,Importado,Casa,Moderado,01
+575,2020-04-03,Bogotá,USAQUEN,19,M,En estudio,Hospital,Severo,01
+633,2020-04-03,Bogotá,USAQUEN,32,F,En estudio,Casa,Moderado,01
+634,2020-04-03,Bogotá,USAQUEN,35,M,Importado,Casa,Moderado,01
+639,2020-04-03,Bogotá,USAQUEN,67,F,Relacionado,Casa,Moderado,01
+640,2020-04-03,Bogotá,USAQUEN,85,M,Desconocido,Fallecido,Fallecido,01
+646,2020-04-03,Bogotá,USAQUEN,64,F,Desconocido,Casa,Moderado,01
+659,2020-04-03,Bogotá,USAQUEN,63,M,Relacionado,Fallecido,Fallecido,01
+660,2020-04-03,Bogotá,USAQUEN,29,F,Relacionado,Casa,Moderado,01
+665,2020-04-03,Bogotá,USAQUEN,31,M,Relacionado,Casa,Moderado,01
+673,2020-04-03,Bogotá,USAQUEN,29,F,Relacionado,Casa,Moderado,01
+751,2020-04-03,Bogotá,USAQUEN,47,M,En estudio,Casa,Moderado,01
+524,2020-04-03,Bogotá,USME,47,F,En estudio,Casa,Moderado,05
+671,2020-04-03,Bogotá,USME,36,M,En estudio,Casa,Moderado,05
+742,2020-04-04,Bogotá,ANTONIO NARIÑO,50,M,En estudio,Casa,Moderado,15
+806,2020-04-04,Bogotá,BARRIOS UNIDOS,34,M,Relacionado,Casa,Moderado,12
+1033,2020-04-04,Bogotá,BARRIOS UNIDOS,29,F,Relacionado,Hospital,Severo,12
+722,2020-04-04,Bogotá,BOSA,38,M,En estudio,Hospital,Severo,07
+732,2020-04-04,Bogotá,BOSA,21,F,En estudio,Casa,Moderado,07
+765,2020-04-04,Bogotá,BOSA,35,M,En estudio,Casa,Moderado,07
+766,2020-04-04,Bogotá,BOSA,15,M,En estudio,Casa,Moderado,07
+770,2020-04-04,Bogotá,BOSA,34,M,En estudio,Casa,Moderado,07
+800,2020-04-04,Bogotá,BOSA,48,F,En estudio,Hospital,Severo,07
+801,2020-04-04,Bogotá,BOSA,69,F,En estudio,Casa,Moderado,07
+970,2020-04-04,Bogotá,BOSA,32,F,En estudio,Casa,Moderado,07
+730,2020-04-04,Bogotá,CHAPINERO,27,F,En estudio,Casa,Moderado,02
+741,2020-04-04,Bogotá,CHAPINERO,30,M,En estudio,Casa,Moderado,02
+771,2020-04-04,Bogotá,CHAPINERO,67,F,Importado,Casa,Moderado,02
+804,2020-04-04,Bogotá,CHAPINERO,46,F,Relacionado,Casa,Moderado,02
+805,2020-04-04,Bogotá,CHAPINERO,36,M,Relacionado,Casa,Moderado,02
+758,2020-04-04,Bogotá,CIUDAD BOLIVAR,66,F,En estudio,Hospital,Severo,19
+761,2020-04-04,Bogotá,CIUDAD BOLIVAR,26,F,En estudio,Casa,Moderado,19
+811,2020-04-04,Bogotá,CIUDAD BOLIVAR,54,F,En estudio,Casa,Moderado,19
+812,2020-04-04,Bogotá,CIUDAD BOLIVAR,53,F,En estudio,Casa,Moderado,19
+713,2020-04-04,Bogotá,ENGATIVA,48,M,En estudio,Casa,Moderado,10
+743,2020-04-04,Bogotá,ENGATIVA,15,F,En estudio,Casa,Moderado,10
+744,2020-04-04,Bogotá,ENGATIVA,86,M,En estudio,Fallecido,Fallecido,10
+756,2020-04-04,Bogotá,ENGATIVA,74,F,En estudio,Hospital,Severo,10
+802,2020-04-04,Bogotá,ENGATIVA,38,F,Relacionado,Casa,Moderado,10
+807,2020-04-04,Bogotá,ENGATIVA,31,F,En estudio,Casa,Moderado,10
+966,2020-04-04,Bogotá,ENGATIVA,7,M,En estudio,Casa,Moderado,10
+718,2020-04-04,Bogotá,FONTIBON,37,M,En estudio,Casa,Moderado,09
+734,2020-04-04,Bogotá,FONTIBON,31,F,En estudio,Casa,Moderado,09
+740,2020-04-04,Bogotá,FONTIBON,44,F,En estudio,Casa,Moderado,09
+753,2020-04-04,Bogotá,FONTIBON,59,F,En estudio,Casa,Moderado,09
+778,2020-04-04,Bogotá,FONTIBON,66,F,En estudio,Fallecido,Fallecido,09
+803,2020-04-04,Bogotá,FONTIBON,43,F,En estudio,Casa,Moderado,09
+1008,2020-04-04,Bogotá,FONTIBON,43,F,Importado,Casa,Moderado,09
+726,2020-04-04,Bogotá,KENNEDY,97,F,En estudio,Fallecido,Fallecido,08
+728,2020-04-04,Bogotá,KENNEDY,55,M,En estudio,Hospital UCI,Crítico,08
+754,2020-04-04,Bogotá,KENNEDY,50,F,En estudio,Casa,Moderado,08
+755,2020-04-04,Bogotá,KENNEDY,63,M,En estudio,Hospital,Severo,08
+774,2020-04-04,Bogotá,KENNEDY,82,M,En estudio,Casa,Moderado,08
+775,2020-04-04,Bogotá,KENNEDY,50,M,En estudio,Casa,Moderado,08
+776,2020-04-04,Bogotá,KENNEDY,45,F,En estudio,Casa,Moderado,08
+777,2020-04-04,Bogotá,KENNEDY,45,F,En estudio,Casa,Moderado,08
+799,2020-04-04,Bogotá,KENNEDY,73,F,En estudio,Fallecido,Fallecido,08
+809,2020-04-04,Bogotá,KENNEDY,48,F,En estudio,Hospital UCI,Crítico,08
+810,2020-04-04,Bogotá,KENNEDY,62,M,En estudio,Hospital,Severo,08
+714,2020-04-04,Bogotá,LA CANDELARIA,50,F,En estudio,Casa,Moderado,17
+731,2020-04-04,Bogotá,PUENTE ARANDA,27,F,En estudio,Casa,Moderado,16
+746,2020-04-04,Bogotá,PUENTE ARANDA,42,M,En estudio,Casa,Moderado,16
+764,2020-04-04,Bogotá,PUENTE ARANDA,32,F,En estudio,Casa,Moderado,16
+772,2020-04-04,Bogotá,PUENTE ARANDA,53,F,En estudio,Casa,Moderado,16
+719,2020-04-04,Bogotá,RAFAEL URIBE URIBE,42,M,En estudio,Casa,Moderado,18
+813,2020-04-04,Bogotá,RAFAEL URIBE URIBE,44,M,En estudio,Casa,Moderado,18
+400,2020-04-04,Bogotá,SUBA,51,F,Desconocido,Casa,Moderado,11
+715,2020-04-04,Bogotá,SUBA,84,F,En estudio,Casa,Moderado,11
+716,2020-04-04,Bogotá,SUBA,45,F,En estudio,Casa,Moderado,11
+717,2020-04-04,Bogotá,SUBA,48,M,En estudio,Casa,Moderado,11
+720,2020-04-04,Bogotá,SUBA,44,M,Relacionado,Casa,Moderado,11
+723,2020-04-04,Bogotá,SUBA,71,M,En estudio,Hospital UCI,Crítico,11
+724,2020-04-04,Bogotá,SUBA,49,F,En estudio,Casa,Moderado,11
+739,2020-04-04,Bogotá,SUBA,87,F,En estudio,Casa,Moderado,11
+747,2020-04-04,Bogotá,SUBA,37,M,Importado,Casa,Moderado,11
+748,2020-04-04,Bogotá,SUBA,45,F,En estudio,Casa,Moderado,11
+749,2020-04-04,Bogotá,SUBA,34,F,Importado,Casa,Moderado,11
+750,2020-04-04,Bogotá,SUBA,52,F,En estudio,Casa,Moderado,11
+759,2020-04-04,Bogotá,SUBA,85,F,Importado,Casa,Moderado,11
+760,2020-04-04,Bogotá,SUBA,55,M,En estudio,Casa,Moderado,11
+762,2020-04-04,Bogotá,SUBA,29,F,En estudio,Casa,Moderado,11
+808,2020-04-04,Bogotá,SUBA,22,F,Importado,Casa,Moderado,11
+968,2020-04-04,Bogotá,SUBA,54,M,Relacionado,Casa,Moderado,11
+969,2020-04-04,Bogotá,SUBA,75,F,En estudio,Hospital,Severo,11
+729,2020-04-04,Bogotá,TUNJUELITO,31,M,En estudio,Hospital,Severo,06
+745,2020-04-04,Bogotá,TUNJUELITO,30,F,En estudio,Casa,Moderado,06
+767,2020-04-04,Bogotá,TUNJUELITO,16,F,En estudio,Casa,Moderado,06
+768,2020-04-04,Bogotá,TUNJUELITO,1,F,En estudio,Casa,Moderado,06
+769,2020-04-04,Bogotá,TUNJUELITO,31,F,En estudio,Casa,Moderado,06
+725,2020-04-04,Bogotá,USAQUEN,19,M,En estudio,Hospital,Severo,01
+733,2020-04-04,Bogotá,USAQUEN,35,F,En estudio,Casa,Moderado,01
+757,2020-04-04,Bogotá,USAQUEN,8,F,En estudio,Casa,Moderado,01
+815,2020-04-04,Bogotá,USAQUEN,61,F,En estudio,Casa,Moderado,01
+816,2020-04-04,Bogotá,USAQUEN,24,M,Importado,Casa,Moderado,01
+971,2020-04-04,Bogotá,USAQUEN,55,M,En estudio,Casa,Moderado,01
+972,2020-04-04,Bogotá,USAQUEN,48,F,En estudio,Casa,Moderado,01
+1009,2020-04-04,Bogotá,USAQUEN,71,F,Relacionado,Casa,Moderado,01
+763,2020-04-04,Bogotá,USME,31,F,En estudio,Casa,Moderado,05
+932,2020-04-05,Bogotá,CHAPINERO,73,M,En estudio,Hospital,Severo,02
+936,2020-04-05,Bogotá,ENGATIVA,46,M,Relacionado,Hospital,Severo,10
+924,2020-04-05,Bogotá,KENNEDY,53,F,En estudio,Casa,Moderado,08
+938,2020-04-05,Bogotá,KENNEDY,64,M,En estudio,Fallecido,Fallecido,08
+934,2020-04-05,Bogotá,LOS MARTIRES,67,F,En estudio,Hospital,Severo,14
+933,2020-04-05,Bogotá,SAN CRISTOBAL,23,F,En estudio,Casa,Moderado,04
+822,2020-04-05,Bogotá,SUBA,70,M,En estudio,Casa,Moderado,11
+823,2020-04-05,Bogotá,SUBA,64,M,En estudio,Casa,Moderado,11
+824,2020-04-05,Bogotá,SUBA,31,F,En estudio,Casa,Moderado,11
+935,2020-04-05,Bogotá,SUBA,36,M,Relacionado,Casa,Moderado,11
+937,2020-04-05,Bogotá,TEUSAQUILLO,78,F,En estudio,Hospital UCI,Crítico,13
+926,2020-04-06,Bogotá,ANTONIO NARIÑO,32,M,En estudio,Casa,Moderado,15
+855,2020-04-06,Bogotá,BARRIOS UNIDOS,31,M,En estudio,Casa,Moderado,12
+857,2020-04-06,Bogotá,BARRIOS UNIDOS,32,F,Relacionado,Casa,Moderado,12
+976,2020-04-06,Bogotá,BARRIOS UNIDOS,72,M,En estudio,Casa,Moderado,12
+738,2020-04-06,Bogotá,BOSA,50,M,En estudio,Hospital UCI,Crítico,07
+789,2020-04-06,Bogotá,BOSA,29,M,En estudio,Casa,Moderado,07
+790,2020-04-06,Bogotá,BOSA,23,F,En estudio,Casa,Moderado,07
+791,2020-04-06,Bogotá,BOSA,51,M,Importado,Casa,Moderado,07
+792,2020-04-06,Bogotá,BOSA,27,F,Relacionado,Casa,Moderado,07
+827,2020-04-06,Bogotá,BOSA,37,M,En estudio,Casa,Moderado,07
+859,2020-04-06,Bogotá,BOSA,74,M,En estudio,Hospital UCI,Crítico,07
+989,2020-04-06,Bogotá,BOSA,2,F,En estudio,Casa,Moderado,07
+817,2020-04-06,Bogotá,CHAPINERO,52,F,Importado,Casa,Moderado,02
+820,2020-04-06,Bogotá,CHAPINERO,29,M,En estudio,Casa,Moderado,02
+845,2020-04-06,Bogotá,CHAPINERO,56,F,En estudio,Casa,Moderado,02
+852,2020-04-06,Bogotá,CHAPINERO,28,F,Importado,Casa,Moderado,02
+864,2020-04-06,Bogotá,CHAPINERO,61,F,En estudio,Casa,Moderado,02
+865,2020-04-06,Bogotá,CHAPINERO,62,M,Relacionado,Hospital UCI,Crítico,02
+866,2020-04-06,Fuera de Bogotá,CHAPINERO,34,F,Importado,Casa,Moderado,02
+871,2020-04-06,Bogotá,CHAPINERO,27,M,En estudio,Casa,Moderado,02
+880,2020-04-06,Bogotá,CHAPINERO,27,F,Relacionado,Casa,Moderado,02
+981,2020-04-06,Bogotá,CHAPINERO,58,M,Importado,Casa,Moderado,02
+987,2020-04-06,Bogotá,CHAPINERO,10,M,En estudio,Casa,Moderado,02
+793,2020-04-06,Bogotá,CIUDAD BOLIVAR,29,M,En estudio,Casa,Moderado,19
+821,2020-04-06,Bogotá,CIUDAD BOLIVAR,51,M,En estudio,Casa,Moderado,19
+828,2020-04-06,Bogotá,CIUDAD BOLIVAR,49,M,En estudio,Casa,Moderado,19
+860,2020-04-06,Bogotá,CIUDAD BOLIVAR,28,M,Relacionado,Hospital,Severo,19
+939,2020-04-06,Bogotá,CIUDAD BOLIVAR,50,M,En estudio,Hospital,Severo,19
+956,2020-04-06,Bogotá,CIUDAD BOLIVAR,12,M,En estudio,Casa,Moderado,19
+957,2020-04-06,Bogotá,CIUDAD BOLIVAR,19,F,En estudio,Casa,Moderado,19
+958,2020-04-06,Bogotá,CIUDAD BOLIVAR,49,M,En estudio,Casa,Moderado,19
+959,2020-04-06,Bogotá,CIUDAD BOLIVAR,27,M,En estudio,Casa,Moderado,19
+984,2020-04-06,Bogotá,CIUDAD BOLIVAR,34,F,En estudio,Casa,Moderado,19
+783,2020-04-06,Bogotá,ENGATIVA,60,F,Importado,Casa,Moderado,10
+784,2020-04-06,Bogotá,ENGATIVA,40,M,En estudio,Casa,Moderado,10
+785,2020-04-06,Bogotá,ENGATIVA,42,F,En estudio,Casa,Moderado,10
+788,2020-04-06,Bogotá,ENGATIVA,28,M,En estudio,Casa,Moderado,10
+826,2020-04-06,Bogotá,ENGATIVA,53,F,Importado,Casa,Moderado,10
+831,2020-04-06,Bogotá,ENGATIVA,28,F,En estudio,Casa,Moderado,10
+832,2020-04-06,Bogotá,ENGATIVA,50,M,En estudio,Casa,Moderado,10
+835,2020-04-06,Bogotá,ENGATIVA,31,F,En estudio,Casa,Moderado,10
+850,2020-04-06,Fuera de Bogotá,ENGATIVA,54,F,En estudio,Casa,Moderado,10
+854,2020-04-06,Bogotá,ENGATIVA,30,F,En estudio,Casa,Moderado,10
+862,2020-04-06,Bogotá,ENGATIVA,58,M,En estudio,Casa,Moderado,10
+872,2020-04-06,Bogotá,ENGATIVA,83,M,En estudio,Fallecido,Fallecido,10
+874,2020-04-06,Bogotá,ENGATIVA,64,M,En estudio,Casa,Moderado,10
+876,2020-04-06,Bogotá,ENGATIVA,52,M,Desconocido,Hospital,Severo,10
+928,2020-04-06,Bogotá,ENGATIVA,34,M,En estudio,Casa,Moderado,10
+953,2020-04-06,Bogotá,ENGATIVA,56,M,En estudio,Casa,Moderado,10
+973,2020-04-06,Bogotá,ENGATIVA,47,F,En estudio,Casa,Moderado,10
+974,2020-04-06,Bogotá,ENGATIVA,45,F,En estudio,Casa,Moderado,10
+975,2020-04-06,Bogotá,ENGATIVA,22,M,En estudio,Casa,Moderado,10
+794,2020-04-06,Bogotá,FONTIBON,45,F,En estudio,Casa,Moderado,09
+836,2020-04-06,Bogotá,FONTIBON,58,M,En estudio,Casa,Moderado,09
+863,2020-04-06,Bogotá,FONTIBON,38,F,Importado,Casa,Moderado,09
+881,2020-04-06,Bogotá,FONTIBON,45,M,Importado,Casa,Moderado,09
+925,2020-04-06,Bogotá,FONTIBON,69,F,Importado,Hospital,Severo,09
+929,2020-04-06,Bogotá,FONTIBON,26,M,En estudio,Casa,Moderado,09
+964,2020-04-06,Bogotá,FONTIBON,48,F,En estudio,Casa,Moderado,09
+988,2020-04-06,Bogotá,FONTIBON,36,F,Importado,Casa,Moderado,09
+798,2020-04-06,Fuera de Bogotá,FUERA DE BOGOTA,73,F,En estudio,Hospital,Severo,21
+779,2020-04-06,Bogotá,KENNEDY,29,M,En estudio,Casa,Moderado,08
+851,2020-04-06,Bogotá,KENNEDY,48,F,En estudio,Casa,Moderado,08
+856,2020-04-06,Bogotá,KENNEDY,31,F,En estudio,Casa,Moderado,08
+868,2020-04-06,Bogotá,KENNEDY,34,M,En estudio,Casa,Moderado,08
+878,2020-04-06,Bogotá,KENNEDY,30,F,En estudio,Casa,Moderado,08
+883,2020-04-06,Bogotá,KENNEDY,39,F,Desconocido,Casa,Moderado,08
+930,2020-04-06,Bogotá,KENNEDY,37,F,En estudio,Casa,Moderado,08
+954,2020-04-06,Bogotá,KENNEDY,67,M,En estudio,Hospital,Severo,08
+955,2020-04-06,Bogotá,KENNEDY,13,M,En estudio,Casa,Moderado,08
+983,2020-04-06,Bogotá,KENNEDY,30,M,En estudio,Hospital,Severo,08
+985,2020-04-06,Bogotá,KENNEDY,48,F,En estudio,Casa,Moderado,08
+986,2020-04-06,Bogotá,KENNEDY,48,M,Relacionado,Casa,Moderado,08
+990,2020-04-06,Bogotá,KENNEDY,38,F,En estudio,Casa,Moderado,08
+796,2020-04-06,Bogotá,PUENTE ARANDA,30,M,Importado,Casa,Moderado,16
+846,2020-04-06,Bogotá,PUENTE ARANDA,42,M,En estudio,Hospital,Severo,16
+858,2020-04-06,Bogotá,PUENTE ARANDA,53,M,En estudio,Casa,Moderado,16
+861,2020-04-06,Bogotá,PUENTE ARANDA,43,M,En estudio,Casa,Moderado,16
+940,2020-04-06,Bogotá,PUENTE ARANDA,64,F,En estudio,Casa,Moderado,16
+848,2020-04-06,Bogotá,RAFAEL URIBE URIBE,61,M,En estudio,Fallecido,Fallecido,18
+877,2020-04-06,Bogotá,SAN CRISTOBAL,28,F,Relacionado,Casa,Moderado,04
+980,2020-04-06,Bogotá,SAN CRISTOBAL,24,F,En estudio,Casa,Moderado,04
+950,2020-04-06,Bogotá,SIN DATO,66,M,En estudio,Hospital,Severo,22
+951,2020-04-06,Bogotá,SIN DATO,48,M,En estudio,Fallecido,Fallecido,22
+773,2020-04-06,Bogotá,SUBA,51,F,En estudio,Casa,Moderado,11
+786,2020-04-06,Bogotá,SUBA,53,F,En estudio,Casa,Moderado,11
+787,2020-04-06,Bogotá,SUBA,21,F,En estudio,Casa,Moderado,11
+797,2020-04-06,Bogotá,SUBA,77,M,En estudio,Casa,Moderado,11
+818,2020-04-06,Bogotá,SUBA,39,F,En estudio,Casa,Moderado,11
+819,2020-04-06,Bogotá,SUBA,49,F,En estudio,Casa,Moderado,11
+830,2020-04-06,Bogotá,SUBA,44,M,En estudio,Casa,Moderado,11
+833,2020-04-06,Bogotá,SUBA,24,F,En estudio,Casa,Moderado,11
+839,2020-04-06,Bogotá,SUBA,38,M,En estudio,Casa,Moderado,11
+841,2020-04-06,Bogotá,SUBA,60,F,Importado,Casa,Moderado,11
+842,2020-04-06,Bogotá,SUBA,30,M,En estudio,Casa,Moderado,11
+867,2020-04-06,Bogotá,SUBA,62,F,Importado,Casa,Moderado,11
+869,2020-04-06,Bogotá,SUBA,45,M,Relacionado,Casa,Moderado,11
+882,2020-04-06,Bogotá,SUBA,29,F,En estudio,Casa,Moderado,11
+931,2020-04-06,Bogotá,SUBA,34,M,En estudio,Casa,Moderado,11
+963,2020-04-06,Bogotá,SUBA,33,M,En estudio,Casa,Moderado,11
+965,2020-04-06,Bogotá,SUBA,45,M,Relacionado,Casa,Moderado,11
+978,2020-04-06,Bogotá,SUBA,67,M,Importado,Casa,Moderado,11
+982,2020-04-06,Bogotá,SUBA,71,M,En estudio,Casa,Moderado,11
+991,2020-04-06,Bogotá,SUBA,76,F,En estudio,Casa,Moderado,11
+994,2020-04-06,Bogotá,SUBA,28,M,Importado,Casa,Moderado,11
+780,2020-04-06,Bogotá,TEUSAQUILLO,55,M,Relacionado,Casa,Moderado,13
+782,2020-04-06,Bogotá,TEUSAQUILLO,57,F,Importado,Casa,Moderado,13
+795,2020-04-06,Bogotá,TEUSAQUILLO,39,F,En estudio,Casa,Moderado,13
+838,2020-04-06,Bogotá,TEUSAQUILLO,79,F,En estudio,Fallecido,Fallecido,13
+849,2020-04-06,Bogotá,TEUSAQUILLO,24,M,En estudio,Casa,Moderado,13
+879,2020-04-06,Bogotá,TEUSAQUILLO,41,M,En estudio,Casa,Moderado,13
+927,2020-04-06,Bogotá,TEUSAQUILLO,61,F,Importado,Casa,Moderado,13
+952,2020-04-06,Bogotá,TUNJUELITO,74,F,En estudio,Fallecido,Fallecido,06
+977,2020-04-06,Bogotá,TUNJUELITO,64,M,Relacionado,Casa,Moderado,06
+781,2020-04-06,Bogotá,USAQUEN,47,F,Importado,Casa,Moderado,01
+825,2020-04-06,Bogotá,USAQUEN,35,M,En estudio,Casa,Moderado,01
+829,2020-04-06,Bogotá,USAQUEN,28,M,Importado,Casa,Moderado,01
+834,2020-04-06,Fuera de Bogotá,USAQUEN,37,F,En estudio,Casa,Moderado,01
+837,2020-04-06,Bogotá,USAQUEN,29,F,En estudio,Casa,Moderado,01
+840,2020-04-06,Bogotá,USAQUEN,34,F,En estudio,Casa,Moderado,01
+843,2020-04-06,Bogotá,USAQUEN,35,M,En estudio,Casa,Moderado,01
+844,2020-04-06,Bogotá,USAQUEN,62,F,En estudio,Casa,Moderado,01
+847,2020-04-06,Bogotá,USAQUEN,59,M,En estudio,Casa,Moderado,01
+853,2020-04-06,Bogotá,USAQUEN,61,M,Importado,Casa,Moderado,01
+870,2020-04-06,Bogotá,USAQUEN,52,F,En estudio,Casa,Moderado,01
+873,2020-04-06,Bogotá,USAQUEN,14,M,En estudio,Casa,Moderado,01
+875,2020-04-06,Bogotá,USAQUEN,48,F,Relacionado,Casa,Moderado,01
+923,2020-04-06,Bogotá,USAQUEN,38,M,Relacionado,Casa,Moderado,01
+941,2020-04-06,Bogotá,USAQUEN,37,F,En estudio,Fallecido,Fallecido,01
+947,2020-04-06,Bogotá,USAQUEN,5,M,Importado,Casa,Moderado,01
+948,2020-04-06,Bogotá,USAQUEN,14,M,Importado,Casa,Moderado,01
+949,2020-04-06,Bogotá,USAQUEN,33,F,En estudio,Casa,Moderado,01
+960,2020-04-06,Bogotá,USAQUEN,30,M,Relacionado,Casa,Moderado,01
+979,2020-04-06,Bogotá,USAQUEN,44,F,En estudio,Casa,Moderado,01
+992,2020-04-06,Bogotá,USAQUEN,47,F,Importado,Casa,Moderado,01
+892,2020-04-07,Bogotá,ANTONIO NARIÑO,65,F,En estudio,Casa,Moderado,15
+903,2020-04-07,Bogotá,BARRIOS UNIDOS,70,M,Importado,Casa,Moderado,12
+884,2020-04-07,Bogotá,BOSA,72,F,Desconocido,Hospital,Severo,07
+910,2020-04-07,Bogotá,BOSA,52,F,En estudio,Casa,Moderado,07
+962,2020-04-07,Bogotá,BOSA,28,M,En estudio,Hospital,Severo,07
+1004,2020-04-07,Bogotá,BOSA,46,F,Relacionado,Casa,Moderado,07
+918,2020-04-07,Bogotá,CIUDAD BOLIVAR,34,M,En estudio,Casa,Moderado,19
+1026,2020-04-07,Bogotá,CIUDAD BOLIVAR,79,F,Relacionado,Casa,Moderado,19
+886,2020-04-07,Bogotá,ENGATIVA,49,F,Desconocido,Hospital,Severo,10
+902,2020-04-07,Bogotá,ENGATIVA,62,M,Desconocido,Hospital,Severo,10
+904,2020-04-07,Bogotá,ENGATIVA,40,F,Desconocido,Casa,Moderado,10
+905,2020-04-07,Bogotá,ENGATIVA,30,F,Importado,Casa,Moderado,10
+911,2020-04-07,Bogotá,ENGATIVA,77,F,En estudio,Casa,Moderado,10
+915,2020-04-07,Bogotá,ENGATIVA,73,F,En estudio,Casa,Moderado,10
+920,2020-04-07,Bogotá,ENGATIVA,49,F,En estudio,Casa,Moderado,10
+943,2020-04-07,Bogotá,ENGATIVA,26,F,Importado,Casa,Moderado,10
+944,2020-04-07,Bogotá,ENGATIVA,27,M,Importado,Casa,Moderado,10
+1002,2020-04-07,Bogotá,ENGATIVA,34,F,En estudio,Casa,Moderado,10
+1016,2020-04-07,Bogotá,ENGATIVA,30,M,En estudio,Casa,Moderado,10
+1017,2020-04-07,Bogotá,ENGATIVA,48,F,Relacionado,Hospital,Severo,10
+1022,2020-04-07,Bogotá,ENGATIVA,65,M,En estudio,Hospital,Severo,10
+1027,2020-04-07,Bogotá,ENGATIVA,83,M,En estudio,Fallecido,Fallecido,10
+897,2020-04-07,Bogotá,FONTIBON,1,M,En estudio,Casa,Moderado,09
+898,2020-04-07,Bogotá,FONTIBON,49,F,Importado,Casa,Moderado,09
+912,2020-04-07,Bogotá,FONTIBON,54,F,En estudio,Casa,Moderado,09
+1010,2020-04-07,Bogotá,FONTIBON,20,M,Relacionado,Casa,Moderado,09
+1011,2020-04-07,Bogotá,FONTIBON,17,M,Relacionado,Casa,Moderado,09
+1019,2020-04-07,Bogotá,FONTIBON,38,M,Importado,Casa,Moderado,09
+1025,2020-04-07,Bogotá,FONTIBON,30,F,Importado,Casa,Moderado,09
+1005,2020-04-07,Fuera de Bogotá,FUERA DE BOGOTA,37,F,En estudio,Casa,Moderado,21
+885,2020-04-07,Bogotá,KENNEDY,49,M,Desconocido,Casa,Moderado,08
+888,2020-04-07,Bogotá,KENNEDY,26,M,Desconocido,Casa,Moderado,08
+891,2020-04-07,Bogotá,KENNEDY,60,M,En estudio,Casa,Moderado,08
+900,2020-04-07,Bogotá,KENNEDY,59,M,Desconocido,Casa,Moderado,08
+906,2020-04-07,Bogotá,KENNEDY,43,F,En estudio,Casa,Moderado,08
+907,2020-04-07,Bogotá,KENNEDY,64,F,En estudio,Casa,Moderado,08
+913,2020-04-07,Bogotá,KENNEDY,22,F,Relacionado,Casa,Moderado,08
+922,2020-04-07,Bogotá,KENNEDY,37,F,En estudio,Casa,Moderado,08
+945,2020-04-07,Bogotá,KENNEDY,62,F,En estudio,Casa,Moderado,08
+961,2020-04-07,Bogotá,KENNEDY,44,F,En estudio,Casa,Moderado,08
+1014,2020-04-07,Bogotá,KENNEDY,36,F,En estudio,Casa,Moderado,08
+1015,2020-04-07,Bogotá,KENNEDY,18,F,En estudio,Casa,Moderado,08
+1024,2020-04-07,Bogotá,KENNEDY,15,M,Relacionado,Casa,Moderado,08
+916,2020-04-07,Bogotá,PUENTE ARANDA,8,F,En estudio,Casa,Moderado,16
+917,2020-04-07,Bogotá,PUENTE ARANDA,55,M,En estudio,Casa,Moderado,16
+919,2020-04-07,Bogotá,PUENTE ARANDA,26,F,En estudio,Casa,Moderado,16
+1023,2020-04-07,Bogotá,PUENTE ARANDA,33,F,Relacionado,Casa,Moderado,16
+893,2020-04-07,Bogotá,RAFAEL URIBE URIBE,2,F,Desconocido,Casa,Moderado,18
+894,2020-04-07,Bogotá,RAFAEL URIBE URIBE,35,F,Desconocido,Casa,Moderado,18
+895,2020-04-07,Bogotá,RAFAEL URIBE URIBE,36,M,Desconocido,Casa,Moderado,18
+995,2020-04-07,Bogotá,RAFAEL URIBE URIBE,26,F,En estudio,Casa,Moderado,18
+996,2020-04-07,Bogotá,RAFAEL URIBE URIBE,61,F,En estudio,Hospital,Severo,18
+887,2020-04-07,Bogotá,SAN CRISTOBAL,51,M,Desconocido,Hospital UCI,Crítico,04
+896,2020-04-07,Bogotá,SAN CRISTOBAL,52,F,En estudio,Hospital UCI,Crítico,04
+890,2020-04-07,Bogotá,SUBA,72,M,En estudio,Fallecido,Fallecido,11
+899,2020-04-07,Bogotá,SUBA,57,M,En estudio,Hospital,Severo,11
+901,2020-04-07,Bogotá,SUBA,82,M,En estudio,Fallecido,Fallecido,11
+908,2020-04-07,Bogotá,SUBA,61,M,Importado,Casa,Moderado,11
+946,2020-04-07,Bogotá,SUBA,48,M,En estudio,Casa,Moderado,11
+993,2020-04-07,Bogotá,SUBA,54,F,Relacionado,Casa,Moderado,11
+1003,2020-04-07,Bogotá,SUBA,24,F,En estudio,Casa,Moderado,11
+1006,2020-04-07,Fuera de Bogotá,SUBA,36,M,En estudio,Casa,Moderado,11
+1013,2020-04-07,Bogotá,SUBA,40,M,Relacionado,Casa,Moderado,11
+1021,2020-04-07,Bogotá,SUBA,41,F,En estudio,Casa,Moderado,11
+889,2020-04-07,Bogotá,USAQUEN,52,F,Desconocido,Casa,Moderado,01
+909,2020-04-07,Bogotá,USAQUEN,59,F,Importado,Casa,Moderado,01
+914,2020-04-07,Bogotá,USAQUEN,45,F,En estudio,Hospital,Severo,01
+921,2020-04-07,Bogotá,USAQUEN,62,M,Importado,Hospital,Severo,01
+942,2020-04-07,Bogotá,USAQUEN,32,F,En estudio,Casa,Moderado,01
+997,2020-04-07,Bogotá,USAQUEN,58,F,Relacionado,Casa,Moderado,01
+998,2020-04-07,Bogotá,USAQUEN,32,M,Relacionado,Casa,Moderado,01
+999,2020-04-07,Bogotá,USAQUEN,28,M,Relacionado,Casa,Moderado,01
+1000,2020-04-07,Bogotá,USAQUEN,23,F,En estudio,Casa,Moderado,01
+1001,2020-04-07,Bogotá,USAQUEN,60,M,Relacionado,Casa,Moderado,01
+1007,2020-04-07,Bogotá,USAQUEN,8,F,Relacionado,Casa,Moderado,01
+1012,2020-04-07,Bogotá,USAQUEN,72,M,En estudio,Casa,Moderado,01
+1018,2020-04-07,Bogotá,USAQUEN,2,M,Relacionado,Casa,Moderado,01
+1020,2020-04-07,Bogotá,USAQUEN,83,F,En estudio,Fallecido,Fallecido,01
+814,2020-04-08,Bogotá,ENGATIVA,45,M,En estudio,Casa,Moderado,10
+1028,2020-04-08,Bogotá,PUENTE ARANDA,31,M,En estudio,Casa,Moderado,16
+1045,2020-04-09,Bogotá,ANTONIO NARIÑO,26,F,En estudio,Casa,Moderado,15
+1072,2020-04-09,Bogotá,ANTONIO NARIÑO,39,M,En estudio,Casa,Moderado,15
+1141,2020-04-09,Bogotá,ANTONIO NARIÑO,27,M,En estudio,Casa,Moderado,15
+1038,2020-04-09,Bogotá,BARRIOS UNIDOS,33,F,Relacionado,Casa,Moderado,12
+1147,2020-04-09,Bogotá,BARRIOS UNIDOS,18,M,Relacionado,Casa,Moderado,12
+1148,2020-04-09,Bogotá,BARRIOS UNIDOS,40,F,En estudio,Casa,Moderado,12
+1029,2020-04-09,Bogotá,BOSA,17,F,En estudio,Casa,Moderado,07
+1041,2020-04-09,Bogotá,BOSA,9,F,En estudio,Casa,Moderado,07
+1042,2020-04-09,Bogotá,BOSA,8,M,En estudio,Casa,Moderado,07
+1043,2020-04-09,Bogotá,BOSA,25,M,En estudio,Casa,Moderado,07
+1047,2020-04-09,Bogotá,BOSA,63,F,En estudio,Hospital UCI,Crítico,07
+1090,2020-04-09,Bogotá,BOSA,53,M,En estudio,Casa,Moderado,07
+1136,2020-04-09,Bogotá,BOSA,51,F,En estudio,Hospital,Severo,07
+1137,2020-04-09,Bogotá,BOSA,36,F,En estudio,Casa,Moderado,07
+1142,2020-04-09,Bogotá,BOSA,49,F,En estudio,Casa,Moderado,07
+1040,2020-04-09,Bogotá,CHAPINERO,26,F,En estudio,Casa,Moderado,02
+1044,2020-04-09,Bogotá,CIUDAD BOLIVAR,24,M,Relacionado,Casa,Moderado,19
+1099,2020-04-09,Bogotá,CIUDAD BOLIVAR,24,F,Relacionado,Casa,Moderado,19
+1100,2020-04-09,Bogotá,CIUDAD BOLIVAR,36,F,Relacionado,Casa,Moderado,19
+1101,2020-04-09,Bogotá,CIUDAD BOLIVAR,18,F,Relacionado,Casa,Moderado,19
+1102,2020-04-09,Bogotá,CIUDAD BOLIVAR,48,M,En estudio,Casa,Moderado,19
+1103,2020-04-09,Bogotá,CIUDAD BOLIVAR,42,M,En estudio,Casa,Moderado,19
+1104,2020-04-09,Bogotá,CIUDAD BOLIVAR,42,F,En estudio,Casa,Moderado,19
+1105,2020-04-09,Bogotá,CIUDAD BOLIVAR,39,F,Relacionado,Casa,Moderado,19
+1106,2020-04-09,Bogotá,CIUDAD BOLIVAR,19,F,Relacionado,Casa,Moderado,19
+1107,2020-04-09,Bogotá,CIUDAD BOLIVAR,18,F,Relacionado,Casa,Moderado,19
+1108,2020-04-09,Bogotá,CIUDAD BOLIVAR,10,M,En estudio,Casa,Moderado,19
+1109,2020-04-09,Bogotá,CIUDAD BOLIVAR,25,M,Relacionado,Casa,Moderado,19
+1110,2020-04-09,Bogotá,CIUDAD BOLIVAR,10,M,Relacionado,Casa,Moderado,19
+1111,2020-04-09,Bogotá,CIUDAD BOLIVAR,65,F,Relacionado,Casa,Moderado,19
+1112,2020-04-09,Bogotá,CIUDAD BOLIVAR,13,F,Relacionado,Casa,Moderado,19
+1113,2020-04-09,Bogotá,CIUDAD BOLIVAR,14,F,Relacionado,Casa,Moderado,19
+1116,2020-04-09,Bogotá,CIUDAD BOLIVAR,17,F,Relacionado,Casa,Moderado,19
+1117,2020-04-09,Bogotá,CIUDAD BOLIVAR,25,M,En estudio,Casa,Moderado,19
+1149,2020-04-09,Bogotá,CIUDAD BOLIVAR,87,M,En estudio,Hospital,Severo,19
+1031,2020-04-09,Bogotá,ENGATIVA,20,F,En estudio,Casa,Moderado,10
+1032,2020-04-09,Bogotá,ENGATIVA,18,F,En estudio,Casa,Moderado,10
+1048,2020-04-09,Bogotá,ENGATIVA,39,M,En estudio,Casa,Moderado,10
+1052,2020-04-09,Bogotá,ENGATIVA,93,F,En estudio,Casa,Moderado,10
+1060,2020-04-09,Bogotá,ENGATIVA,35,F,En estudio,Casa,Moderado,10
+1073,2020-04-09,Bogotá,ENGATIVA,59,M,En estudio,Hospital,Severo,10
+1084,2020-04-09,Bogotá,ENGATIVA,39,F,Relacionado,Casa,Moderado,10
+1122,2020-04-09,Bogotá,ENGATIVA,47,F,Relacionado,Casa,Moderado,10
+1129,2020-04-09,Bogotá,ENGATIVA,37,F,En estudio,Casa,Moderado,10
+1135,2020-04-09,Bogotá,ENGATIVA,91,M,Desconocido,Hospital,Severo,10
+1157,2020-04-09,Bogotá,ENGATIVA,54,M,Desconocido,Hospital,Severo,10
+1243,2020-04-09,Bogotá,ENGATIVA,97,F,En estudio,Fallecido,Fallecido,10
+1244,2020-04-09,Bogotá,ENGATIVA,33,F,En estudio,Casa,Moderado,10
+1257,2020-04-09,Bogotá,ENGATIVA,38,M,En estudio,Hospital,Severo,10
+1085,2020-04-09,Bogotá,FONTIBON,25,M,En estudio,Casa,Moderado,09
+1121,2020-04-09,Bogotá,FONTIBON,67,M,En estudio,Casa,Moderado,09
+1127,2020-04-09,Bogotá,FONTIBON,68,F,En estudio,Casa,Moderado,09
+1130,2020-04-09,Bogotá,FONTIBON,60,F,Desconocido,Casa,Moderado,09
+1133,2020-04-09,Bogotá,FONTIBON,19,M,Relacionado,Casa,Moderado,09
+1046,2020-04-09,Fuera de Bogotá,FUERA DE BOGOTA,31,F,En estudio,Casa,Moderado,21
+1159,2020-04-09,Fuera de Bogotá,FUERA DE BOGOTA,67,F,En estudio,Fallecido,Fallecido,21
+1259,2020-04-09,Fuera de Bogotá,FUERA DE BOGOTA,38,F,En estudio,Hospital,Severo,21
+1030,2020-04-09,Bogotá,KENNEDY,17,F,En estudio,Casa,Moderado,08
+1035,2020-04-09,Bogotá,KENNEDY,21,F,En estudio,Casa,Moderado,08
+1036,2020-04-09,Bogotá,KENNEDY,29,M,En estudio,Casa,Moderado,08
+1053,2020-04-09,Bogotá,KENNEDY,55,F,En estudio,Casa,Moderado,08
+1061,2020-04-09,Bogotá,KENNEDY,69,F,En estudio,Casa,Moderado,08
+1063,2020-04-09,Bogotá,KENNEDY,52,F,En estudio,Casa,Moderado,08
+1064,2020-04-09,Bogotá,KENNEDY,57,F,En estudio,Casa,Moderado,08
+1066,2020-04-09,Bogotá,KENNEDY,44,F,En estudio,Casa,Moderado,08
+1074,2020-04-09,Bogotá,KENNEDY,55,M,En estudio,Hospital,Severo,08
+1078,2020-04-09,Bogotá,KENNEDY,39,M,En estudio,Casa,Moderado,08
+1079,2020-04-09,Bogotá,KENNEDY,36,M,En estudio,Casa,Moderado,08
+1081,2020-04-09,Bogotá,KENNEDY,24,F,En estudio,Casa,Moderado,08
+1120,2020-04-09,Bogotá,KENNEDY,38,F,Importado,Casa,Moderado,08
+1140,2020-04-09,Bogotá,KENNEDY,52,M,En estudio,Hospital,Severo,08
+1143,2020-04-09,Bogotá,KENNEDY,78,F,En estudio,Casa,Moderado,08
+1144,2020-04-09,Bogotá,KENNEDY,57,F,En estudio,Casa,Moderado,08
+1145,2020-04-09,Bogotá,KENNEDY,27,F,En estudio,Casa,Moderado,08
+1146,2020-04-09,Bogotá,KENNEDY,53,F,En estudio,Casa,Moderado,08
+1150,2020-04-09,Bogotá,KENNEDY,26,F,En estudio,Casa,Moderado,08
+1153,2020-04-09,Bogotá,KENNEDY,37,M,En estudio,Casa,Moderado,08
+1155,2020-04-09,Bogotá,KENNEDY,77,M,En estudio,Casa,Moderado,08
+1152,2020-04-09,Bogotá,LA CANDELARIA,28,M,En estudio,Hospital UCI,Crítico,17
+1258,2020-04-09,Bogotá,LOS MARTIRES,55,M,En estudio,Hospital,Severo,14
+1039,2020-04-09,Bogotá,PUENTE ARANDA,56,M,En estudio,Casa,Moderado,16
+1070,2020-04-09,Bogotá,PUENTE ARANDA,34,F,En estudio,Casa,Moderado,16
+1125,2020-04-09,Bogotá,PUENTE ARANDA,32,F,Relacionado,Casa,Moderado,16
+1126,2020-04-09,Bogotá,PUENTE ARANDA,89,F,En estudio,Hospital,Severo,16
+1154,2020-04-09,Bogotá,PUENTE ARANDA,34,F,En estudio,Casa,Moderado,16
+1050,2020-04-09,Bogotá,RAFAEL URIBE URIBE,59,M,En estudio,Hospital,Severo,18
+1071,2020-04-09,Bogotá,RAFAEL URIBE URIBE,59,M,En estudio,Casa,Moderado,18
+1075,2020-04-09,Bogotá,RAFAEL URIBE URIBE,51,M,Importado,Casa,Moderado,18
+1114,2020-04-09,Bogotá,RAFAEL URIBE URIBE,23,M,Relacionado,Casa,Moderado,18
+1056,2020-04-09,Bogotá,SAN CRISTOBAL,60,F,En estudio,Hospital UCI,Crítico,04
+1069,2020-04-09,Bogotá,SAN CRISTOBAL,38,F,Importado,Casa,Moderado,04
+1077,2020-04-09,Bogotá,SAN CRISTOBAL,43,M,En estudio,Hospital,Severo,04
+1096,2020-04-09,Bogotá,SAN CRISTOBAL,27,F,En estudio,Casa,Moderado,04
+1123,2020-04-09,Bogotá,SAN CRISTOBAL,38,M,Relacionado,Casa,Moderado,04
+1158,2020-04-09,Bogotá,SAN CRISTOBAL,31,M,En estudio,Hospital,Severo,04
+1087,2020-04-09,Bogotá,SANTAFE,36,M,En estudio,Casa,Moderado,03
+1049,2020-04-09,Bogotá,SUBA,73,M,En estudio,Fallecido,Fallecido,11
+1051,2020-04-09,Bogotá,SUBA,82,F,En estudio,Casa,Moderado,11
+1055,2020-04-09,Bogotá,SUBA,73,F,En estudio,Casa,Moderado,11
+1058,2020-04-09,Bogotá,SUBA,66,M,En estudio,Casa,Moderado,11
+1067,2020-04-09,Bogotá,SUBA,44,F,En estudio,Hospital,Severo,11
+1082,2020-04-09,Bogotá,SUBA,53,M,Importado,Casa,Moderado,11
+1091,2020-04-09,Bogotá,SUBA,24,M,En estudio,Casa,Moderado,11
+1097,2020-04-09,Bogotá,SUBA,44,F,En estudio,Hospital UCI,Crítico,11
+1118,2020-04-09,Bogotá,SUBA,29,M,Importado,Casa,Moderado,11
+1128,2020-04-09,Bogotá,SUBA,70,M,En estudio,Hospital,Severo,11
+1134,2020-04-09,Bogotá,SUBA,49,M,En estudio,Casa,Moderado,11
+1139,2020-04-09,Bogotá,SUBA,47,M,Desconocido,Hospital,Severo,11
+1151,2020-04-09,Bogotá,SUBA,40,F,Relacionado,Hospital,Severo,11
+1156,2020-04-09,Bogotá,SUBA,67,F,En estudio,Hospital,Severo,11
+444,2020-04-09,Bogotá,TEUSAQUILLO,56,M,Relacionado,Casa,Moderado,13
+1057,2020-04-09,Bogotá,TEUSAQUILLO,60,F,Importado,Casa,Moderado,13
+1076,2020-04-09,Bogotá,TEUSAQUILLO,44,M,En estudio,Casa,Moderado,13
+1094,2020-04-09,Bogotá,TEUSAQUILLO,38,F,Importado,Casa,Moderado,13
+1098,2020-04-09,Bogotá,TEUSAQUILLO,2,M,En estudio,Casa,Moderado,13
+1131,2020-04-09,Bogotá,TEUSAQUILLO,33,F,En estudio,Casa,Moderado,13
+1037,2020-04-09,Bogotá,TUNJUELITO,26,M,Relacionado,Casa,Moderado,06
+1065,2020-04-09,Bogotá,TUNJUELITO,49,F,En estudio,Casa,Moderado,06
+1088,2020-04-09,Bogotá,TUNJUELITO,25,M,En estudio,Casa,Moderado,06
+1115,2020-04-09,Bogotá,TUNJUELITO,22,F,Relacionado,Casa,Moderado,06
+1119,2020-04-09,Bogotá,TUNJUELITO,86,F,En estudio,Casa,Moderado,06
+1124,2020-04-09,Bogotá,TUNJUELITO,64,M,En estudio,Hospital,Severo,06
+1034,2020-04-09,Bogotá,USAQUEN,29,M,Relacionado,Casa,Moderado,01
+1054,2020-04-09,Bogotá,USAQUEN,63,F,Importado,Casa,Moderado,01
+1062,2020-04-09,Bogotá,USAQUEN,65,F,Importado,Casa,Moderado,01
+1068,2020-04-09,Bogotá,USAQUEN,39,F,En estudio,Casa,Moderado,01
+1080,2020-04-09,Bogotá,USAQUEN,46,M,Importado,Casa,Moderado,01
+1086,2020-04-09,Bogotá,USAQUEN,60,M,En estudio,Casa,Moderado,01
+1089,2020-04-09,Bogotá,USAQUEN,39,M,En estudio,Casa,Moderado,01
+1092,2020-04-09,Bogotá,USAQUEN,55,F,En estudio,Casa,Moderado,01
+1093,2020-04-09,Bogotá,USAQUEN,23,F,En estudio,Casa,Moderado,01
+1095,2020-04-09,Bogotá,USAQUEN,33,M,En estudio,Casa,Moderado,01
+1132,2020-04-09,Bogotá,USME,37,M,Relacionado,Casa,Moderado,05
+1138,2020-04-09,Bogotá,USME,61,F,En estudio,Casa,Moderado,05
+1163,2020-04-10,Bogotá,BARRIOS UNIDOS,62,M,En estudio,Hospital UCI,Crítico,12
+1193,2020-04-10,Bogotá,BOSA,27,M,En estudio,Casa,Moderado,07
+1162,2020-04-10,Bogotá,CHAPINERO,31,M,Relacionado,Casa,Moderado,02
+1161,2020-04-10,Bogotá,CIUDAD BOLIVAR,90,F,En estudio,Hospital,Severo,19
+1059,2020-04-10,Fuera de Bogotá,FONTIBON,46,F,Importado,Casa,Moderado,09
+1160,2020-04-10,Fuera de Bogotá,FUERA DE BOGOTA,8,M,En estudio,Hospital,Severo,21
+1166,2020-04-11,Bogotá,CHAPINERO,48,M,En estudio,Casa,Moderado,02
+1165,2020-04-11,Bogotá,CIUDAD BOLIVAR,8,M,Relacionado,Casa,Moderado,19
+1262,2020-04-11,Bogotá,ENGATIVA,52,F,En estudio,Hospital,Severo,10
+1263,2020-04-11,Bogotá,ENGATIVA,79,F,En estudio,Hospital,Severo,10
+1260,2020-04-11,Bogotá,KENNEDY,36,F,En estudio,Casa,Moderado,08
+1261,2020-04-11,Bogotá,KENNEDY,30,F,En estudio,Casa,Moderado,08
+1164,2020-04-11,Bogotá,TEUSAQUILLO,45,F,En estudio,Casa,Moderado,13
+1167,2020-04-11,Fuera de Bogotá,TEUSAQUILLO,38,F,En estudio,Casa,Moderado,13
+1179,2020-04-12,Bogotá,BOSA,10,M,Relacionado,Casa,Moderado,07
+1192,2020-04-12,Bogotá,BOSA,36,F,En estudio,Casa,Moderado,07
+1178,2020-04-12,Bogotá,CHAPINERO,37,F,Relacionado,Casa,Moderado,02
+1173,2020-04-12,Bogotá,CIUDAD BOLIVAR,2,F,Relacionado,Casa,Moderado,19
+1177,2020-04-12,Bogotá,CIUDAD BOLIVAR,58,M,En estudio,Hospital,Severo,19
+1180,2020-04-12,Bogotá,CIUDAD BOLIVAR,55,F,En estudio,Casa,Moderado,19
+1188,2020-04-12,Bogotá,CIUDAD BOLIVAR,80,F,En estudio,Fallecido,Fallecido,19
+1233,2020-04-12,Bogotá,CIUDAD BOLIVAR,86,F,En estudio,Hospital,Severo,19
+1278,2020-04-12,Bogotá,CIUDAD BOLIVAR,37,M,En estudio,Hospital,Severo,19
+1168,2020-04-12,Bogotá,ENGATIVA,57,M,En estudio,Hospital,Severo,10
+1186,2020-04-12,Bogotá,ENGATIVA,35,M,Importado,Casa,Moderado,10
+1195,2020-04-12,Bogotá,ENGATIVA,53,M,En estudio,Hospital,Severo,10
+1198,2020-04-12,Bogotá,ENGATIVA,11,M,Relacionado,Casa,Moderado,10
+1265,2020-04-12,Bogotá,ENGATIVA,73,F,En estudio,Hospital,Severo,10
+1276,2020-04-12,Bogotá,ENGATIVA,77,M,En estudio,Hospital,Severo,10
+1169,2020-04-12,Bogotá,KENNEDY,34,F,En estudio,Hospital,Severo,08
+1170,2020-04-12,Bogotá,KENNEDY,18,M,En estudio,Hospital,Severo,08
+1171,2020-04-12,Bogotá,KENNEDY,73,M,En estudio,Hospital,Severo,08
+1189,2020-04-12,Bogotá,KENNEDY,62,F,En estudio,Hospital,Severo,08
+1196,2020-04-12,Bogotá,KENNEDY,54,M,En estudio,Hospital,Severo,08
+1197,2020-04-12,Bogotá,KENNEDY,45,M,En estudio,Hospital,Severo,08
+1230,2020-04-12,Bogotá,KENNEDY,43,M,En estudio,Hospital UCI,Crítico,08
+1232,2020-04-12,Bogotá,KENNEDY,68,F,En estudio,Hospital,Severo,08
+1181,2020-04-12,Bogotá,LOS MARTIRES,65,M,En estudio,Fallecido,Fallecido,14
+1175,2020-04-12,Bogotá,PUENTE ARANDA,49,M,En estudio,Hospital,Severo,16
+1182,2020-04-12,Bogotá,PUENTE ARANDA,74,M,En estudio,Hospital,Severo,16
+1184,2020-04-12,Bogotá,PUENTE ARANDA,80,F,En estudio,Casa,Moderado,16
+1231,2020-04-12,Bogotá,RAFAEL URIBE URIBE,85,F,En estudio,Hospital,Severo,18
+1275,2020-04-12,Bogotá,RAFAEL URIBE URIBE,79,M,En estudio,Casa,Moderado,18
+1176,2020-04-12,Bogotá,SUBA,76,F,En estudio,Hospital,Severo,11
+1174,2020-04-12,Bogotá,TEUSAQUILLO,66,M,En estudio,Hospital,Severo,13
+1190,2020-04-12,Bogotá,TUNJUELITO,33,M,En estudio,Hospital,Severo,06
+1194,2020-04-12,Bogotá,TUNJUELITO,37,M,En estudio,Hospital,Severo,06
+1172,2020-04-12,Bogotá,USAQUEN,66,M,En estudio,Hospital UCI,Crítico,01
+1183,2020-04-12,Bogotá,USAQUEN,56,M,Relacionado,Casa,Moderado,01
+1185,2020-04-12,Bogotá,USAQUEN,55,M,En estudio,Casa,Moderado,01
+1187,2020-04-12,Bogotá,USAQUEN,50,F,En estudio,Casa,Moderado,01
+1191,2020-04-12,Bogotá,USAQUEN,28,F,En estudio,Hospital,Severo,01
+1207,2020-04-13,Bogotá,BARRIOS UNIDOS,65,M,En estudio,Casa,Moderado,12
+1205,2020-04-13,Bogotá,BOSA,40,F,En estudio,Casa,Moderado,07
+1220,2020-04-13,Bogotá,BOSA,59,F,En estudio,Casa,Moderado,07
+1270,2020-04-13,Bogotá,BOSA,23,F,En estudio,Casa,Moderado,07
+1202,2020-04-13,Bogotá,CIUDAD BOLIVAR,51,M,En estudio,Hospital,Severo,19
+1219,2020-04-13,Bogotá,CIUDAD BOLIVAR,55,F,En estudio,Casa,Moderado,19
+1200,2020-04-13,Bogotá,ENGATIVA,40,F,En estudio,Casa,Moderado,10
+1214,2020-04-13,Bogotá,ENGATIVA,87,F,En estudio,Casa,Moderado,10
+1223,2020-04-13,Bogotá,ENGATIVA,24,M,En estudio,Casa,Moderado,10
+1227,2020-04-13,Bogotá,ENGATIVA,1,F,En estudio,Casa,Moderado,10
+1228,2020-04-13,Bogotá,ENGATIVA,57,F,En estudio,Casa,Moderado,10
+1266,2020-04-13,Bogotá,ENGATIVA,15,F,En estudio,Casa,Moderado,10
+1267,2020-04-13,Bogotá,ENGATIVA,13,M,En estudio,Casa,Moderado,10
+1271,2020-04-13,Bogotá,ENGATIVA,23,M,En estudio,Casa,Moderado,10
+1209,2020-04-13,Bogotá,FONTIBON,3,F,Relacionado,Casa,Moderado,09
+1213,2020-04-13,Bogotá,FONTIBON,21,M,En estudio,Casa,Moderado,09
+1268,2020-04-13,Bogotá,FONTIBON,74,F,En estudio,Casa,Moderado,09
+1277,2020-04-13,Bogotá,FONTIBON,46,M,En estudio,Casa,Moderado,09
+1206,2020-04-13,Fuera de Bogotá,FUERA DE BOGOTA,70,F,En estudio,Hospital,Severo,21
+1269,2020-04-13,Fuera de Bogotá,FUERA DE BOGOTA,63,M,En estudio,Casa,Moderado,21
+1273,2020-04-13,Fuera de Bogotá,FUERA DE BOGOTA,73,F,En estudio,Casa,Moderado,21
+1212,2020-04-13,Bogotá,KENNEDY,28,F,En estudio,Casa,Moderado,08
+1221,2020-04-13,Bogotá,KENNEDY,70,M,En estudio,Hospital,Severo,08
+1224,2020-04-13,Bogotá,KENNEDY,7,F,En estudio,Casa,Moderado,08
+1234,2020-04-13,Bogotá,KENNEDY,47,F,En estudio,Casa,Moderado,08
+1245,2020-04-13,Bogotá,KENNEDY,89,F,En estudio,Hospital UCI,Crítico,08
+1246,2020-04-13,Bogotá,KENNEDY,24,F,En estudio,Hospital,Severo,08
+1250,2020-04-13,Bogotá,KENNEDY,62,F,En estudio,Hospital,Severo,08
+1211,2020-04-13,Bogotá,LOS MARTIRES,23,M,Relacionado,Casa,Moderado,14
+1204,2020-04-13,Bogotá,PUENTE ARANDA,31,M,En estudio,Casa,Moderado,16
+1248,2020-04-13,Bogotá,PUENTE ARANDA,46,M,En estudio,Hospital,Severo,16
+1272,2020-04-13,Bogotá,PUENTE ARANDA,47,F,En estudio,Casa,Moderado,16
+1216,2020-04-13,Bogotá,RAFAEL URIBE URIBE,45,F,Importado,Casa,Moderado,18
+1249,2020-04-13,Bogotá,SAN CRISTOBAL,71,M,En estudio,Hospital,Severo,04
+1226,2020-04-13,Bogotá,SANTAFE,68,M,Importado,Casa,Moderado,03
+1274,2020-04-13,Bogotá,SANTAFE,77,M,En estudio,Casa,Moderado,03
+1201,2020-04-13,Bogotá,SUBA,43,F,En estudio,Casa,Moderado,11
+1203,2020-04-13,Bogotá,SUBA,59,F,En estudio,Hospital,Severo,11
+1222,2020-04-13,Bogotá,SUBA,39,M,Importado,Casa,Moderado,11
+1225,2020-04-13,Bogotá,SUBA,46,M,En estudio,Casa,Moderado,11
+1264,2020-04-13,Bogotá,SUBA,25,F,En estudio,Hospital,Severo,11
+1208,2020-04-13,Bogotá,TEUSAQUILLO,56,M,En estudio,Casa,Moderado,13
+1210,2020-04-13,Bogotá,TEUSAQUILLO,3,M,En estudio,Casa,Moderado,13
+1217,2020-04-13,Bogotá,TEUSAQUILLO,47,F,En estudio,Hospital,Severo,13
+1218,2020-04-13,Bogotá,TEUSAQUILLO,35,M,En estudio,Casa,Moderado,13
+1235,2020-04-13,Bogotá,TEUSAQUILLO,31,M,Relacionado,Casa,Moderado,13
+1236,2020-04-13,Bogotá,TEUSAQUILLO,45,M,Relacionado,Casa,Moderado,13
+1237,2020-04-13,Bogotá,TEUSAQUILLO,27,M,Relacionado,Casa,Moderado,13
+1238,2020-04-13,Bogotá,TEUSAQUILLO,59,M,Relacionado,Casa,Moderado,13
+1239,2020-04-13,Bogotá,TEUSAQUILLO,31,F,Relacionado,Casa,Moderado,13
+1240,2020-04-13,Bogotá,TEUSAQUILLO,52,M,Relacionado,Casa,Moderado,13
+1241,2020-04-13,Bogotá,TEUSAQUILLO,31,M,Relacionado,Casa,Moderado,13
+1242,2020-04-13,Bogotá,TEUSAQUILLO,56,M,Relacionado,Casa,Moderado,13
+1199,2020-04-13,Bogotá,TUNJUELITO,67,M,En estudio,Casa,Moderado,06
+1215,2020-04-13,Bogotá,USAQUEN,61,F,En estudio,Casa,Moderado,01
+1294,2020-04-14,,ANTONIO NARIÑO,74,F,En estudio,Casa,Moderado,15
+1279,2020-04-14,Bogotá,BOSA,30,M,En estudio,Casa,Moderado,07
+1300,2020-04-14,,BOSA,20,M,En estudio,Casa,Moderado,07
+1301,2020-04-14,,BOSA,36,F,En estudio,Casa,Moderado,07
+1309,2020-04-14,,BOSA,44,F,En estudio,Casa,Moderado,07
+1296,2020-04-14,,CHAPINERO,22,F,En estudio,Casa,Moderado,02
+1304,2020-04-14,,CHAPINERO,40,F,En estudio,Casa,Moderado,02
+1251,2020-04-14,Bogotá,CIUDAD BOLIVAR,70,F,En estudio,Casa,Moderado,19
+1252,2020-04-14,Bogotá,CIUDAD BOLIVAR,45,M,Relacionado,Casa,Moderado,19
+1253,2020-04-14,Bogotá,CIUDAD BOLIVAR,69,M,En estudio,Casa,Moderado,19
+1287,2020-04-14,Bogotá,CIUDAD BOLIVAR,33,F,En estudio,Casa,Moderado,19
+1306,2020-04-14,,CIUDAD BOLIVAR,37,F,En estudio,Hospital,Severo,19
+1288,2020-04-14,Bogotá,ENGATIVA,27,F,En estudio,Casa,Moderado,10
+1302,2020-04-14,,ENGATIVA,38,F,En estudio,Casa,Moderado,10
+1303,2020-04-14,,ENGATIVA,25,M,En estudio,Casa,Moderado,10
+1254,2020-04-14,Bogotá,KENNEDY,50,M,En estudio,Hospital,Severo,08
+1255,2020-04-14,Bogotá,KENNEDY,56,M,En estudio,Hospital,Severo,08
+1281,2020-04-14,Bogotá,KENNEDY,25,F,En estudio,Hospital,Severo,08
+1299,2020-04-14,,KENNEDY,22,M,En estudio,Casa,Moderado,08
+1308,2020-04-14,,KENNEDY,40,F,En estudio,Casa,Moderado,08
+1290,2020-04-14,Bogotá,PUENTE ARANDA,22,M,En estudio,Casa,Moderado,16
+1292,2020-04-14,Bogotá,PUENTE ARANDA,26,F,En estudio,Casa,Moderado,16
+1295,2020-04-14,,RAFAEL URIBE URIBE,40,M,En estudio,Casa,Moderado,18
+1297,2020-04-14,,RAFAEL URIBE URIBE,30,F,En estudio,Casa,Moderado,18
+1298,2020-04-14,,RAFAEL URIBE URIBE,25,F,En estudio,Casa,Moderado,18
+1307,2020-04-14,,RAFAEL URIBE URIBE,47,M,En estudio,Casa,Moderado,18
+1256,2020-04-14,Bogotá,SAN CRISTOBAL,34,M,En estudio,Hospital,Severo,04
+1286,2020-04-14,Bogotá,SAN CRISTOBAL,61,M,En estudio,Casa,Moderado,04
+1283,2020-04-14,Bogotá,SUBA,30,F,En estudio,Casa,Moderado,11
+1330,2020-04-14,,SUBA,72,F,En estudio,Casa,Moderado,11
+710,2020-04-14,Bogotá,TEUSAQUILLO,21,F,En estudio,Casa,Moderado,13
+1284,2020-04-14,Bogotá,TEUSAQUILLO,60,M,En estudio,Casa,Moderado,13
+1331,2020-04-14,,TUNJUELITO,12,F,En estudio,Casa,Moderado,06
+1285,2020-04-14,Bogotá,USAQUEN,53,M,En estudio,Casa,Moderado,01
+1083,2020-04-14,Bogotá,USME,45,M,En estudio,Hospital,Severo,05
+1305,2020-04-14,,USME,31,F,En estudio,Casa,Moderado,05
+1312,2020-04-15,,BOSA,72,F,En estudio,Casa,Moderado,07
+1313,2020-04-15,,BOSA,46,F,relacionado,Casa,Moderado,07
+1314,2020-04-15,,BOSA,30,M,relacionado,Casa,Moderado,07
+1315,2020-04-15,,BOSA,27,F,relacionado,Casa,Moderado,07
+1327,2020-04-15,,BOSA,43,F,En estudio,Casa,Moderado,07
+1310,2020-04-15,,CHAPINERO,31,F,En estudio,Casa,Moderado,02
+1280,2020-04-15,Bogotá,ENGATIVA,51,F,En estudio,Hospital,Severo,10
+1293,2020-04-15,Fuera de Bogotá,FUERA DE BOGOTA,32,F,En estudio,Casa,Moderado,21
+1291,2020-04-15,Bogotá,KENNEDY,77,M,En estudio,Hospital,Severo,08
+1316,2020-04-15,,KENNEDY,80,F,En estudio,Casa,Moderado,08
+1320,2020-04-15,,KENNEDY,57,M,relacionado,Casa,Moderado,08
+1324,2020-04-15,,KENNEDY,38,F,En estudio,Casa,Moderado,08
+1282,2020-04-15,Bogotá,PUENTE ARANDA,58,M,En estudio,Casa,Moderado,16
+597,2020-04-15,Bogotá,SUBA,23,F,En estudio,Casa,Moderado,11
+1325,2020-04-15,,SUBA,39,F,En estudio,Casa,Moderado,11
+1329,2020-04-15,,SUBA,52,F,En estudio,Casa,Moderado,11
+1229,2020-04-15,Bogotá,TEUSAQUILLO,30,M,En estudio,Casa,Moderado,13
+1289,2020-04-15,Bogotá,TEUSAQUILLO,72,F,En estudio,Hospital UCI,Crítico,13
+1332,2020-04-15,,TEUSAQUILLO,28,F,En estudio,Casa,Moderado,13
+1333,2020-04-15,,TEUSAQUILLO,55,M,En estudio,Casa,Moderado,13
+1317,2020-04-15,,TUNJUELITO,53,F,relacionado,Casa,Moderado,06
+1318,2020-04-15,,TUNJUELITO,2,F,En estudio,Casa,Moderado,06
+1319,2020-04-15,,TUNJUELITO,24,F,En estudio,Casa,Moderado,06
+1328,2020-04-15,,TUNJUELITO,63,M,En estudio,Hospital,Severo,06
+1311,2020-04-15,,USAQUEN,36,F,En estudio,Casa,Moderado,01
+1321,2020-04-15,,USAQUEN,43,F,relacionado,Casa,Moderado,01
+1322,2020-04-15,,USAQUEN,15,F,relacionado,Casa,Moderado,01
+1323,2020-04-15,,USAQUEN,13,F,relacionado,Casa,Moderado,01
+1326,2020-04-15,,USAQUEN,69,M,En estudio,Hospital,Severo,01
