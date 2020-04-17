@@ -59,12 +59,10 @@ filename = (str(ruta) + '/Casos Coronavirus/Casos_Coronavirus-Bogotá.csv')
 Casos_T.to_csv(filename, index= False)
 
 #--------------------------------------------------------------------------------------------------------------------------
-##SE ORGANIZAN LOS DATOS DE MANERA TEMPORAL PARA CADA UNA DE LAS LOCALIDADES, PARA ASÍ PODER CONSTRUIR GRAFICAS EVOLUTIVAS
+##SE ORGANIZAN LOS DATOS DE MANERA TEMPORAL PARA CADA UNA DE LAS LOCALIDADES, PARA CONSTRUIR GRÁFICAS EVOLUTIVAS
 #--------------------------------------------------------------------------------------------------------------------------
 
-Casos_Loc = pd.DataFrame(Casos_T['Localidad de residencia'])
-Casos_Loc['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico']
-Casos_Loc['Sexo'] = Casos_T['Sexo']
+Casos_Loc=Casos_T[['Localidad de residencia', 'Fecha de diagnóstico', 'Sexo']]
 Casos_Loc = pd.DataFrame(Casos_Loc.pivot_table(index=['Fecha de diagnóstico'], columns=['Localidad de residencia'], aggfunc='count'))
 Casos_Loc = Casos_Loc.fillna(0)
 Casos_Loc2 = Casos_Loc.reset_index()
@@ -86,15 +84,17 @@ Temporal['Fecha de diagnóstico']=Casos_Loc2[('Fecha de diagnóstico', '')]
 
 for a in range(0,len(Columns)):
     Temporal[New_Columns.loc[a,0]]=Casos_Loc2[Columns.loc[a,0]]
+    
 Temporal = Temporal.drop(1, axis = 1)
-#Temporal['Fecha de diagnóstico']=Temporal['Fecha de diagnóstico'].astype(str)
 Temporal = Temporal.set_index(Temporal['Fecha de diagnóstico'])
 
 MinFecha=min(Temporal['Fecha de diagnóstico'])
 MaxFecha=max(Temporal['Fecha de diagnóstico'])
+
 FechaIndex=pd.DataFrame(pd.date_range(start=MinFecha, end=MaxFecha, freq='D'))
 FechaIndex=FechaIndex.rename(columns={0:'Fecha'})
 FechaIndex=pd.to_datetime(FechaIndex['Fecha'])
+
 Temporal = Temporal.reindex(FechaIndex)
 Temporal = Temporal.drop('Fecha de diagnóstico', axis = 1)
 Temporal = Temporal.fillna(method='ffill')
@@ -104,3 +104,51 @@ filename_2 = (str(ruta) + '\Histórico por Localidad\Localidad_Coronavirus.csv')
 Temporal.to_csv(filename_2)
 
 #--------------------------------------------------------------------------------------------------------------------------
+##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS
+#--------------------------------------------------------------------------------------------------------------------------
+
+df=pd.DataFrame(columns=('Localidad de residencia', 'F 0 - 9 Años', 'F 10 - 19 Años', 'F 20 - 29 Años', 'F 30 - 39 Años', 
+                         'F 40 - 49 Años', 'F 50 - 59 Años','F 60 - 69 Años','F 70 - 79 Años','F 80 - 89 Años',
+                         'F 90 - 99 Años','M 0 - 9 Años', 'M 10 - 19 Años', 'M 20 - 29 Años', 'M 30 - 39 Años', 
+                         'M 40 - 49 Años', 'M 50 - 59 Años','M 60 - 69 Años','M 70 - 79 Años','M 80 - 89 Años',
+                         'M 90 - 99 Años', 'Total M','Total F', ))
+rango_a=0
+rango_b=9
+H=0
+M=0
+ind = 0
+
+for l in New_Columns[0]:
+    print(l)
+    df.loc[ind,'Localidad de residencia']=l
+    
+    for g in Casos_T['Sexo'].unique():
+        print(g)
+        
+        while rango_b <= max(Casos_T['Edad']+10):
+            print(str(rango_a) +' - '+str(rango_b))
+            df.loc[ind, str(str(g) +' '+ str(rango_a)+' - '+str(rango_b)+' Años')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
+                            (Casos_T['Sexo'] == g) & (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
+            rango_a = rango_a+10
+            rango_b = rango_b+10
+        rango_a=0
+        rango_b=9
+        
+    ind = ind+1
+
+df['Total M'] = df.iloc[:,11:-3].sum(axis=1)
+df['Total F'] = df.iloc[:,1:10].sum(axis=1)
+df['TOTAL'] = df.iloc[:,[-2,-1]].sum(axis=1)
+
+filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios.csv')
+df.to_csv(filename_3)
+
+#--------------------------------------------------------------------------------------------------------------------------
+##SE TOTALIZAN LOS DATOS POR GENERO, EDAD Y LOCALIDAD PARA PASARLOS AL SHAPEFILE
+#--------------------------------------------------------------------------------------------------------------------------
+
+#Filtro_2 = Casos_T[['Localidad de residencia', 'Sexo', 'Edad']]
+#
+#ShpData = Temporal.reset_index()
+#ShpData = ShpData.rename(columns={'index':'Localidad', MaxFecha : 'Total'})
+#ShpData = ShpData.iloc[:, [0,-1]]
