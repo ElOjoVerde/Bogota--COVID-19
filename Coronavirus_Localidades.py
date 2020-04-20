@@ -12,7 +12,7 @@ import numpy as np
 
 #--------------------------------------------------------------------------------------------------------------------------
 
-ruta = 'J:\Documents\GIT\Bogot----COVID-19' ##Ruta donde este guardado el GIT
+ruta = 'J:/Documents/GIT/Bogot----COVID-19' ##Ruta donde este guardado el GIT
 
 #--------------------------------------------------------------------------------------------------------------------------
 #LECTURA DE DATOS DESDE EL LINK
@@ -32,11 +32,15 @@ Casos_T = Casos_T[:-3] #ELIMINA LAS 3 ULTIMAS LINEAS
 #--------------------------------------------------------------------------------------------------------------------------
 
 #SE DEFINEN EL TIPO DE DATOS DE LAS COLUMNAS
+Casos_T['Edad']=Casos_T['Edad'].fillna(9999)
+Inciertos = Casos_T[(Casos_T['Fecha de diagnóstico']=='INS')|(Casos_T['Edad']==9999)]
+Casos_T = Casos_T.drop(Casos_T[Casos_T['Edad'] == 9999].index)
+Casos_T = Casos_T.drop(Casos_T[Casos_T['Fecha de diagnóstico'] == 'INS'].index)
+
 Casos_T['ID de caso']=Casos_T['ID de caso'].astype('int')
 Casos_T['Edad']=Casos_T['Edad'].astype('int')
 Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(" ", "")
-Inciertos = Casos_T[Casos_T['Fecha de diagnóstico']=='INS']
-Casos_T = Casos_T.drop(Casos_T[Casos_T['Fecha de diagnóstico'] == 'INS'].index)
+Inciertos = Casos_T[(Casos_T['Fecha de diagnóstico']=='INS')|(Casos_T['Edad']==9999)]
 Casos_T['Fecha de diagnóstico'] =  pd.to_datetime(Casos_T['Fecha de diagnóstico'],format='%d/%m/%Y')
 Casos_T['LocCodigo'], Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.split(' - ', 1).str
 
@@ -49,6 +53,8 @@ Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.repl
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Í", "I")
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Ó", "O")
 Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"Ú", "U")
+Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"SANTAFE", "SANTA FE")
+Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.replace(u"LA CANDELARIA", "CANDELARIA")
 
 #--------------------------------------------------------------------------------------------------------------------------
 
@@ -104,14 +110,15 @@ filename_2 = (str(ruta) + '\Histórico por Localidad\Localidad_Coronavirus.csv')
 Temporal.to_csv(filename_2)
 
 #--------------------------------------------------------------------------------------------------------------------------
-##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS
+##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS Y GENERO
 #--------------------------------------------------------------------------------------------------------------------------
 
-df=pd.DataFrame(columns=('Localidad de residencia', 'F 0 - 9 Años', 'F 10 - 19 Años', 'F 20 - 29 Años', 'F 30 - 39 Años', 
-                         'F 40 - 49 Años', 'F 50 - 59 Años','F 60 - 69 Años','F 70 - 79 Años','F 80 - 89 Años',
-                         'F 90 - 99 Años','M 0 - 9 Años', 'M 10 - 19 Años', 'M 20 - 29 Años', 'M 30 - 39 Años', 
-                         'M 40 - 49 Años', 'M 50 - 59 Años','M 60 - 69 Años','M 70 - 79 Años','M 80 - 89 Años',
-                         'M 90 - 99 Años', 'Total M','Total F', ))
+df=pd.DataFrame(columns=('Localidad de residencia', 'Años F 0_9', 'Años F 10_19', 'Años F 20_29', 'Años F 30_39', 
+                         'Años F 40_49', 'Años F 50_59','Años F 60_69','Años F 70_79','Años F 80_89',
+                         'Años F 90_99','Años F >100', 'Años M 0_9', 'Años M 10_19', 'Años M 20_29', 'Años M 30_39', 
+                         'Años M 40_49', 'Años M 50_59','Años M 60_69','Años M 70_79','Años M 80_89',
+                         'Años M 90_99', 'Años M >100'))
+df = df.iloc[:,1:-1].astype(int)
 rango_a=0
 rango_b=9
 H=0
@@ -119,36 +126,87 @@ M=0
 ind = 0
 
 for l in New_Columns[0]:
-    print(l)
     df.loc[ind,'Localidad de residencia']=l
     
     for g in Casos_T['Sexo'].unique():
-        print(g)
         
         while rango_b <= max(Casos_T['Edad']+10):
-            print(str(rango_a) +' - '+str(rango_b))
-            df.loc[ind, str(str(g) +' '+ str(rango_a)+' - '+str(rango_b)+' Años')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
-                            (Casos_T['Sexo'] == g) & (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
+            if rango_b < 100:
+                print('holi')
+                df.loc[ind, str('Años '+str(g)+' '+str(rango_a)+'_'+str(rango_b))]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
+                                (Casos_T['Sexo'] == g) & (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
+            else:
+                print('chao')
+                df.loc[ind, str('Años ' + str(g) + ' >100')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & (Casos_T['Edad']>=100) &
+                                (Casos_T['Sexo'] == g)])
             rango_a = rango_a+10
             rango_b = rango_b+10
         rango_a=0
         rango_b=9
-        
+            
     ind = ind+1
-
-df['Total M'] = df.iloc[:,11:-3].sum(axis=1)
-df['Total F'] = df.iloc[:,1:10].sum(axis=1)
+df=df[['Localidad de residencia', 'Años F 0_9', 'Años F 10_19', 'Años F 20_29', 'Años F 30_39', 
+                         'Años F 40_49', 'Años F 50_59','Años F 60_69','Años F 70_79','Años F 80_89',
+                         'Años F 90_99','Años F >100', 'Años M 0_9', 'Años M 10_19', 'Años M 20_29', 'Años M 30_39', 
+                         'Años M 40_49', 'Años M 50_59','Años M 60_69','Años M 70_79','Años M 80_89',
+                         'Años M 90_99', 'Años M >100']]
+df['Total_M'] = df.iloc[:,12:-1].sum(axis=1)
+df['Total_F'] = df.iloc[:,1:12].sum(axis=1)
 df['TOTAL'] = df.iloc[:,[-2,-1]].sum(axis=1)
 
-filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios.csv')
+filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios_Genero.csv')
 df.to_csv(filename_3)
+
+#--------------------------------------------------------------------------------------------------------------------------
+##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS
+#--------------------------------------------------------------------------------------------------------------------------
+
+df2=pd.DataFrame(columns=('Localidad de residencia', 'Años 0_9', 'Años 10_19', 'Años 20_29', 'Años 30_39', 
+                         'Años 40_49', 'Años 50_59','Años 60_69','Años 70_79','Años 80_89',
+                         'Años 90_99', 'Años>100'))
+
+df2 = df2.iloc[:,1:-1].astype(int)
+rango_a=0
+rango_b=9
+H=0
+M=0
+ind = 0
+
+for l in New_Columns[0]:
+    df2.loc[ind,'Localidad de residencia']=l
+    while rango_b <= max(Casos_T['Edad']+10):
+        if rango_b < 100:
+            df2.loc[ind, str('Años '+str(rango_a)+'_'+str(rango_b))]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
+                        (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
+        else:
+            df2.loc[ind, str('Años>100')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & (Casos_T['Edad']>=100)])
+        rango_a = rango_a+10
+        rango_b = rango_b+10
+    rango_a=0
+    rango_b=9
+        
+    ind = ind+1
+df2=df2[['Localidad de residencia', 'Años 0_9', 'Años 10_19', 'Años 20_29', 'Años 30_39', 
+                         'Años 40_49', 'Años 50_59','Años 60_69','Años 70_79','Años 80_89',
+                         'Años 90_99', 'Años>100']]
+df2['Total'] = df2.iloc[:,1:12].sum(axis=1)
+df2['Total_M'] = df['Total_M']
+df2['Total_F'] = df['Total_F']
+
+filename_4 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios.csv')
+df2.to_csv(filename_3)
 
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE TOTALIZAN LOS DATOS POR GENERO, EDAD Y LOCALIDAD PARA PASARLOS AL SHAPEFILE
 #--------------------------------------------------------------------------------------------------------------------------
 
-#Filtro_2 = Casos_T[['Localidad de residencia', 'Sexo', 'Edad']]
-#
-#ShpData = Temporal.reset_index()
-#ShpData = ShpData.rename(columns={'index':'Localidad', MaxFecha : 'Total'})
-#ShpData = ShpData.iloc[:, [0,-1]]
+import geopandas as gpd
+
+Localidades_SHP = gpd.read_file(str(ruta) + "/shp localidades/Origen/Loca.shp")
+Localidades_SHP = Localidades_SHP.merge(right=df2, how='left', left_on='LocNombre', right_on='Localidad de residencia').drop('Localidad de residencia', axis=1)
+Localidades_SHP = Localidades_SHP[['LocNombre', 'LocAAdmini',  'LocCodigo', 'Años 0_9', 'Años 10_19','Años 20_29','Años 30_39','Años 40_49',
+                                   'Años 50_59','Años 60_69','Años 70_79','Años 80_89','Años 90_99', 'Años>100', 'Total_M', 'Total_F', 'Total', 
+                                   'LocArea','SHAPE_Leng', 'SHAPE_Area', 'geometry']]
+Localidades_SHP.to_file(str(ruta) + '/shp localidades/Resultados/GeoJSON/Localidades_Coronavirus.json', 'GeoJSON', encoding = 'utf-8')
+Localidades_SHP = gpd.read_file(str(ruta) + '/shp localidades/Resultados/GeoJSON/Localidades_Coronavirus.json')
+Localidades_SHP.to_file(str(ruta) + '/shp localidades/Resultados/ShapeFile/Localidades_Coronavirus.shp', encoding = 'utf-8')
