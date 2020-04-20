@@ -132,11 +132,9 @@ for l in New_Columns[0]:
         
         while rango_b <= max(Casos_T['Edad']+10):
             if rango_b < 100:
-                print('holi')
                 df.loc[ind, str('Años '+str(g)+' '+str(rango_a)+'_'+str(rango_b))]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
                                 (Casos_T['Sexo'] == g) & (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
             else:
-                print('chao')
                 df.loc[ind, str('Años ' + str(g) + ' >100')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & (Casos_T['Edad']>=100) &
                                 (Casos_T['Sexo'] == g)])
             rango_a = rango_a+10
@@ -150,7 +148,7 @@ df=df[['Localidad de residencia', 'Años F 0_9', 'Años F 10_19', 'Años F 20_29
                          'Años F 90_99','Años F >100', 'Años M 0_9', 'Años M 10_19', 'Años M 20_29', 'Años M 30_39', 
                          'Años M 40_49', 'Años M 50_59','Años M 60_69','Años M 70_79','Años M 80_89',
                          'Años M 90_99', 'Años M >100']]
-df['Total_M'] = df.iloc[:,12:-1].sum(axis=1)
+df['Total_M'] = df.iloc[:,12:23].sum(axis=1)
 df['Total_F'] = df.iloc[:,1:12].sum(axis=1)
 df['TOTAL'] = df.iloc[:,[-2,-1]].sum(axis=1)
 
