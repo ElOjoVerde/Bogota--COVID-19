@@ -105,9 +105,11 @@ Temporal = Temporal.reindex(FechaIndex)
 Temporal = Temporal.drop('Fecha de diagnóstico', axis = 1)
 Temporal = Temporal.fillna(method='ffill')
 Temporal = Temporal.T
+Temporal = Temporal.reset_index()
+Temporal = Temporal.rename(columns={'index':'Localidad'})
 
-filename_2 = (str(ruta) + '\Histórico por Localidad\Localidad_Coronavirus.csv')
-Temporal.to_csv(filename_2)
+filename_2 = (str(ruta) + '\Histórico por Localidad\Infectados_Localidad.csv')
+Temporal.to_csv(filename_2, index=False)
 
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS Y GENERO
@@ -153,7 +155,7 @@ df['Total_F'] = df.iloc[:,1:12].sum(axis=1)
 df['TOTAL'] = df.iloc[:,[-2,-1]].sum(axis=1)
 
 filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios_Sexo.csv')
-df.to_csv(filename_3)
+df.to_csv(filename_3, index = False)
 
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE TOTALIZAN LOS DATOS POR GRUPOS ETARIOS
@@ -194,7 +196,7 @@ df2['Total_M'] = df['Total_M']
 df2['Total_F'] = df['Total_F']
 
 filename_4 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios.csv')
-df2.to_csv(filename_4)
+df2.to_csv(filename_4, index = False)
 
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE TOTALIZAN LOS DATOS POR GENERO, EDAD Y LOCALIDAD PARA PASARLOS AL SHAPEFILE
