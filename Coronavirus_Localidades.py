@@ -152,7 +152,7 @@ df['Total_M'] = df.iloc[:,12:23].sum(axis=1)
 df['Total_F'] = df.iloc[:,1:12].sum(axis=1)
 df['TOTAL'] = df.iloc[:,[-2,-1]].sum(axis=1)
 
-filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios_Genero.csv')
+filename_3 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios_Sexo.csv')
 df.to_csv(filename_3)
 
 #--------------------------------------------------------------------------------------------------------------------------
@@ -194,7 +194,7 @@ df2['Total_M'] = df['Total_M']
 df2['Total_F'] = df['Total_F']
 
 filename_4 = (str(ruta) + '/Casos Coronavirus/Grupos_Etarios.csv')
-df2.to_csv(filename_3)
+df2.to_csv(filename_4)
 
 #--------------------------------------------------------------------------------------------------------------------------
 ##SE TOTALIZAN LOS DATOS POR GENERO, EDAD Y LOCALIDAD PARA PASARLOS AL SHAPEFILE
