@@ -176,6 +176,8 @@ for l in New_Columns[0]:
         if rango_b < 100:
             df2.loc[ind, str('Años '+str(rango_a)+'_'+str(rango_b))]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & 
                         (Casos_T['Edad']>=rango_a) & (Casos_T['Edad']<=rango_b)])
+            df2.loc[ind, 'Fallecidos'] = len(Casos_T[(Casos_T['Localidad de residencia'] == l) & (Casos_T['Estado']=='Fallecido')])
+            
         else:
             df2.loc[ind, str('Años>100')]=len(Casos_T[(Casos_T['Localidad de residencia'] == l) & (Casos_T['Edad']>=100)])
         rango_a = rango_a+10
@@ -186,7 +188,7 @@ for l in New_Columns[0]:
     ind = ind+1
 df2=df2[['Localidad de residencia', 'Años 0_9', 'Años 10_19', 'Años 20_29', 'Años 30_39', 
                          'Años 40_49', 'Años 50_59','Años 60_69','Años 70_79','Años 80_89',
-                         'Años 90_99', 'Años>100']]
+                         'Años 90_99', 'Años>100', 'Fallecidos']]
 df2['Total'] = df2.iloc[:,1:12].sum(axis=1)
 df2['Total_M'] = df['Total_M']
 df2['Total_F'] = df['Total_F']
@@ -203,7 +205,7 @@ import geopandas as gpd
 Localidades_SHP = gpd.read_file(str(ruta) + "/shp localidades/Origen/Loca.shp")
 Localidades_SHP = Localidades_SHP.merge(right=df2, how='left', left_on='LocNombre', right_on='Localidad de residencia').drop('Localidad de residencia', axis=1)
 Localidades_SHP = Localidades_SHP[['LocNombre', 'LocAAdmini',  'LocCodigo', 'Años 0_9', 'Años 10_19','Años 20_29','Años 30_39','Años 40_49',
-                                   'Años 50_59','Años 60_69','Años 70_79','Años 80_89','Años 90_99', 'Años>100', 'Total_M', 'Total_F', 'Total', 
+                                   'Años 50_59','Años 60_69','Años 70_79','Años 80_89','Años 90_99', 'Años>100', 'Fallecidos','Total_M', 'Total_F', 'Total', 
                                    'LocArea','SHAPE_Leng', 'SHAPE_Area', 'geometry']]
 Localidades_SHP.to_file(str(ruta) + '/shp localidades/Resultados/GeoJSON/Localidades_Coronavirus.json', 'GeoJSON', encoding = 'utf-8')
 Localidades_SHP = gpd.read_file(str(ruta) + '/shp localidades/Resultados/GeoJSON/Localidades_Coronavirus.json')
