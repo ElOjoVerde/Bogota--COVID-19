@@ -42,7 +42,7 @@ Casos_T['Edad']=Casos_T['Edad'].astype('int')
 Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(" ", "")
 Inciertos = Casos_T[(Casos_T['Fecha de diagnóstico']=='INS')|(Casos_T['Edad']==9999)]
 Casos_T['Fecha de diagnóstico'] =  pd.to_datetime(Casos_T['Fecha de diagnóstico'],format='%d/%m/%Y')
-Casos_T['LocCodigo'], Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.split(' - ', 1).str
+#Casos_T['LocCodigo'], Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.split(' - ', 1).str
 
 #--------------------------------------------------------------------------------------------------------------------------
 
@@ -104,6 +104,7 @@ FechaIndex=pd.to_datetime(FechaIndex['Fecha'])
 Temporal = Temporal.reindex(FechaIndex)
 Temporal = Temporal.drop('Fecha de diagnóstico', axis = 1)
 Temporal = Temporal.fillna(method='ffill')
+Temporal['TOTAL'] = Temporal.iloc[:,0:21].sum(axis=1)
 Temporal = Temporal.T
 Temporal = Temporal.reset_index()
 Temporal = Temporal.rename(columns={'index':'Localidad'})
