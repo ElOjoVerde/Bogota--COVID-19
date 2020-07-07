@@ -41,7 +41,7 @@ Casos_T['ID de caso']=Casos_T['ID de caso'].astype('int')
 Casos_T['Edad']=Casos_T['Edad'].astype('int')
 #Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(" ", "")
 Inciertos = Casos_T[(Casos_T['Fecha de diagnóstico']=='INS')|(Casos_T['Edad']==9999)]
-Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(u"/20", "/2020")
+# Casos_T['Fecha de diagnóstico'] = Casos_T['Fecha de diagnóstico'].str.replace(u"/20", "/2020")
 Casos_T['Fecha de diagnóstico'] =  pd.to_datetime(Casos_T['Fecha de diagnóstico'],format='%d/%m/%Y')
 #Casos_T['LocCodigo'], Casos_T['Localidad de residencia'] = Casos_T['Localidad de residencia'].str.split(' - ', 1).str
 
